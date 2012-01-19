@@ -25,6 +25,7 @@ admin.site.register(PaperAuthor, PaperAuthorAdmin)
 class ArticleOrderedAuthorListingAdmin(admin.ModelAdmin):
     save_on_top = True
     list_display=('article', 'author', 'sort_order', )
+    list_filter = ('author', )
     search_fields = ['author__last_name', 'author__first_name', 'article__title']
 admin.site.register(ArticleOrderedAuthorListing, ArticleOrderedAuthorListingAdmin)
 
@@ -39,7 +40,7 @@ class JournalArticleAdmin(admin.ModelAdmin):
     inlines = (ArticleOrderedAuthorListingInline,)
     list_display=('title', 'journal',  'year_of_publication', 'pubmed_link', 'volume', 'issue',  'is_abstract_public', 'is_pdf_public')
     list_filter=['is_abstract_public', 'is_pdf_public','tags', 'journal', 'year_of_publication',  ]
-    search_fields = ['title', 'journal__name', 'abstract', 'authors_text', 'notes',]
+    search_fields = ['title', 'journal__name', 'abstract', 'author_text', 'notes',]
     filter_horizontal = ('tags',)
     readonly_fields = ('pubmed_link', 'line_listing', 'author_text')
     fieldsets = (
