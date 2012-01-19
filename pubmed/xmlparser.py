@@ -73,5 +73,5 @@ class Xml2Obj(object):
 if __name__ == '__main__':
     parser = Xml2Obj()
     root_element = parser.Parse(open('samples/article_001.xml').read())
-    root_element.getElements('PubmedArticle')s    
+    root_element.getElements('PubmedArticle')
 
