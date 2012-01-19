@@ -1,0 +1,21 @@
+{% if ERR_author_not_found %}
+<div class="err_box">Sorry!  The author was not found.</div>
+{% endif %}
+
+{% if not ERR_author_not_found %}
+	{% if papers.count > 0 %}
+		<p>{{ papers.count }} paper{{ papers.count|pluralize }} found for <b>{{ author.fmt_fullname_lname_first }}</b></p>
+		<p><b>Selected Publications</b> &nbsp; <i>(Note: "pubmed" links open a new window)</i></p>
+	 	<ul style="list-style-type:none; margin:0; padding:0;">
+		{% for p in papers %}
+			<li style="margin:15px 0;">{% for a in p.article.get_author_listing %}{% spaceless %}
+				{% ifequal a.author author%}<b>{{ a.author.fmt_for_listing }}</b>{% else %}{{ a.author.fmt_for_listing }}{% endifequal %}{% if not forloop.last %}, &nbsp;{% else %} {% endif %}
+			{% endspaceless %}{% endfor %} ({{ p.article.year_of_publication }}) {{ p.article.title }} <i>{{ p.article.journal }}</i>, 
+			{{ p.article.volume }}{% if p.article.issue %}({{ p.article.issue }}){% endif %}: {{ p.article.page }} {{ p.article.pubmed_link|safe }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+	<div class="info_box">Sorry!  No papers were found for <b>{{ author.fmt_fullname_lname_first }}</b>.</div>
+	{% endif %}
+{% endif %}
+	

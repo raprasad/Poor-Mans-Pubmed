@@ -49,6 +49,15 @@ class PaperAuthor(models.Model):
     is_local_pi = models.BooleanField('is local principal investigator?', default=False)
     id_hash = models.CharField(max_length=40, blank=True)
     
+    def get_absolute_url(self):
+        if self.id is None:
+            return ''
+        return reverse('view_papers_by_author'\
+                        , kwargs={ 'author_slug':self.slug, 'id_hash':self.id_hash}\
+                      ) 
+            
+        return 
+    
     def fmt_fullname_lname_first(self):
         if self.mi:
             return '%s, %s %s' %  (self.last_name, self.first_name, self.mi)
@@ -133,9 +142,6 @@ class JournalArticle(models.Model):
     
     def __unicode__(self):
         return '%s - %s '  % (self.title, self.journal)
-
-    #def get_absolute_url(self):
-    #    return reverse('show_single_recipe', kwargs={ 'recipe_slug':self.slug}) 
     
     class Meta:
         ordering = ('title', )
