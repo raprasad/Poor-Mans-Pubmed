@@ -1,0 +1,6 @@
+{{ xja }}
+
+{% for a in ja.get_author_listing %}{% spaceless %}
+	{{ a.author.fmt_for_listing }}{% if not forloop.last %}, {% else %} {% endif %}
+{% endspaceless %}{% endfor %} ({{ ja.year_of_publication }}) {{ ja.title }} <i>{{ ja.journal }}</i>, 
+{{ ja.volume }}{% if ja.issue %}({{ ja.issue }}){% endif %}: {{ ja.page }} {{ ja.pubmed_link|safe }}

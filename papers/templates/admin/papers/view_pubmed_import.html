@@ -1,0 +1,32 @@
+{% extends "admin/base_site.html" %}
+
+{% block title %}PubMed Import Form{% endblock %}
+{% block breadcrumbs %}{% endblock %}
+
+{% block content %}
+<div id="content-main">
+<a href="{% url admin:papers_journalarticle_changelist %}">&gt; back to Article List</a>
+<br />&nbsp;    
+  <h1>PubMed Import Form</h1>
+    <p>Please enter a PubMed ID (digits only) to import an article.</p>
+	<p>(Open <a href="http://www.ncbi.nlm.nih.gov/pubmed/" target="pubmed">pubmed search page</a> in separate window.)
+	</p>
+
+	{% if ERR_IMPORT %}
+	<div style="border:2px solid #ff0000; padding:10px; width:400px;">Sorry!  The import failed</div>
+	{% endif %}
+	
+	{% if MSG_IMPORT_SUCCESS %}
+	<div style="border:2px solid #81a66b;padding:10px; width:400px;">Success!  
+		<p>Article "<b>{{ article.title }}</b>" was imported</p>
+		<p><a href="{% url admin:papers_journalarticle_change article.id %}">view article</a></p>
+	</div>
+	{% endif %}
+	
+	<form method="post" action="{% url view_pubmed_import_form %}">{% csrf_token %}
+		{{ pubmed_form.as_p }}
+	 	<input type="submit" name="submit" value="Import Article" />
+	</form>
+
+</div>
+{% endblock %}
