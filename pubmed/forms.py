@@ -4,7 +4,7 @@ import re
 
 
 class PubMedImportForm(forms.Form):
-    pubmed_id = forms.CharField(label='PubMed ID', max_length=200, required=True, initial='15497569')
+    pubmed_id = forms.CharField(label='PubMed ID', max_length=200, required=True, initial='')
   
     def clean_pubmed_id(self):
         pid = self.cleaned_data.get('pubmed_id', None)

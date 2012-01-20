@@ -1,5 +1,8 @@
-import hashlib
-
+try:
+    import hashlib
+except:
+    import sha
+    
 from django.db import models
 from django.template.loader import render_to_string
 from django.template.defaultfilters import slugify
@@ -72,7 +75,10 @@ class PaperAuthor(models.Model):
         if not self.id:
             super(PaperAuthor, self).save()
 
-        self.id_hash =  hashlib.sha1('%s%s' % (self.id, self.last_name)).hexdigest()
+        try:
+            self.id_hash =  hashlib.sha1('%s%s' % (self.id, self.last_name)).hexdigest()
+        except:
+            self.id_hash = sha.new('%s%s' % (self.id, self.last_name)).hexdigest()
         self.slug = slugify(self.fmt_fullname_lname_first())
         
         super(PaperAuthor, self).save()
