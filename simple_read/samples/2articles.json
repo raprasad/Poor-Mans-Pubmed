@@ -1,0 +1,597 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": [
+            {
+                "MedlineCitation": {
+                    "@Status": "MEDLINE", 
+                    "DateCompleted": {
+                        "Month": "04", 
+                        "Day": "10", 
+                        "Year": "2012"
+                    }, 
+                    "MeshHeadingList": {
+                        "MeshHeading": [
+                            {
+                                "DescriptorName": {
+                                    "#text": "Adolescent", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Adult", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Autistic Disorder", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": [
+                                    {
+                                        "#text": "drug therapy", 
+                                        "@MajorTopicYN": "Y"
+                                    }, 
+                                    {
+                                        "#text": "psychology", 
+                                        "@MajorTopicYN": "N"
+                                    }
+                                ]
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Child", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Child Behavior", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "drug effects", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Child, Preschool", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Dietary Supplements", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Dose-Response Relationship, Drug", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Double-Blind Method", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Female", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Follow-Up Studies", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Humans", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Male", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Middle Aged", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Nutritional Support", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "methods", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Prospective Studies", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Time Factors", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Trace Elements", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "administration & dosage", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Treatment Outcome", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Vitamins", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "administration & dosage", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Young Adult", 
+                                    "@MajorTopicYN": "N"
+                                }
+                            }
+                        ]
+                    }, 
+                    "CitationSubset": "IM", 
+                    "ChemicalList": {
+                        "Chemical": [
+                            {
+                                "NameOfSubstance": "Trace Elements", 
+                                "RegistryNumber": "0"
+                            }, 
+                            {
+                                "NameOfSubstance": "Vitamins", 
+                                "RegistryNumber": "0"
+                            }
+                        ]
+                    }, 
+                    "OtherID": {
+                        "@Source": "NLM", 
+                        "#text": "PMC3266205"
+                    }, 
+                    "DateCreated": {
+                        "Month": "01", 
+                        "Day": "26", 
+                        "Year": "2012"
+                    }, 
+                    "MedlineJournalInfo": {
+                        "MedlineTA": "BMC Pediatr", 
+                        "Country": "England", 
+                        "NlmUniqueID": "100967804", 
+                        "ISSNLinking": "1471-2431"
+                    }, 
+                    "Article": {
+                        "PublicationTypeList": {
+                            "PublicationType": [
+                                "Comparative Study", 
+                                "Journal Article", 
+                                "Multicenter Study", 
+                                "Randomized Controlled Trial", 
+                                "Research Support, Non-U.S. Gov't"
+                            ]
+                        }, 
+                        "Pagination": {
+                            "MedlinePgn": "111"
+                        }, 
+                        "AuthorList": {
+                            "Author": [
+                                {
+                                    "LastName": "Adams", 
+                                    "Initials": "JB", 
+                                    "ForeName": "James B", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Audhya", 
+                                    "Initials": "T", 
+                                    "ForeName": "Tapan", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "McDonough-Means", 
+                                    "Initials": "S", 
+                                    "ForeName": "Sharon", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Rubin", 
+                                    "Initials": "RA", 
+                                    "ForeName": "Robert A", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Quig", 
+                                    "Initials": "D", 
+                                    "ForeName": "David", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Geis", 
+                                    "Initials": "E", 
+                                    "ForeName": "Elizabeth", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Gehn", 
+                                    "Initials": "E", 
+                                    "ForeName": "Eva", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Loresto", 
+                                    "Initials": "M", 
+                                    "ForeName": "Melissa", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Mitchell", 
+                                    "Initials": "J", 
+                                    "ForeName": "Jessica", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Atwood", 
+                                    "Initials": "S", 
+                                    "ForeName": "Sharon", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Barnhouse", 
+                                    "Initials": "S", 
+                                    "ForeName": "Suzanne", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "Lee", 
+                                    "Initials": "W", 
+                                    "ForeName": "Wondra", 
+                                    "@ValidYN": "Y"
+                                }
+                            ], 
+                            "@CompleteYN": "Y"
+                        }, 
+                        "@PubModel": "Electronic", 
+                        "Language": "eng", 
+                        "ArticleDate": {
+                            "Month": "12", 
+                            "Day": "12", 
+                            "@DateType": "Electronic", 
+                            "Year": "2011"
+                        }, 
+                        "Abstract": {
+                            "AbstractText": [
+                                {
+                                    "#text": "Vitamin/mineral supplements are among the most commonly used treatments for autism, but the research on their use for treating autism has been limited.", 
+                                    "@Label": "BACKGROUND", 
+                                    "@NlmCategory": "BACKGROUND"
+                                }, 
+                                {
+                                    "#text": "This study is a randomized, double-blind, placebo-controlled three month vitamin/mineral treatment study. The study involved 141 children and adults with autism, and pre and post symptoms of autism were assessed. None of the participants had taken a vitamin/mineral supplement in the two months prior to the start of the study. For a subset of the participants (53 children ages 5-16) pre and post measurements of nutritional and metabolic status were also conducted.", 
+                                    "@Label": "METHOD", 
+                                    "@NlmCategory": "METHODS"
+                                }, 
+                                {
+                                    "#text": "The vitamin/mineral supplement was generally well-tolerated, and individually titrated to optimum benefit. Levels of many vitamins, minerals, and biomarkers improved/increased showing good compliance and absorption. Statistically significant improvements in metabolic status were many including: total sulfate (+17%, p = 0.001), S-adenosylmethionine (SAM; +6%, p = 0.003), reduced glutathione (+17%, p = 0.0008), ratio of oxidized glutathione to reduced glutathione (GSSG:GSH; -27%, p = 0.002), nitrotyrosine (-29%, p = 0.004), ATP (+25%, p = 0.000001), NADH (+28%, p = 0.0002), and NADPH (+30%, p = 0.001). Most of these metabolic biomarkers improved to normal or near-normal levels.The supplement group had significantly greater improvements than the placebo group on the Parental Global Impressions-Revised (PGI-R, Average Change, p = 0.008), and on the subscores for Hyperactivity (p = 0.003), Tantrumming (p = 0.009), Overall (p = 0.02), and Receptive Language (p = 0.03). For the other three assessment tools the difference between treatment group and placebo group was not statistically significant.Regression analysis revealed that the degree of improvement on the Average Change of the PGI-R was strongly associated with several biomarkers (adj. R2 = 0.61, p < 0.0005) with the initial levels of biotin and vitamin K being the most significant (p < 0.05); both biotin and vitamin K are made by beneficial intestinal flora.", 
+                                    "@Label": "RESULTS", 
+                                    "@NlmCategory": "RESULTS"
+                                }, 
+                                {
+                                    "#text": "Oral vitamin/mineral supplementation is beneficial in improving the nutritional and metabolic status of children with autism, including improvements in methylation, glutathione, oxidative stress, sulfation, ATP, NADH, and NADPH. The supplement group had significantly greater improvements than did the placebo group on the PGI-R Average Change. This suggests that a vitamin/mineral supplement is a reasonable adjunct therapy to consider for most children and adults with autism.", 
+                                    "@Label": "CONCLUSIONS", 
+                                    "@NlmCategory": "CONCLUSIONS"
+                                }, 
+                                {
+                                    "#text": "Clinical Trial Registration Number: NCT01225198.", 
+                                    "@Label": "TRIAL REGISTRATION", 
+                                    "@NlmCategory": "BACKGROUND"
+                                }
+                            ]
+                        }, 
+                        "Affiliation": "Autism/Asperger's Research Program, Arizona State University, Tempe, AZ, USA. jim.adams@asu.edu", 
+                        "DataBankList": {
+                            "DataBank": {
+                                "AccessionNumberList": {
+                                    "AccessionNumber": "NCT01225198"
+                                }, 
+                                "DataBankName": "ClinicalTrials.gov"
+                            }, 
+                            "@CompleteYN": "Y"
+                        }, 
+                        "ArticleTitle": "Effect of a vitamin/mineral supplement on children and adults with autism.", 
+                        "Journal": {
+                            "ISSN": {
+                                "#text": "1471-2431", 
+                                "@IssnType": "Electronic"
+                            }, 
+                            "ISOAbbreviation": "BMC Pediatr", 
+                            "JournalIssue": {
+                                "Volume": "11", 
+                                "PubDate": {
+                                    "Year": "2011"
+                                }, 
+                                "@CitedMedium": "Internet"
+                            }, 
+                            "Title": "BMC pediatrics"
+                        }
+                    }, 
+                    "PMID": {
+                        "#text": "22151477", 
+                        "@Version": "1"
+                    }, 
+                    "@Owner": "NLM"
+                }, 
+                "PubmedData": {
+                    "ArticleIdList": {
+                        "ArticleId": [
+                            {
+                                "@IdType": "pii", 
+                                "#text": "1471-2431-11-111"
+                            }, 
+                            {
+                                "@IdType": "doi", 
+                                "#text": "10.1186/1471-2431-11-111"
+                            }, 
+                            {
+                                "@IdType": "pubmed", 
+                                "#text": "22151477"
+                            }, 
+                            {
+                                "@IdType": "pmc", 
+                                "#text": "PMC3266205"
+                            }
+                        ]
+                    }, 
+                    "PublicationStatus": "epublish", 
+                    "History": {
+                        "PubMedPubDate": [
+                            {
+                                "@PubStatus": "received", 
+                                "Month": "2", 
+                                "Day": "8", 
+                                "Year": "2011"
+                            }, 
+                            {
+                                "@PubStatus": "accepted", 
+                                "Month": "12", 
+                                "Day": "12", 
+                                "Year": "2011"
+                            }, 
+                            {
+                                "@PubStatus": "aheadofprint", 
+                                "Month": "12", 
+                                "Day": "12", 
+                                "Year": "2011"
+                            }, 
+                            {
+                                "@PubStatus": "entrez", 
+                                "Hour": "6", 
+                                "Month": "12", 
+                                "Year": "2011", 
+                                "Day": "14", 
+                                "Minute": "0"
+                            }, 
+                            {
+                                "@PubStatus": "pubmed", 
+                                "Hour": "6", 
+                                "Month": "12", 
+                                "Year": "2011", 
+                                "Day": "14", 
+                                "Minute": "0"
+                            }, 
+                            {
+                                "@PubStatus": "medline", 
+                                "Hour": "6", 
+                                "Month": "4", 
+                                "Year": "2012", 
+                                "Day": "11", 
+                                "Minute": "0"
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "MedlineCitation": {
+                    "@Status": "MEDLINE", 
+                    "DateCompleted": {
+                        "Month": "05", 
+                        "Day": "01", 
+                        "Year": "2003"
+                    }, 
+                    "CitationSubset": "OM", 
+                    "MeshHeadingList": {
+                        "MeshHeading": [
+                            {
+                                "DescriptorName": {
+                                    "#text": "Carbohydrates", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "therapeutic use", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Celiac Disease", 
+                                    "@MajorTopicYN": "N"
+                                }, 
+                                "QualifierName": {
+                                    "#text": "therapy", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }, 
+                            {
+                                "DescriptorName": {
+                                    "#text": "Diet", 
+                                    "@MajorTopicYN": "Y"
+                                }
+                            }
+                        ]
+                    }, 
+                    "DateRevised": {
+                        "Month": "04", 
+                        "Day": "16", 
+                        "Year": "2012"
+                    }, 
+                    "ChemicalList": {
+                        "Chemical": {
+                            "NameOfSubstance": "Carbohydrates", 
+                            "RegistryNumber": "0"
+                        }
+                    }, 
+                    "OtherID": {
+                        "@Source": "CLML", 
+                        "#text": "5528:12175:115:178:530"
+                    }, 
+                    "DateCreated": {
+                        "Month": "12", 
+                        "Day": "01", 
+                        "Year": "1955"
+                    }, 
+                    "KeywordList": {
+                        "@Owner": "NLM", 
+                        "Keyword": [
+                            {
+                                "#text": "CARBOHYDRATES/therapeutic use", 
+                                "@MajorTopicYN": "Y"
+                            }, 
+                            {
+                                "#text": "DIETS", 
+                                "@MajorTopicYN": "Y"
+                            }, 
+                            {
+                                "#text": "SPRUE/therapy", 
+                                "@MajorTopicYN": "Y"
+                            }
+                        ]
+                    }, 
+                    "MedlineJournalInfo": {
+                        "MedlineTA": "Am J Gastroenterol", 
+                        "Country": "Not Available", 
+                        "NlmUniqueID": "0421030", 
+                        "ISSNLinking": "0002-9270"
+                    }, 
+                    "Article": {
+                        "PublicationTypeList": {
+                            "PublicationType": "Journal Article"
+                        }, 
+                        "Pagination": {
+                            "MedlinePgn": "344-60"
+                        }, 
+                        "AuthorList": {
+                            "Author": [
+                                {
+                                    "LastName": "HAAS", 
+                                    "Initials": "SV", 
+                                    "ForeName": "S V", 
+                                    "@ValidYN": "Y"
+                                }, 
+                                {
+                                    "LastName": "HAAS", 
+                                    "Initials": "MP", 
+                                    "ForeName": "M P", 
+                                    "@ValidYN": "Y"
+                                }
+                            ], 
+                            "@CompleteYN": "Y"
+                        }, 
+                        "@PubModel": "Print", 
+                        "Language": "eng", 
+                        "Journal": {
+                            "ISSN": {
+                                "#text": "0002-9270", 
+                                "@IssnType": "Print"
+                            }, 
+                            "ISOAbbreviation": "Am. J. Gastroenterol.", 
+                            "JournalIssue": {
+                                "Volume": "23", 
+                                "Issue": "4", 
+                                "PubDate": {
+                                    "Month": "Apr", 
+                                    "Year": "1955"
+                                }, 
+                                "@CitedMedium": "Print"
+                            }, 
+                            "Title": "The American journal of gastroenterology"
+                        }, 
+                        "ArticleTitle": "The treatment of celiac disease with the specific carbohydrate diet; report on 191 additional cases."
+                    }, 
+                    "PMID": {
+                        "#text": "14361377", 
+                        "@Version": "1"
+                    }, 
+                    "@Owner": "NLM"
+                }, 
+                "PubmedData": {
+                    "ArticleIdList": {
+                        "ArticleId": {
+                            "@IdType": "pubmed", 
+                            "#text": "14361377"
+                        }
+                    }, 
+                    "PublicationStatus": "ppublish", 
+                    "History": {
+                        "PubMedPubDate": [
+                            {
+                                "@PubStatus": "pubmed", 
+                                "Month": "4", 
+                                "Day": "1", 
+                                "Year": "1955"
+                            }, 
+                            {
+                                "@PubStatus": "medline", 
+                                "Hour": "0", 
+                                "Month": "4", 
+                                "Year": "1955", 
+                                "Day": "1", 
+                                "Minute": "1"
+                            }, 
+                            {
+                                "@PubStatus": "entrez", 
+                                "Hour": "0", 
+                                "Month": "4", 
+                                "Year": "1955", 
+                                "Day": "1", 
+                                "Minute": "0"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

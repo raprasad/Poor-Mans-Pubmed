@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD eSearchResult, 11 May 2002//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSearch_020511.dtd">
+<eSearchResult>
+    <Count>0</Count>
+    <RetMax>0</RetMax>
+    <RetStart>0</RetStart>
+    <QueryKey>1</QueryKey>
+    <WebEnv>NCID_1_37747828_165.112.9.24_5555_1351187487_260324537</WebEnv>
+    <IdList>
+	</IdList>
+    <TranslationSet>
+        <Translation>
+            <From>Calcium</From>
+            <To>"calcium"[MeSH Terms] OR "calcium"[All Fields]</To>
+        </Translation>
+        <Translation>
+            <From>Release</From>
+            <To>"patient discharge"[MeSH Terms] OR ("patient"[All Fields] AND "discharge"[All Fields]) OR "patient discharge"[All Fields] OR "release"[All Fields]</To>
+        </Translation>
+        <Translation>
+            <From>T Cell</From>
+            <To>"t-lymphocytes"[MeSH Terms] OR "t-lymphocytes"[All Fields] OR "t cell"[All Fields]</To>
+        </Translation>
+        <Translation>
+            <From>T Cells</From>
+            <To>"t-lymphocytes"[MeSH Terms] OR "t-lymphocytes"[All Fields] OR "t cells"[All Fields]</To>
+        </Translation>
+    </TranslationSet>
+    <TranslationStack>
+        <TermSet>
+            <Term>"t-lymphocytes"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>247533</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"t-lymphocytes"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>235369</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"t cell"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>196715</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+        <TermSet>
+            <Term>Receptor-Initiated[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>187</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>"calcium"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>230207</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"calcium"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>455330</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>"patient discharge"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>16748</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"patient"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>1696323</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"discharge"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>111152</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <OP>GROUP</OP>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"patient discharge"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>17235</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"release"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>405315</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>Uncoupled[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>5924</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>Capacitative[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>1249</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>"calcium"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>230207</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"calcium"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>455330</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>Entry[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>90060</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>ltk[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>622</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>Deficient[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>157847</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <OP>GROUP</OP>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>"t-lymphocytes"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>247533</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"t-lymphocytes"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>235369</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"t cells"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>153977</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+        <OP>AND</OP>
+        <OP>GROUP</OP>
+    </TranslationStack>
+    <QueryTranslation>("t-lymphocytes"[MeSH Terms] OR "t-lymphocytes"[All Fields] OR "t cell"[All Fields]) AND Receptor-Initiated[All Fields] AND ("calcium"[MeSH Terms] OR "calcium"[All Fields]) AND ("patient discharge"[MeSH Terms] OR ("patient"[All Fields] AND "discharge"[All Fields]) OR "patient discharge"[All Fields] OR "release"[All Fields]) AND Uncoupled[All Fields] AND Capacitative[All Fields] AND ("calcium"[MeSH Terms] OR "calcium"[All Fields]) AND Entry[All Fields] AND (ltk[All Fields] AND Deficient[All Fields]) AND ("t-lymphocytes"[MeSH Terms] OR "t-lymphocytes"[All Fields] OR "t cells"[All Fields])</QueryTranslation>
+    <ErrorList>
+        <PhraseNotFound>ltk-Deficient</PhraseNotFound>
+    </ErrorList>
+    <WarningList>
+        <PhraseIgnored>is</PhraseIgnored>
+        <PhraseIgnored>from</PhraseIgnored>
+        <PhraseIgnored>in</PhraseIgnored>
+    </WarningList>
+</eSearchResult>

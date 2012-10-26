@@ -1,0 +1,378 @@
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22151477</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC pediatrics</Title>
+                <ISOAbbreviation>BMC Pediatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of a vitamin/mineral supplement on children and adults with autism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>111</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Vitamin/mineral supplements are among the most commonly used treatments for autism, but the research on their use for treating autism has been limited.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">This study is a randomized, double-blind, placebo-controlled three month vitamin/mineral treatment study. The study involved 141 children and adults with autism, and pre and post symptoms of autism were assessed. None of the participants had taken a vitamin/mineral supplement in the two months prior to the start of the study. For a subset of the participants (53 children ages 5-16) pre and post measurements of nutritional and metabolic status were also conducted.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The vitamin/mineral supplement was generally well-tolerated, and individually titrated to optimum benefit. Levels of many vitamins, minerals, and biomarkers improved/increased showing good compliance and absorption. Statistically significant improvements in metabolic status were many including: total sulfate (+17%, p = 0.001), S-adenosylmethionine (SAM; +6%, p = 0.003), reduced glutathione (+17%, p = 0.0008), ratio of oxidized glutathione to reduced glutathione (GSSG:GSH; -27%, p = 0.002), nitrotyrosine (-29%, p = 0.004), ATP (+25%, p = 0.000001), NADH (+28%, p = 0.0002), and NADPH (+30%, p = 0.001). Most of these metabolic biomarkers improved to normal or near-normal levels.The supplement group had significantly greater improvements than the placebo group on the Parental Global Impressions-Revised (PGI-R, Average Change, p = 0.008), and on the subscores for Hyperactivity (p = 0.003), Tantrumming (p = 0.009), Overall (p = 0.02), and Receptive Language (p = 0.03). For the other three assessment tools the difference between treatment group and placebo group was not statistically significant.Regression analysis revealed that the degree of improvement on the Average Change of the PGI-R was strongly associated with several biomarkers (adj. R2 = 0.61, p &lt; 0.0005) with the initial levels of biotin and vitamin K being the most significant (p &lt; 0.05); both biotin and vitamin K are made by beneficial intestinal flora.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Oral vitamin/mineral supplementation is beneficial in improving the nutritional and metabolic status of children with autism, including improvements in methylation, glutathione, oxidative stress, sulfation, ATP, NADH, and NADPH. The supplement group had significantly greater improvements than did the placebo group on the PGI-R Average Change. This suggests that a vitamin/mineral supplement is a reasonable adjunct therapy to consider for most children and adults with autism.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Clinical Trial Registration Number: NCT01225198.</AbstractText>
+            </Abstract>
+            <Affiliation>Autism/Asperger's Research Program, Arizona State University, Tempe, AZ, USA. jim.adams@asu.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>James B</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Audhya</LastName>
+                    <ForeName>Tapan</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDonough-Means</LastName>
+                    <ForeName>Sharon</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubin</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quig</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geis</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gehn</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loresto</LastName>
+                    <ForeName>Melissa</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Jessica</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atwood</LastName>
+                    <ForeName>Sharon</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barnhouse</LastName>
+                    <ForeName>Suzanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Wondra</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT01225198</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Multicenter Study</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Pediatr</MedlineTA>
+            <NlmUniqueID>100967804</NlmUniqueID>
+            <ISSNLinking>1471-2431</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Trace Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vitamins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autistic Disorder</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child Behavior</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nutritional Support</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trace Elements</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3266205</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2431-11-111</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2431-11-111</ArticleId>
+            <ArticleId IdType="pubmed">22151477</ArticleId>
+            <ArticleId IdType="pmc">PMC3266205</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14361377</PMID>
+        <DateCreated>
+            <Year>1955</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9270</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>23</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1955</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of gastroenterology</Title>
+                <ISOAbbreviation>Am. J. Gastroenterol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The treatment of celiac disease with the specific carbohydrate diet; report on 191 additional cases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>344-60</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>HAAS</LastName>
+                    <ForeName>S V</ForeName>
+                    <Initials>SV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>HAAS</LastName>
+                    <ForeName>M P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Not Available</Country>
+            <MedlineTA>Am J Gastroenterol</MedlineTA>
+            <NlmUniqueID>0421030</NlmUniqueID>
+            <ISSNLinking>0002-9270</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Carbohydrates</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carbohydrates</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Celiac Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Diet</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="CLML">5528:12175:115:178:530</OtherID>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">CARBOHYDRATES/therapeutic use</Keyword>
+            <Keyword MajorTopicYN="Y">DIETS</Keyword>
+            <Keyword MajorTopicYN="Y">SPRUE/therapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1955</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1955</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1955</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14361377</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
