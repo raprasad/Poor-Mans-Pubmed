@@ -1,3 +1,5 @@
 *.pyc
 fixtures/*
 last_grant/*
+.DS_Store
+.DS_Store
