@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18485340</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-564X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>319</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental biology</Title>
+                <ISOAbbreviation>Dev. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hoxd11 specifies a program of metanephric kidney development within the intermediate mesoderm of the mouse embryo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>396-405</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mammalian kidney consists of an array of tubules connected to a ductal system that collectively function to control water/salt balance and to remove waste from the organisms' circulatory system. During mammalian embryogenesis, three kidney structures form within the intermediate mesoderm. The two most anterior structures, the pronephros and the mesonephros, are transitory and largely non-functional, while the most posterior, the metanephros, persists as the adult kidney. We have explored the mechanisms underlying regional specific differentiation of the kidney forming mesoderm. Previous studies have shown a requirement for Hox11 paralogs (Hoxa11, Hoxc11 and Hoxd11) in metanephric development. Mice lacking all Hox11 activity fail to form metanephric kidney structures. We demonstrate that the Hox11 paralog expression is restricted in the intermediate mesoderm to the posterior, metanephric level. When Hoxd11 is ectopically activated in the anterior mesonephros, we observe a partial transformation to a metanephric program of development. Anterior Hoxd11(+) cells activate Six2, a transcription factor required for the maintenance of metanephric tubule progenitors. Additionally, Hoxd11(+) mesonephric tubules exhibit an altered morphology and activate several metanephric specific markers normally confined to distal portions of the functional nephron. Collectively, our data support a model where Hox11 paralogs specify a metanephric developmental program in responsive intermediate mesoderm. This program maintains tubule forming progenitors and instructs a metanephric specific pattern of nephron differentiation.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mugford</LastName>
+                    <ForeName>Joshua W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sipilä</LastName>
+                    <ForeName>Petra</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Akio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Behringer</LastName>
+                    <ForeName>Richard R</ForeName>
+                    <Initials>RR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>Andrew P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK054364</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HD30284</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK054364-10</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Biol</MedlineTA>
+            <NlmUniqueID>0372762</NlmUniqueID>
+            <ISSNLinking>0012-1606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Homeodomain Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hoxd11 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2003 Jul;130(14):3175-85</RefSource>
+                <PMID Version="1">12783789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Feb 4;397(6718):405-9</RefSource>
+                <PMID Version="1">9989404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1952 Aug 8;55(2):142-6</RefSource>
+                <PMID Version="1">12977030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1953 Jul 10;118(3054):52-5</RefSource>
+                <PMID Version="1">13076182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2004 Feb;131(3):539-49</RefSource>
+                <PMID Version="1">14695376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 2003;47(7-8):605-11</RefSource>
+                <PMID Version="1">14756336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 2004 Apr;229(4):771-9</RefSource>
+                <PMID Version="1">15042701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2004 May;6(5):709-17</RefSource>
+                <PMID Version="1">15130495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2005 Feb;8(2):229-39</RefSource>
+                <PMID Version="1">15691764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2005 Jun;132(12):2809-23</RefSource>
+                <PMID Version="1">15930111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2005 Jul;132(13):2931-42</RefSource>
+                <PMID Version="1">15944185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2005 Aug 15;284(2):323-36</RefSource>
+                <PMID Version="1">16018995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2005 Sep;132(17):3859-71</RefSource>
+                <PMID Version="1">16049111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Genet. 1999;24(3-4):252-62</RefSource>
+                <PMID Version="1">10322633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Sep;23(1):113-7</RefSource>
+                <PMID Version="1">10471511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 1999;43(5):435-9</RefSource>
+                <PMID Version="1">10535320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Nov 12;99(4):377-86</RefSource>
+                <PMID Version="1">10571180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Apr;127(7):1387-95</RefSource>
+                <PMID Version="1">10704385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 2001 Mar;101(1-2):203-7</RefSource>
+                <PMID Version="1">11231076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Dev Biol. 2001;1:4</RefSource>
+                <PMID Version="1">11299042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2001 Jun;128(11):2153-61</RefSource>
+                <PMID Version="1">11493536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2001 Aug;128(16):3105-15</RefSource>
+                <PMID Version="1">11688560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Recent Prog Horm Res. 2002;57:1-18</RefSource>
+                <PMID Version="1">12017538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2002 Jun 1;16(11):1423-32</RefSource>
+                <PMID Version="1">12050119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2002 Nov;129(22):5301-12</RefSource>
+                <PMID Version="1">12399320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2002 Nov 15;16(22):2958-70</RefSource>
+                <PMID Version="1">12435636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Physiol. 2003;65:531-42</RefSource>
+                <PMID Version="1">12517995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pflugers Arch. 2003 Sep;446(6):665-71</RefSource>
+                <PMID Version="1">12759757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2003 Jul;130(14):3085-94</RefSource>
+                <PMID Version="1">12783782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2005 Sep;132(17):3847-57</RefSource>
+                <PMID Version="1">16049112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2005 Aug;9(2):283-92</RefSource>
+                <PMID Version="1">16054034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Oct 21;336(2):585-95</RefSource>
+                <PMID Version="1">16140269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2005 Dec 15;288(2):571-81</RefSource>
+                <PMID Version="1">16216236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005;33(18):e155</RefSource>
+                <PMID Version="1">16221970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2005 Dec 15;288(2):582-94</RefSource>
+                <PMID Version="1">16223478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2006 Jan;133(1):53-61</RefSource>
+                <PMID Version="1">16319112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2006;7:47</RefSource>
+                <PMID Version="1">16533406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2006 Aug;133(15):2995-3004</RefSource>
+                <PMID Version="1">16790474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol Sci. 2006 Apr;56(2):131-6</RefSource>
+                <PMID Version="1">16839447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Sep 29;313(5795):1918-22</RefSource>
+                <PMID Version="1">17008523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2006 Nov 15;299(2):466-77</RefSource>
+                <PMID Version="1">17022962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Nov 1;25(21):5214-28</RefSource>
+                <PMID Version="1">17036046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 2007 Apr;124(4):290-303</RefSource>
+                <PMID Version="1">17300925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2007 Apr;18(4):1121-9</RefSource>
+                <PMID Version="1">17314325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene Expr Patterns. 2007 Jun;7(6):680-99</RefSource>
+                <PMID Version="1">17452023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2007 Jul;134(13):2397-405</RefSource>
+                <PMID Version="1">17522159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2007 Jul;134(13):2533-9</RefSource>
+                <PMID Version="1">17537789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2007 Jul;134(14):2549-60</RefSource>
+                <PMID Version="1">17553908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 2007 Sep;236(9):2454-63</RefSource>
+                <PMID Version="1">17685480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2007 Nov;27(21):7661-8</RefSource>
+                <PMID Version="1">17785448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Jul 29;78(2):191-201</RefSource>
+                <PMID Version="1">7913880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Dec 15;372(6507):679-83</RefSource>
+                <PMID Version="1">7990960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Jan 12;84(1):127-36</RefSource>
+                <PMID Version="1">8548816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1995 Dec;121(12):4057-65</RefSource>
+                <PMID Version="1">8575306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Jul 4;382(6586):70-3</RefSource>
+                <PMID Version="1">8657306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Oct 1;93(20):10657-61</RefSource>
+                <PMID Version="1">8855235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Mar 28;272(13):8466-73</RefSource>
+                <PMID Version="1">9079674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Apr;124(7):1293-9</RefSource>
+                <PMID Version="1">9118800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1997 Dec 1;192(1):193-8</RefSource>
+                <PMID Version="1">9405108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Jan;21(1):70-1</RefSource>
+                <PMID Version="1">9916792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2003 Oct;130(19):4751-9</RefSource>
+                <PMID Version="1">12925600</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryo, Mammalian</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryonic Development</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Homeodomain Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="Y">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney Tubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesoderm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesonephros</DescriptorName>
+                <QualifierName MajorTopicYN="N">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS59874</OtherID>
+        <OtherID Source="NLM">PMC2580739</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0012-1606(08)00262-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2008.03.044</ArticleId>
+            <ArticleId IdType="pubmed">18485340</ArticleId>
+            <ArticleId IdType="pmc">PMC2580739</ArticleId>
+            <ArticleId IdType="mid">NIHMS59874</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

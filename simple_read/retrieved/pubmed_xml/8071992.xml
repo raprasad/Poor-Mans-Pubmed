@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8071992</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2836</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>241</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Sep</Month>
+                        <Day>2</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular biology</Title>
+                <ISOAbbreviation>J. Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural analysis of antibody specificity. Detailed comparison of five Fab'-steroid complexes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>663-90</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Structures of the Fab' fragment of the anti-progesterone antibody DB3 in complex with five cross-reactive steroids (aetiocholanolone, 5 beta-androstane-3,17-dione, 5 alpha-pregnane-20-one-3 beta-ol-hemisuccinate, progesterone-11 alpha-ol-hemisuccinate and progesterone) have been determined by X-ray crystallography to a maximum resolution of 2.7 A. These different steroids compete with progesterone binding with affinities in the nanomolar range despite substantial differences in their three-dimensional structures. Comparison of the unliganded DB3 Fab' and these five steroid-Fab' complexes reveals that all the steroid ligands bind to an &quot;open&quot; conformation of the Fab' as defined by the orientation of the indole side-chain of TrpH100, whereas in the unliganded or &quot;closed&quot; form the binding site is occluded by TrpH100. Small but significant conformational changes take place in the antibody to maximize the physical and chemical complementarity with each ligand. The various cross-reactive ligands are accommodated in the binding site in two distinct orientations. We term these binding modes syn and anti, as they are defined by the orientation of the steroid beta face relative to TrpH50. In all cases, the steroid D ring is inserted into a hydrophobic cavity formed mainly by TrpH50, TyrH97, TrpH100 and PheH100b; a hydrogen bond interaction with AsnH35 to the keto group at position C17 or C20 orients the steroid in the pocket. The AsnH35 hydrogen bond and the interaction with TrpH50 account for the restricted heavy chain response to immunization with progesterone-like steroids derivatized at the 11 alpha position. Cross-reactivity of the antibody with different steroids is explained by alternative binding pockets for the A ring, which generates different ligand orientations in the binding site. This study suggests which factors are most likely to contribute to the observed antibody specificity, such as linker position and the paucity of functional groups on the immunogenic hapten.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular Biology, Scripps Research Institute, La Jolla, CA 92037.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arevalo</LastName>
+                    <ForeName>J H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hassig</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stura</LastName>
+                    <ForeName>E A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sims</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taussig</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>I A</ForeName>
+                    <Initials>IA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM38419</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>J Mol Biol</MedlineTA>
+            <NlmUniqueID>2985088R</NlmUniqueID>
+            <ISSNLinking>0022-2836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin Fab Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Steroids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-83-0</RegistryNumber>
+                <NameOfSubstance>Progesterone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibody Specificity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen-Antibody Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites, Antibody</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Consensus Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen Bonding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin Fab Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Progesterone</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Steroids</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8071992</ArticleId>
+            <ArticleId IdType="pii">S0022-2836(84)71543-9</ArticleId>
+            <ArticleId IdType="doi">10.1006/jmbi.1994.1543</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

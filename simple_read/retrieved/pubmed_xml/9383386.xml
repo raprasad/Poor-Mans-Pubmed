@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9383386</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1074-5521</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemistry &amp; biology</Title>
+                <ISOAbbreviation>Chem. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanistic studies of a signaling pathway activated by the organic dimerizer FK1012.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>163-72</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The T-cell receptor (TCR) signaling pathway is initiated by regulated association of TCR chains, including the zeta chain. A recently reported method for inducing the dimerization or oligomerization of targeted proteins in cells used the TCR pathway as a test system. In cells transfected with cDNA encoding MZF3E, a chimeric receptor comprising the intracellular domain of the zeta chain and three copies of FK506-binding protein (FKBP), low concentrations of a synthetic dimer of the natural product FK506 (FK1012) activated the expression of reporter genes. We set out to examine the signaling pathway initiated by FK1012.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We characterized the effect of FK1012 on MZF3E and a second chimeric receptor, MZF1E, which contains the zeta chain and one copy of FKBP. Only MZF3E gave FK1012-activated signaling, as shown by an increase in the kinase activity associating with MZF3E, and the appearance of specific phosphotyrosine-containing proteins. Signaling required localization of MZF3E to the inner plasma membrane, and activation of gene transcription in response to FK1012 was dependent on the protein phosphatase calcineurin and the transcriptional activator NF-AT. Some signaling events in the pathway had different kinetics when activated by MZF3E instead of the TCR, however. An unexpected requirement for the prolonged activation of calcineurin was observed.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Synthetic dimerizers can be used to gain control over cellular processes that require the association of specific intracellular proteins. The TCR signaling pathway was selected as an initial test system; we show here that one can indeed activate this signaling pathway by inducing the oligomerization of the cytoplasmic tail of the zeta chain with the cell-permeable reagent FK1012.</AbstractText>
+            </Abstract>
+            <Affiliation>Howard Hughes Medical Institute, Department of Chemistry, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pruschy</LastName>
+                    <ForeName>M N</ForeName>
+                    <Initials>MN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spencer</LastName>
+                    <ForeName>D M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kapoor</LastName>
+                    <ForeName>T M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyake</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crabtree</LastName>
+                    <ForeName>G R</ForeName>
+                    <Initials>GR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>S L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Chem Biol</MedlineTA>
+            <NlmUniqueID>9500160</NlmUniqueID>
+            <ISSNLinking>1074-5521</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>FK 1012</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Antigen, T-Cell</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>109581-93-3</RegistryNumber>
+                <NameOfSubstance>Tacrolimus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Antigen, T-Cell</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tacrolimus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>2</Month>
+                <Day>12</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9383386</ArticleId>
+            <ArticleId IdType="pii">1074-5521(94)90006-X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16987992</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0363-6143</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>292</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Cell physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol., Cell Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treatment of cultured myotubes with the proteasome inhibitor beta-lactone increases the expression of the transcription factor C/EBPbeta.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>C216-26</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The role of the proteasome in the regulation of cellular levels of the transcription factor CCAAT/enhancer-binding protein beta (C/EBPbeta) is poorly understood. We tested the hypothesis that C/EBPbeta levels in cultured myotubes are regulated, at least in part, by proteasome activity. Treatment of cultured L6 myotubes, a rat skeletal muscle cell line, with the specific proteasome inhibitor beta-lactone resulted in increased nuclear levels of C/EBPbeta as determined by Western blotting and immunofluorescent detection. This effect of beta-lactone reflected inhibited degradation of C/EBPbeta. Surprisingly, the increased C/EBPbeta levels in beta-lactone-treated myotubes did not result in increased DNA-binding activity. In additional experiments, treatment of the myotubes with beta-lactone resulted in increased nuclear levels of growth arrest DNA damage/C/EBP homologous protein (Gadd153/CHOP), a dominant-negative member of the C/EBP family that can form heterodimers with other members of the C/EBP family and block DNA binding. Coimmunoprecipitation and immunofluorescent detection provided evidence that C/EBPbeta and Gadd153/CHOP interacted and colocalized in the nuclei of the beta-lactone-treated myotubes. When Gadd153/CHOP expression was downregulated by transfection of myotubes with siRNA targeting Gadd153/CHOP, C/EBPbeta DNA-binding activity was restored in beta-lactone-treated myotubes. The results suggest that C/EBPbeta is degraded by a proteasome-dependent mechanism in skeletal muscle cells and that Gadd153/CHOP can interact with C/EBPbeta and block its DNA-binding activity. The observations are important because they increase the understanding of the complex regulation of the expression and activity of C/EBPbeta in skeletal muscle.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Surgery, Beth Israel Deaconess Medical Center, 330 Brookline Avenue ST 919, Boston, MA 02215, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Hongmei</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Menconi</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Peirang</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chamberlain</LastName>
+                    <ForeName>Chester E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasselgren</LastName>
+                    <ForeName>Per-Olof</ForeName>
+                    <Initials>PO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK 37908</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NR 8545</GrantID>
+                    <Acronym>NR</Acronym>
+                    <Agency>NINR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Cell Physiol</MedlineTA>
+            <NlmUniqueID>100901225</NlmUniqueID>
+            <ISSNLinking>0363-6143</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CCAAT-Enhancer-Binding Protein-beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lactones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-12-7</RegistryNumber>
+                <NameOfSubstance>Transcription Factor CHOP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>155975-72-7</RegistryNumber>
+                <NameOfSubstance>clasto-lactacystin beta-lactone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance>DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.25.1</RegistryNumber>
+                <NameOfSubstance>Proteasome Endopeptidase Complex</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CCAAT-Enhancer-Binding Protein-beta</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Nucleus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Damage</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lactones</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle Fibers, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteasome Endopeptidase Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factor CHOP</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">00282.2006</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpcell.00282.2006</ArticleId>
+            <ArticleId IdType="pubmed">16987992</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

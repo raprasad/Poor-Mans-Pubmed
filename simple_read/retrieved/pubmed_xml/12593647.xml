@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12593647</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2623</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>46</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Feb</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medicinal chemistry</Title>
+                <ISOAbbreviation>J. Med. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>2,6-Dimethyltyrosine analogues of a stereodiversified ligand library: highly potent, selective, non-peptidic mu opioid receptor agonists.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>677-80</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We recently reported the use of an exhaustively stereodiversified library based on endomorphin-2 (1) to discover mu opioid receptor (MOR) ligands of type 2-4. Here, we report the synthesis and evaluation of 2,6-dimethyltyrosine analogues 5-10. These analogues showed improved affinity for MOR relative to 2-4. In the cases of 5 and 6, we synthesized and evaluated five stereoisomers of each, thereby discovering stereoisomers with unexpected potency, selectivity, and efficacy. These results illustrate the utility of acyclic, stereodiverse libraries.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Harrison</LastName>
+                    <ForeName>Bryce A</ForeName>
+                    <Initials>BA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pasternak</LastName>
+                    <ForeName>Gavril W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verdine</LastName>
+                    <ForeName>Gregory L</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Chem</MedlineTA>
+            <NlmUniqueID>9716531</NlmUniqueID>
+            <ISSNLinking>0022-2623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Opioid, mu</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>123715-02-6</RegistryNumber>
+                <NameOfSubstance>2',6'-dimethyltyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>55520-40-6</RegistryNumber>
+                <NameOfSubstance>Tyrosine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding, Competitive</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebellum</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Guinea Pigs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radioligand Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Opioid, mu</DescriptorName>
+                <QualifierName MajorTopicYN="Y">agonists</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stereoisomerism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12593647</ArticleId>
+            <ArticleId IdType="doi">10.1021/jm025608s</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">11592158</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>Oct</Month>
+            <Day>9</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-3773</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Sep</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angewandte Chemie (International ed. in English)</Title>
+                <ISOAbbreviation>Angew. Chem. Int. Ed. Engl.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decoding Products of Diversity Pathways from Stock Solutions Derived from Single Polymeric Macrobeads H.E.B. and L.P. contributed equally to this work. We thank the National Institute of General Medical Sciences (GM-52067) for the support of this research. We are especially grateful to Dr. Andrew Tyler for expert mass spectroscopy support. The Harvard ICCB is supported by Merck &amp; Co., Merck KGaA, the Keck Foundation, and the National Cancer Institute. H.E.B. is supported by a postdoctoral fellowship from the Jane Coffin Childs Memorial Fund for Medical Research (sponsored by Merck &amp; Co.). L.P. is a Research Fellow, and S.L.S. is an Investigator with the Howard Hughes Medical Institute at the Department of Chemistry and Chemical Biology, Harvard University.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3421-3425</MedlinePgn>
+            </Pagination>
+            <Affiliation>Howard Hughes Medical Institute Department of Chemistry and Chemical Biology and Harvard Institute of Chemistry and Cell Biology (ICCB) Harvard University 12 Oxford Street, Cambridge, MA 02138 (USA).</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blackwell</LastName>
+                    <ForeName>Helen E.</ForeName>
+                    <Initials>HE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez</LastName>
+                    <ForeName>Lucy</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L.</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>RL1 HG004671-05</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country/>
+            <MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+            <NlmUniqueID>0370543</NlmUniqueID>
+            <ISSNLinking>1433-7851</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11592158</ArticleId>
+            <ArticleId IdType="pii">10.1002/1521-3773(20010917)40:18&lt;3421::AID-ANIE3421&gt;3.0.CO;2-B</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

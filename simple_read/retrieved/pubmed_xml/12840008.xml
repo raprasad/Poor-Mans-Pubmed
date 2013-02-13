@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12840008</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0261-4189</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The EMBO journal</Title>
+                <ISOAbbreviation>EMBO J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure of a trapped endonuclease III-DNA covalent intermediate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3461-71</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nearly all cells express proteins that confer resistance to the mutagenic effects of oxidative DNA damage. The primary defense against the toxicity of oxidative nucleobase lesions in DNA is the base-excision repair (BER) pathway. Endonuclease III (EndoIII) is a [4Fe-4S] cluster-containing DNA glycosylase with repair activity specific for oxidized pyrimidine lesions in duplex DNA. We have determined the crystal structure of a trapped intermediate that represents EndoIII frozen in the act of repairing DNA. The structure of the protein-DNA complex provides insight into the ability of EndoIII to recognize and repair a diverse array of oxidatively damaged bases. This structure also suggests a rationale for the frequent occurrence in certain human cancers of a specific mutation in the related DNA repair protein MYH.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fromme</LastName>
+                    <ForeName>J Christopher</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verdine</LastName>
+                    <ForeName>Gregory L</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DMR9713424</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>EMBO J</MedlineTA>
+            <NlmUniqueID>8208664</NlmUniqueID>
+            <ISSNLinking>0261-4189</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Iron-Sulfur Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance>Endodeoxyribonucleases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.25.1</RegistryNumber>
+                <NameOfSubstance>Deoxyribonuclease (Pyrimidine Dimer)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.25.1</RegistryNumber>
+                <NameOfSubstance>NTH protein, E coli</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Biochem Biophys. 2000 Aug 1;380(1):11-9</RefSource>
+                <PMID Version="1">10900127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Apr 7;275(14):9924-9</RefSource>
+                <PMID Version="1">10744666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Crystallogr D Biol Crystallogr. 2001 Oct;57(Pt 10):1373-82</RefSource>
+                <PMID Version="1">11567148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2002 Feb;30(2):227-32</RefSource>
+                <PMID Version="1">11818965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 Feb 15;21(4):789-800</RefSource>
+                <PMID Version="1">11847126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2002 Mar 22;317(2):171-7</RefSource>
+                <PMID Version="1">11902834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 May 31;277(22):19811-6</RefSource>
+                <PMID Version="1">11912217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Jun 7;277(23):20960-4</RefSource>
+                <PMID Version="1">11964390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2002 Jul;9(7):544-52</RefSource>
+                <PMID Version="1">12055620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Jul 12;110(1):33-42</RefSource>
+                <PMID Version="1">12150995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2002 Nov 1;11(23):2961-7</RefSource>
+                <PMID Version="1">12393807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Dec 13;111(6):803-14</RefSource>
+                <PMID Version="1">12526807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2003 Feb 18;42(6):1564-72</RefSource>
+                <PMID Version="1">12578369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2003 Mar;10(3):204-11</RefSource>
+                <PMID Version="1">12592398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Oct 16;258(5081):434-40</RefSource>
+                <PMID Version="1">1411536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2003;72:337-66</RefSource>
+                <PMID Version="1">14527324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Crystallogr D Biol Crystallogr. 1994 Sep 1;50(Pt 5):760-3</RefSource>
+                <PMID Version="1">15299374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Crystallogr D Biol Crystallogr. 1993 Jan 1;49(Pt 1):24-36</RefSource>
+                <PMID Version="1">15299543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1977 May 10;252(9):2802-7</RefSource>
+                <PMID Version="1">16001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Aug 15;267(23):16135-7</RefSource>
+                <PMID Version="1">1644800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteins. 1991;11(4):281-96</RefSource>
+                <PMID Version="1">1758883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1991 Jan 29;30(4):1119-26</RefSource>
+                <PMID Version="1">1846560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Basic Life Sci. 1975;5A:197-200</RefSource>
+                <PMID Version="1">242312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1987 Mar 1;242(2):565-72</RefSource>
+                <PMID Version="1">2439070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Enzymol Relat Areas Mol Biol. 1987;60:1-34</RefSource>
+                <PMID Version="1">2444076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1989 May 16;28(10):4450-5</RefSource>
+                <PMID Version="1">2548577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1987 Dec 15;26(25):8200-6</RefSource>
+                <PMID Version="1">3327518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1976 Mar 10;251(5):1438-45</RefSource>
+                <PMID Version="1">3498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1985 May;162(2):607-10</RefSource>
+                <PMID Version="1">3886628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1980 Sep 18;287(5779):203-8</RefSource>
+                <PMID Version="1">6253795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1980 Aug;77(8):4602-6</RefSource>
+                <PMID Version="1">6254032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1983 Aug 16;22(17):4071-81</RefSource>
+                <PMID Version="1">6351916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1984 May 10;259(9):5543-8</RefSource>
+                <PMID Version="1">6371006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Oct 6;270(40):23475-84</RefSource>
+                <PMID Version="1">7559510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Aug 18;270(33):19501-8</RefSource>
+                <PMID Version="1">7642635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Aug 15;14(16):4108-20</RefSource>
+                <PMID Version="1">7664751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Mar 24;80(6):869-78</RefSource>
+                <PMID Version="1">7697717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Dec 30;269(52):32709-12</RefSource>
+                <PMID Version="1">7806489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Jul 22;269(29):18814-20</RefSource>
+                <PMID Version="1">8034633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Apr 22;362(6422):709-15</RefSource>
+                <PMID Version="1">8469282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Jul 26;86(2):321-9</RefSource>
+                <PMID Version="1">8706136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1996 Jul 19;260(3):289-98</RefSource>
+                <PMID Version="1">8757792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 1996 Aug;142 ( Pt 8):2005-16</RefSource>
+                <PMID Version="1">8760912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1996 Aug 1;6(8):968-80</RefSource>
+                <PMID Version="1">8805338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Nov 7;384(6604):87-92</RefSource>
+                <PMID Version="1">8900285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Jan 7;94(1):109-14</RefSource>
+                <PMID Version="1">8990169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Feb 21;272(8):5335-41</RefSource>
+                <PMID Version="1">9030608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Mar 7;272(10):6733-40</RefSource>
+                <PMID Version="1">9045706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1997 Aug 15;25(16):3204-11</RefSource>
+                <PMID Version="1">9241232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 1997 Sep;4(9):693-702</RefSource>
+                <PMID Version="1">9331411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Jan 15;17(2):363-7</RefSource>
+                <PMID Version="1">9430628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Jan 9;92(1):117-29</RefSource>
+                <PMID Version="1">9489705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Mar 26;8(7):393-403</RefSource>
+                <PMID Version="1">9545197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 21;273(34):21585-93</RefSource>
+                <PMID Version="1">9705289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Crystallogr D Biol Crystallogr. 1998 Sep 1;54(Pt 5):905-21</RefSource>
+                <PMID Version="1">9757107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 1998 Dec;5(12):1058-64</RefSource>
+                <PMID Version="1">9846876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1989 May 16;28(10):4444-9</RefSource>
+                <PMID Version="1">2669955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1987 Mar 24;26(6):1683-8</RefSource>
+                <PMID Version="1">3297132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Crystallogr D Biol Crystallogr. 1999 Apr;55(Pt 4):849-61</RefSource>
+                <PMID Version="1">10089316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Dec 3;286(5446):1897-905</RefSource>
+                <PMID Version="1">10583946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Feb 15;19(4):758-66</RefSource>
+                <PMID Version="1">10675345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Feb 24;403(6772):859-66</RefSource>
+                <PMID Version="1">10706276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Aug 1;19(15):3857-69</RefSource>
+                <PMID Version="1">10921868</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Primers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Deoxyribonuclease (Pyrimidine Dimer)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endodeoxyribonucleases</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Escherichia coli Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Iron-Sulfur Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC165637</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12840008</ArticleId>
+            <ArticleId IdType="doi">10.1093/emboj/cdg311</ArticleId>
+            <ArticleId IdType="pmc">PMC165637</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

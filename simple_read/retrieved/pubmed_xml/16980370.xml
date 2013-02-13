@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16980370</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-3495</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>91</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biophysical journal</Title>
+                <ISOAbbreviation>Biophys. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Robust reconstruction of the rate constant distribution using the phase function method.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4045-53</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Many biological processes exhibit complex kinetic behavior that involves a nontrivial distribution of rate constants. Characterization of the rate constant distribution is often critical for mechanistic understandings of these processes. However, it is difficult to extract a rate constant distribution from data measured in the time domain. This is due to the numerical instability of the inverse Laplace transform, a long-standing mathematical challenge that has hampered data analysis in many disciplines. Here, we present a method that allows us to reconstruct the probability distribution of rate constants from decay data in the time domain, without fitting to specific trial functions or requiring any prior knowledge of the rate distribution. The robustness (numerical stability) of this reconstruction method is numerically illustrated by analyzing data with realistic noise and theoretically proved by the continuity of the transformations connecting the relevant function spaces. This development enhances our ability to characterize kinetics and dynamics of biological processes. We expect this method to be useful in a broad range of disciplines considering the prevalence of complex exponential decays in many experimental systems.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, MA, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yajun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biophys J</MedlineTA>
+            <NlmUniqueID>0370626</NlmUniqueID>
+            <ISSNLinking>0006-3495</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2006 Sep 1;91(5):1941-51</RefSource>
+                <PMID Version="1">16766620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jun;88(6):3780-3</RefSource>
+                <PMID Version="1">15764653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Dec 4;282(5395):1877-82</RefSource>
+                <PMID Version="1">9836635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Jul 24;388(6640):355-8</RefSource>
+                <PMID Version="1">9237752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1989 Jul;56(1):79-93</RefSource>
+                <PMID Version="1">2752091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1983 Aug;43(2):207-23</RefSource>
+                <PMID Version="1">6311301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Mar 31;287(5462):2497-500</RefSource>
+                <PMID Version="1">10741971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Nov 14;115(4):437-47</RefSource>
+                <PMID Version="1">14622598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Oct 10;302(5643):262-6</RefSource>
+                <PMID Version="1">14551431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9308-13</RefSource>
+                <PMID Version="1">12883002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 May 24;296(5572):1473-6</RefSource>
+                <PMID Version="1">12029135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2002 Apr;82(4):2244-55</RefSource>
+                <PMID Version="1">11916879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2000 Oct;79(4):1915-27</RefSource>
+                <PMID Version="1">11023897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Dec 11;426(6967):684-7</RefSource>
+                <PMID Version="1">14634670</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biophysics</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fourier Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Normal Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oscillometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1635682</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0006-3495(06)72120-8</ArticleId>
+            <ArticleId IdType="doi">10.1529/biophysj.106.090688</ArticleId>
+            <ArticleId IdType="pubmed">16980370</ArticleId>
+            <ArticleId IdType="pmc">PMC1635682</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

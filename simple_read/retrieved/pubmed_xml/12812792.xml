@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12812792</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-1606</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>259</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental biology</Title>
+                <ISOAbbreviation>Dev. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Signals from lateral plate mesoderm instruct endoderm toward a pancreatic fate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>109-22</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>During embryonic development, organs arise along the gut tube as a series of buds in a stereotyped anterior-posterior (A-P) pattern. Using chick-quail chimeras and in vitro tissue recombination, we studied the interactions governing the induction and maintenance of endodermal organ identify focusing on the pancreas. Though several permissive signals in pancreatic development have been previously identified, here we provide evidence that lateral plate mesoderm sends instructive signals to the endoderm, signals that induce expression of the pancreatic genes Pdx1, p48, Nkx6.1, glucagon, and insulin. Moreover, this instructive signal directs cells to form ectopic insulin-positive islet-like clusters in endoderm that would otherwise form more rostral organs. Once generated, endocrine cells no longer require interaction with mesoderm, but nonendocrine cells continue to require permissive signals from the mesoderm. Stimulation of activin, BMP, or retinoic acid signaling is sufficient to induce Pdx1 expression in endoderm anterior to the pancreas. Lateral plate mesoderm appears to pattern the endoderm in a posterior-dominant fashion as first noted in the patterning of the neural tube at the same embryonic stage. These findings argue for a central role of the mesoderm in coordinating the A-P pattern of all three primary germ layers.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Howard Hughes Medical Institute, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Maya</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jordan</LastName>
+                    <ForeName>Nathalie</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melton</LastName>
+                    <ForeName>Doug</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grapin-Botton</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Biol</MedlineTA>
+            <NlmUniqueID>0372762</NlmUniqueID>
+            <ISSNLinking>0012-1606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bone Morphogenetic Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Homeodomain Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>pancreatic and duodenal homeobox 1 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>104625-48-1</RegistryNumber>
+                <NameOfSubstance>Activins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>302-79-4</RegistryNumber>
+                <NameOfSubstance>Tretinoin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Morphogenetic Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chick Embryo</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coturnix</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endoderm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Homeodomain Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesoderm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancreas</DescriptorName>
+                <QualifierName MajorTopicYN="Y">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trans-Activators</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tretinoin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12812792</ArticleId>
+            <ArticleId IdType="pii">S0012160603001830</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16637659</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>128</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>May</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Uncovering quantitative protein interaction networks for mouse PDZ domains using protein microarrays.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5913-22</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>One of the principal challenges in systems biology is to uncover the networks of protein-protein interactions that underlie most biological processes. To date, experimental efforts directed at this problem have largely produced only qualitative networks that are replete with false positives and false negatives. Here, we describe a domain-centered approach--compatible with genome-wide investigations--that enables us to measure the equilibrium dissociation constant (K(D)) of recombinant PDZ domains for fluorescently labeled peptides that represent physiologically relevant binding partners. Using a pilot set of 22 PDZ domains, 4 PDZ domain clusters, and 20 peptides, we define a gold standard dataset by determining the K(D) for all 520 PDZ-peptide combinations using fluorescence polarization. We then show that microarrays of PDZ domains identify interactions of moderate to high affinity (K(D) &lt; or = 10 microM) in a high-throughput format with a false positive rate of 14% and a false negative rate of 14%. By combining the throughput of protein microarrays with the fidelity of fluorescence polarization, our domain/peptide-based strategy yields a quantitative network that faithfully recapitulates 85% of previously reported interactions and uncovers new biophysical interactions, many of which occur between proteins that are co-expressed. From a broader perspective, the selectivity data produced by this effort reveal a strong concordance between protein sequence and protein function, supporting a model in which interaction networks evolve through small steps that do not involve dramatic rewiring of the network.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stiffler</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grantcharova</LastName>
+                    <ForeName>Viara P</ForeName>
+                    <Initials>VP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sevecka</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacBeath</LastName>
+                    <ForeName>Gavin</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1 R01 GM072872-01</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5 T32 GM07598-25</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM072872-04</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2005 Aug 25;24(36):5533-42</RefSource>
+                <PMID Version="1">16007170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2005 Mar 21;579(8):1828-33</RefSource>
+                <PMID Version="1">15763559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D257-60</RefSource>
+                <PMID Version="1">16381859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 1999 Feb;17(2):170-5</RefSource>
+                <PMID Version="1">10052354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1999 Jul 15;19(14):6027-36</RefSource>
+                <PMID Version="1">10407040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Aug 26;9(16):880-8</RefSource>
+                <PMID Version="1">10469590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Nov 24;99(5):485-97</RefSource>
+                <PMID Version="1">10589677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Feb 10;403(6770):623-7</RefSource>
+                <PMID Version="1">10688190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jun 30;275(26):19933-41</RefSource>
+                <PMID Version="1">10770943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2000 Jul;10(7):274-80</RefSource>
+                <PMID Version="1">10856930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2000 Sep;26(1):51-5</RefSource>
+                <PMID Version="1">10973247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Sep 8;289(5485):1760-3</RefSource>
+                <PMID Version="1">10976071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2000 Nov 28;39(47):14638-46</RefSource>
+                <PMID Version="1">11087420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Nov 21;97(24):13203-8</RefSource>
+                <PMID Version="1">11087867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jan 10;103(2):311-6</RefSource>
+                <PMID Version="1">16384916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Nov 2;378(6552):85-8</RefSource>
+                <PMID Version="1">7477295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Apr 21;268(5209):411-5</RefSource>
+                <PMID Version="1">7536343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Sep 22;269(5231):1737-40</RefSource>
+                <PMID Version="1">7569905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 1993 Dec;44(2-3):85-9</RefSource>
+                <PMID Version="1">8155583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Jan 3;275(5296):73-7</RefSource>
+                <PMID Version="1">8974395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Dec 9;94(25):13683-8</RefSource>
+                <PMID Version="1">9391086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Neurosci. 1998 Jun;11(3):161-72</RefSource>
+                <PMID Version="1">9647694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1998 Aug;19(4):340-7</RefSource>
+                <PMID Version="1">9697694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1998 Oct 1;53(1):29-41</RefSource>
+                <PMID Version="1">9787075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2001 Feb;68(2):325-33</RefSource>
+                <PMID Version="1">11133365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Dec 21-28;408(6815):936-43</RefSource>
+                <PMID Version="1">11140673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2001 Mar;21(5):1475-83</RefSource>
+                <PMID Version="1">11238884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2001;24:1-29</RefSource>
+                <PMID Version="1">11283303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 10;98(8):4569-74</RefSource>
+                <PMID Version="1">11283351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2001 Sep;17(9):511-9</RefSource>
+                <PMID Version="1">11525834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 16;276(46):43216-20</RefSource>
+                <PMID Version="1">11553623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jan 10;415(6868):141-7</RefSource>
+                <PMID Version="1">11805826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jan 10;415(6868):180-3</RefSource>
+                <PMID Version="1">11805837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2002 Apr;20(4):370-5</RefSource>
+                <PMID Version="1">11923843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 May 14;99(10):6816-21</RefSource>
+                <PMID Version="1">11983858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 May 23;417(6887):399-403</RefSource>
+                <PMID Version="1">12000970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2002 Aug;9(8):621-7</RefSource>
+                <PMID Version="1">12080331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2002 May;1(5):349-56</RefSource>
+                <PMID Version="1">12118076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2002 Oct 23;530(1-3):253-4</RefSource>
+                <PMID Version="1">12387902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 Dec 16;21(24):6689-99</RefSource>
+                <PMID Version="1">12485990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Mar 14;327(1):203-14</RefSource>
+                <PMID Version="1">12614619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Mar 13;422(6928):208-15</RefSource>
+                <PMID Version="1">12634794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Apr 18;300(5618):445-52</RefSource>
+                <PMID Version="1">12702867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci STKE. 2003 Apr 22;2003(179):RE7</RefSource>
+                <PMID Version="1">12709532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Nov 28;278(48):48099-104</RefSource>
+                <PMID Version="1">12954649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1992 Nov;9(5):929-42</RefSource>
+                <PMID Version="1">1419001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jan 23;303(5657):540-3</RefSource>
+                <PMID Version="1">14704431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2004 Jan;22(1):78-85</RefSource>
+                <PMID Version="1">14704708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2004;261:445-68</RefSource>
+                <PMID Version="1">15064475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 20;101(16):6062-7</RefSource>
+                <PMID Version="1">15075390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D447-53</RefSource>
+                <PMID Version="1">15608235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2004 Dec 28;43(51):16056-66</RefSource>
+                <PMID Version="1">15610000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jan 12;439(7073):168-74</RefSource>
+                <PMID Version="1">16273093</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Polarization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Array Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS61026</OtherID>
+        <OtherID Source="NLM">PMC2533859</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja060943h</ArticleId>
+            <ArticleId IdType="pubmed">16637659</ArticleId>
+            <ArticleId IdType="pmc">PMC2533859</ArticleId>
+            <ArticleId IdType="mid">NIHMS61026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

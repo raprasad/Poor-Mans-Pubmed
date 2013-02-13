@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9539126</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0896-6273</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuron</Title>
+                <ISOAbbreviation>Neuron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanisms of concerted firing among retinal ganglion cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>527-39</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nearby retinal ganglion cells often fire action potentials in near synchrony. We have investigated the circuit mechanisms that underlie these correlations by recording simultaneously from many ganglion cells in the salamander retina. During spontaneous activity in darkness, three types of correlations were distinguished: broad (firing synchrony within 40-100 ms), medium (10-50 ms), and narrow (&lt;1 ms). When chemical synaptic transmission was blocked, the broad correlations disappeared, but the medium and narrow correlations persisted. Further analysis of the strength and time course of synchronous firing suggests that nearby ganglion cells share inputs from photoreceptors conveyed through interneurons via chemical synapses (broad correlations), share excitation from amacrine cells via electrical junctions (medium), and excite each other via electrical junctions (narrow). It appears that the firing patterns in the optic nerve are strongly shaped by electrical coupling in the inner retina.</AbstractText>
+            </Abstract>
+            <Affiliation>Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brivanlou</LastName>
+                    <ForeName>I H</ForeName>
+                    <Initials>IH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warland</LastName>
+                    <ForeName>D K</ForeName>
+                    <Initials>DK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meister</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Neuron</MedlineTA>
+            <NlmUniqueID>8809320</NlmUniqueID>
+            <ISSNLinking>0896-6273</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Action Potentials</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ambystoma</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dark Adaptation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electric Conductivity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Photoreceptor Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retinal Ganglion Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9539126</ArticleId>
+            <ArticleId IdType="pii">S0896-6273(00)80992-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

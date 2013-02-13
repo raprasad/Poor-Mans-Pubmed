@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">16277464</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1530-6984</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nano letters</Title>
+                <ISOAbbreviation>Nano Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electroluminescence from a single-nanocrystal transistor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2257-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We report the fabrication and characterization of light-emitting transistors incorporating individual cadmium selenide (CdSe) nanocrystals. Electrical measurements conducted at low bias voltage and low temperature show clear evidence of Coulomb blockade behavior, indicating that electrons pass through the nanocrystal by single-electron tunneling. Once the bias voltage exceeds the band gap of CdSe, devices with asymmetric tunnel barriers emit linearly polarized light. Combined analyses of the electrical and optical data indicate that the tunnel couplings between the nanorod and the metallic electrodes change significantly as a function of bias voltage and light emission results from the inelastic scattering of tunneling electrons.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gudiksen</LastName>
+                    <ForeName>Mark S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maher</LastName>
+                    <ForeName>Kristin N</ForeName>
+                    <Initials>KN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouyang</LastName>
+                    <ForeName>Lian</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Hongkun</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nano Lett</MedlineTA>
+            <NlmUniqueID>101088070</NlmUniqueID>
+            <ISSNLinking>1530-6984</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/nl0516005</ArticleId>
+            <ArticleId IdType="pubmed">16277464</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

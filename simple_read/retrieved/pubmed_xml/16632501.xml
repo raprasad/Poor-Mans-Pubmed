@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16632501</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>06</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-3495</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>91</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biophysical journal</Title>
+                <ISOAbbreviation>Biophys. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nonperturbative chemical imaging of organelle transport in living cells with coherent anti-stokes Raman scattering microscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>728-35</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nonperturbative monitoring of intracellular organelle transport in unstained living cells was achieved with coherent anti-Stokes Raman scattering (CARS) microscopy. To avoid possible interference with the organelle transport introduced by laser radiation, we first examined different illumination conditions. Using a new photodamage criterion based on morphological changes of the cells, we determined the threshold values of both pulse energy and average power at relevant wavelengths. Under excitation conditions much milder than the threshold levels, we were able to monitor the motions of lipid droplet (LD) organelles in steroidogenic mouse adrenal cortical (Y-1) cells with CARS microscopy in real time without perturbations to the cells. Particle tracking analyses revealed subdiffusion as well as active transport of LDs along microtubules. Interestingly, LD active transport is only present in Y-1 cells that rounded up in culture, a morphological change associated with steroidogenesis, suggesting possible involvements of LD active transport in the latter. Simultaneous imaging of LDs and mitochondria with CARS and two-photon fluorescence microscopy clearly showed that interactions between the two organelles could be facilitated by high LD motility. These observations demonstrate CARS microscopy as a powerful noninvasive imaging tool for studying dynamic processes in living cells.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nan</LastName>
+                    <ForeName>Xiaolin</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Potma</LastName>
+                    <ForeName>Eric O</ForeName>
+                    <Initials>EO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>X Sunney</ForeName>
+                    <Initials>XS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM62536-01</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>04</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biophys J</MedlineTA>
+            <NlmUniqueID>0370626</NlmUniqueID>
+            <ISSNLinking>0006-3495</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipids</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 2002 Nov;118(5):423-8</RefSource>
+                <PMID Version="1">12432454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2002 Jul;83(1):502-9</RefSource>
+                <PMID Version="1">12080137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Feb 21;112(4):467-80</RefSource>
+                <PMID Version="1">12600311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microsc Res Tech. 2003 Jun 15;61(3):275-87</RefSource>
+                <PMID Version="1">12768543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Aug 19;100(17):9826-30</RefSource>
+                <PMID Version="1">12904580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 2003 Nov;44(11):2202-8</RefSource>
+                <PMID Version="1">12923234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Opt Lett. 2003 Oct 1;28(19):1835-7</RefSource>
+                <PMID Version="1">14514117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Jan;15(1):99-110</RefSource>
+                <PMID Version="1">14528016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jan 30;279(5):3787-92</RefSource>
+                <PMID Version="1">14597625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2004 Feb 2;1644(1):47-59</RefSource>
+                <PMID Version="1">14741744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1978 Apr 28;81(4):1313-8</RefSource>
+                <PMID Version="1">149544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2004 Aug 16;166(4):447-53</RefSource>
+                <PMID Version="1">15314061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chemphyschem. 2005 Jan;6(1):77-9</RefSource>
+                <PMID Version="1">15688650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microsc. 2005 Apr;218(Pt 1):37-45</RefSource>
+                <PMID Version="1">15817061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jul;89(1):581-91</RefSource>
+                <PMID Version="1">15834003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Langmuir. 2005 Jul 5;21(14):6478-86</RefSource>
+                <PMID Version="1">15982056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Nov;89(5):3480-90</RefSource>
+                <PMID Version="1">16126824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Nov 15;102(46):16807-12</RefSource>
+                <PMID Version="1">16263923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1991 Oct;7(4):521-33</RefSource>
+                <PMID Version="1">1834098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Apr 6;248(4951):73-6</RefSource>
+                <PMID Version="1">2321027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1987 Jun;120(6):2547-54</RefSource>
+                <PMID Version="1">3032596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1994 Aug;8(11):804-13</RefSource>
+                <PMID Version="1">8070629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Biol (Noisy-le-grand). 1996 Dec;42(8):1181-94</RefSource>
+                <PMID Version="1">8997522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microsc Res Tech. 1997 Mar 15;36(6):463-79</RefSource>
+                <PMID Version="1">9142693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Feb 13;98(4):1577-82</RefSource>
+                <PMID Version="1">11171993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2001 Apr;80(4):2029-36</RefSource>
+                <PMID Version="1">11259316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Lipid Res. 2001 Sep;40(5):325-438</RefSource>
+                <PMID Version="1">11470496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 May 2;278(18):15998-6007</RefSource>
+                <PMID Version="1">12591929</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport, Active</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lasers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organelles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrum Analysis, Raman</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1483100</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0006-3495(06)71771-4</ArticleId>
+            <ArticleId IdType="doi">10.1529/biophysj.105.074534</ArticleId>
+            <ArticleId IdType="pubmed">16632501</ArticleId>
+            <ArticleId IdType="pmc">PMC1483100</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9689078</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>95</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Aug</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MEKK1 activates both IkappaB kinase alpha and IkappaB kinase beta.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9319-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A critical step in the signal-induced activation of the transcription factor NF-kappaB is the site-specific phosphorylation of its inhibitor, IkappaB, that targets the latter for degradation by the ubiquitin-proteasome pathway. We have previously shown that mitogen-activated protein kinase/ERK kinase kinase 1 (MEKK1) can induce both this site-specific phosphorylation of IkappaB alpha at Ser-32 and Ser-36 in vivo and the activity of a high molecular weight IkappaB kinase complex in vitro. Subsequently, others have identified two proteins, IkappaB kinase alpha (IKK-alpha) and IkappaB kinase beta (IKK-beta), that are present in a tumor necrosis factor alpha-inducible, high molecular weight IkappaB kinase complex. These kinases are believed to directly phosphorylate IkappaB based on the examination of the kinase activities of IKK immunoprecipitates, but more rigorous proof of this has yet to be demonstrated. We show herein that recombinant IKK-alpha and IKK-beta can, in fact, directly phosphorylate IkappaB alpha at Ser-32 and Ser-36, as well as homologous residues in IkappaB beta in vitro, and thus are bona fide IkappaB kinases. We also show that MEKK1 can induce the activation of both IKK-alpha and IKK-beta in vivo. Finally, we show that IKK-alpha is present in the MEKK1-inducible, high molecular weight IkappaB kinase complex and treatment of this complex with MEKK1 induces phosphorylation of IKK-alpha in vitro. We conclude that IKK-alpha and IKK-beta can mediate the NF-kappaB-inducing activity of MEKK1.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>F S</ForeName>
+                    <Initials>FS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>R T</ForeName>
+                    <Initials>RT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dang</LastName>
+                    <ForeName>L C</ForeName>
+                    <Initials>LC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maniatis</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32 GM07598</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI20642</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance>IKBKE protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance>Protein-Serine-Threonine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.10</RegistryNumber>
+                <NameOfSubstance>CHUK protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.10</RegistryNumber>
+                <NameOfSubstance>I-kappa B Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.10</RegistryNumber>
+                <NameOfSubstance>IKBKB protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.25</RegistryNumber>
+                <NameOfSubstance>MAP Kinase Kinase Kinase 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.25</RegistryNumber>
+                <NameOfSubstance>MAP3K1 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Nov 27;71(5):777-89</RefSource>
+                <PMID Version="1">1330326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 May 29;93(5):875-84</RefSource>
+                <PMID Version="1">9630230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1989 May 11;17(9):3335-46</RefSource>
+                <PMID Version="1">2566973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1989 Apr;8(4):1129-38</RefSource>
+                <PMID Version="1">2663471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1988 Jul 15;67(1):31-40</RefSource>
+                <PMID Version="1">3047011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 Jul 1;9(13):1586-97</RefSource>
+                <PMID Version="1">7628694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jan 20;267(5196):389-93</RefSource>
+                <PMID Version="1">7824938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Dec 9;266(5191):1719-23</RefSource>
+                <PMID Version="1">7992057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Dec 22-29;372(6508):798-800</RefSource>
+                <PMID Version="1">7997270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Mar 25;76(6):1025-37</RefSource>
+                <PMID Version="1">8137421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 May 12;369(6476):156-60</RefSource>
+                <PMID Version="1">8177321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Sep 10;74(5):887-98</RefSource>
+                <PMID Version="1">8374955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 Apr 16;260(5106):315-9</RefSource>
+                <PMID Version="1">8385802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Mar 22;84(6):853-62</RefSource>
+                <PMID Version="1">8601309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 May;16(5):2083-90</RefSource>
+                <PMID Version="1">8628274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 Apr;16(4):1295-304</RefSource>
+                <PMID Version="1">8657102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Jan 24;88(2):213-22</RefSource>
+                <PMID Version="1">9008162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Feb 6;385(6616):540-4</RefSource>
+                <PMID Version="1">9020361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Jul 25;90(2):373-83</RefSource>
+                <PMID Version="1">9244310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Aug 7;388(6642):548-54</RefSource>
+                <PMID Version="1">9252186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Sep 2;94(18):9792-6</RefSource>
+                <PMID Version="1">9275204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Oct 17;91(2):243-52</RefSource>
+                <PMID Version="1">9346241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 31;278(5339):860-6</RefSource>
+                <PMID Version="1">9346484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 31;278(5339):866-9</RefSource>
+                <PMID Version="1">9346485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Oct 31;91(3):299-302</RefSource>
+                <PMID Version="1">9363938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 31;278(5339):818-9</RefSource>
+                <PMID Version="1">9381193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1998 Feb;19(2):80-8</RefSource>
+                <PMID Version="1">9509763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Mar 5;392(6671):93-7</RefSource>
+                <PMID Version="1">9510254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Mar 31;95(7):3537-42</RefSource>
+                <PMID Version="1">9520401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Mar 31;95(7):3792-7</RefSource>
+                <PMID Version="1">9520446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Apr 21;57(2):287-94</RefSource>
+                <PMID Version="1">2495183</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Dominant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">I-kappa B Kinase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">MAP Kinase Kinase Kinase 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein-Serine-Threonine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC21336</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9689078</ArticleId>
+            <ArticleId IdType="pmc">PMC21336</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

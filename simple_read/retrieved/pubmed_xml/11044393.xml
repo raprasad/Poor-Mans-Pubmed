@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11044393</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0950-1991</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>127</Volume>
+                    <Issue>22</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Development (Cambridge, England)</Title>
+                <ISOAbbreviation>Development</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sonic hedgehog regulates growth and morphogenesis of the tooth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4775-85</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>During mammalian tooth development, the oral ectoderm and mesenchyme coordinate their growth and differentiation to give rise to organs with precise shapes, sizes and functions. The initial ingrowth of the dental epithelium and its associated dental mesenchyme gives rise to the tooth bud. Next, the epithelial component folds to give the tooth its shape. Coincident with this process, adjacent epithelial and mesenchymal cells differentiate into enamel-secreting ameloblasts and dentin-secreting odontoblasts, respectively. Growth, morphogenesis and differentiation of the epithelium and mesenchyme are coordinated by secreted signaling proteins. Sonic hedgehog (Shh) encodes a signaling peptide which is present in the oral epithelium prior to invagination and in the tooth epithelium throughout its development. We have addressed the role of Shh in the developing tooth in mouse by using a conditional allele to remove Shh activity shortly after ingrowth of the dental epithelium. Reduction and then loss of Shh function results in a cap stage tooth rudiment in which the morphology is severely disrupted. The overall size of the tooth is reduced and both the lingual epithelial invagination and the dental cord are absent. However, the enamel knot, a putative organizer of crown formation, is present and expresses Fgf4, Wnt10b, Bmp2 and Lef1, as in the wild type. At birth, the size and the shape of the teeth are severely affected and the polarity and organization of the ameloblast and odontoblast layers is disrupted. However, both dentin- and enamel-specific markers are expressed and a large amount of tooth-specific extracellular matrix is produced. This observation was confirmed by grafting studies in which tooth rudiments were cultured for several days under kidney capsules. Under these conditions, both enamel and dentin were deposited even though the enamel and dentin layers remained disorganized. These studies demonstrate that Shh regulates growth and determines the shape of the tooth. However, Shh signaling is not essential for differentiation of ameloblasts or odontoblasts.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, The Biolabs, Divinity Avenue, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dassule</LastName>
+                    <ForeName>H R</ForeName>
+                    <Initials>HR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bei</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maas</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>A P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32GM07620</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DE11697</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS33642</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Development</MedlineTA>
+            <NlmUniqueID>8701744</NlmUniqueID>
+            <ISSNLinking>0950-1991</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hedgehog Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Trans-Activators</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Primers</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hedgehog Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Odontogenesis</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tooth</DescriptorName>
+                <QualifierName MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tooth Abnormalities</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Trans-Activators</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11044393</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

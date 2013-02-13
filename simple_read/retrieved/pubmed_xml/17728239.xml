@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17728239</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>81</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the early events in dengue virus cell entry by biochemical assays and single-virus tracking.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>12019-28</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this study, we investigated the cell entry characteristics of dengue virus (DENV) type 2 strain S1 on mosquito, BHK-15, and BS-C-1 cells. The concentration of virus particles measured by biochemical assays was found to be substantially higher than the number of infectious particles determined by infectivity assays, leading to an infectious unit-to-particle ratio of approximately 1:2,600 to 1:72,000, depending on the specific assays used. In order to explain this high ratio, we investigated the receptor binding and membrane fusion characteristics of single DENV particles in living cells using real-time fluorescence microscopy. For this purpose, DENV was labeled with the lipophilic fluorescent probe DiD (1,1'-dioctadecyl-3,3,3',3'-tetramethylindodicarbocyanine, 4-chlorobenzenesulfonate salt). The surface density of the DiD dye in the viral membrane was sufficiently high to largely quench the fluorescence intensity but still allowed clear detection of single virus particles. Fusion of the viral membrane with the cell membrane was evident as fluorescence dequenching. It was observed that DENV binds very inefficiently to the cells used, explaining at least in part the high infectious unit-to-particle ratio. The particles that did bind to the cells showed different types of transport behavior leading to membrane fusion in both the periphery and perinuclear regions of the cell. Membrane fusion was observed in 1 out of 6 bound virus particles, indicating that a substantial fraction of the virus has the capacity to fuse. DiD dequenching was completely inhibited by ammonium chloride, demonstrating that fusion occurs exclusively from within acidic endosomes.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medical Microbiology, University Medical Center Groningen, University of Groningen, Ant. Deusinglaan 1, 9700 RB Groningen, The Netherlands.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van der Schaar</LastName>
+                    <ForeName>Hilde M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rust</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waarts</LastName>
+                    <ForeName>Barry-Lee</ForeName>
+                    <Initials>BL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Ende-Metselaar</LastName>
+                    <ForeName>Heidi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuhn</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilschut</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smit</LastName>
+                    <ForeName>Jolanda M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>12125-02-9</RegistryNumber>
+                <NameOfSubstance>Ammonium Chloride</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8476-84</RefSource>
+                <PMID Version="1">10482600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Mar;73(3):2547-51</RefSource>
+                <PMID Version="1">9971841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2000 Sep;38(9):3508-10</RefSource>
+                <PMID Version="1">10970418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2000 Nov;32(5):1069-77</RefSource>
+                <PMID Version="1">11050058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 May;75(9):4268-75</RefSource>
+                <PMID Version="1">11287576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Aug;75(16):7769-73</RefSource>
+                <PMID Version="1">11462053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2001 Mar;7(3):593-602</RefSource>
+                <PMID Version="1">11463384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2002 Jan 5;292(1):162-8</RefSource>
+                <PMID Version="1">11878919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Mar 8;108(5):717-25</RefSource>
+                <PMID Version="1">11893341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jun;76(11):5480-91</RefSource>
+                <PMID Version="1">11991976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2002 Jul;83(Pt 7):1535-45</RefSource>
+                <PMID Version="1">12075072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Oct;3(10):753-66</RefSource>
+                <PMID Version="1">12360192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2003 Apr 7;197(7):823-9</RefSource>
+                <PMID Version="1">12682107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Jun 2;22(11):2604-13</RefSource>
+                <PMID Version="1">12773377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2003 Jul;4(7):723-8</RefSource>
+                <PMID Version="1">12783086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol Methods. 2003 Jun 30;110(2):185-91</RefSource>
+                <PMID Version="1">12798247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9280-5</RefSource>
+                <PMID Version="1">12883000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Jan 22;427(6972):313-9</RefSource>
+                <PMID Version="1">14737159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Mar;78(5):2367-81</RefSource>
+                <PMID Version="1">14963133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Jan;3(1):13-22</RefSource>
+                <PMID Version="1">15608696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jun 24;280(25):23698-708</RefSource>
+                <PMID Version="1">15855154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2005 Jul;3(7):e233</RefSource>
+                <PMID Version="1">15954801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2005 Jul;43(7):3267-72</RefSource>
+                <PMID Version="1">16000446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antiviral Res. 2006 Jan;69(1):31-8</RefSource>
+                <PMID Version="1">16309754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Trop Med Hyg. 2006 Jan;74(1):132-41</RefSource>
+                <PMID Version="1">16407358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Feb 10;124(3):485-93</RefSource>
+                <PMID Version="1">16469696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Mar 1;176(5):2825-32</RefSource>
+                <PMID Version="1">16493039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Mar 10;124(5):997-1009</RefSource>
+                <PMID Version="1">16530046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Apr;81(8):4367-70</RefSource>
+                <PMID Version="1">17267494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1990 Feb;174(2):450-8</RefSource>
+                <PMID Version="1">2154882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1990 Aug;71 ( Pt 8):1845-50</RefSource>
+                <PMID Version="1">2167941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Trop Med Hyg. 1985 Jan;34(1):162-9</RefSource>
+                <PMID Version="1">2578750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1988 Jan;162(1):167-80</RefSource>
+                <PMID Version="1">2827375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1988 Feb;69 ( Pt 2):325-35</RefSource>
+                <PMID Version="1">3339329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1987 Nov 2;904(1):165-70</RefSource>
+                <PMID Version="1">3663665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1977 Dec;83(2):346-56</RefSource>
+                <PMID Version="1">603028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1984 Aug;65 ( Pt 8):1261-72</RefSource>
+                <PMID Version="1">6086817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Feb;69(2):695-700</RefSource>
+                <PMID Version="1">7529335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Virol. 1995 Apr;45(4):451-61</RefSource>
+                <PMID Version="1">7666046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 May 25;375(6529):291-8</RefSource>
+                <PMID Version="1">7753193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1994 Jan;198(1):109-17</RefSource>
+                <PMID Version="1">8259646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1993 Feb;74 ( Pt 2):175-82</RefSource>
+                <PMID Version="1">8429301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1996 Dec;174(6):1176-84</RefSource>
+                <PMID Version="1">8940206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Dec;70(12):8765-72</RefSource>
+                <PMID Version="1">8971005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1997 Jan;110 ( Pt 1):95-103</RefSource>
+                <PMID Version="1">9010788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Jun;71(6):4226-32</RefSource>
+                <PMID Version="1">9151809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1997 Aug;3(8):866-71</RefSource>
+                <PMID Version="1">9256277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Sep;74(17):7814-23</RefSource>
+                <PMID Version="1">10933688</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ammonium Chloride</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biochemistry</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dengue</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dengue Virus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Fusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Virus Internalization</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2168764</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.00300-07</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.00300-07</ArticleId>
+            <ArticleId IdType="pubmed">17728239</ArticleId>
+            <ArticleId IdType="pmc">PMC2168764</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17620609</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>08</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>29</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Directed evolution can rapidly improve the activity of chimeric assembly-line enzymes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11951-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nonribosomal peptides (NRPs) are produced by NRP synthetase (NRPS) enzymes that function as molecular assembly lines. The modular architecture of NRPSs suggests that a domain responsible for activating a building block could be replaced with a domain from a foreign NRPS to create a chimeric assembly line that produces a new variant of a natural NRP. However, such chimeric NRPS modules are often heavily impaired, impeding efforts to create novel NRP variants by swapping domains from different modules or organisms. Here we show that impaired chimeric NRPSs can be functionally restored by directed evolution. Using rounds of mutagenesis coupled with in vivo screens for NRP production, we rapidly isolated variants of two different chimeric NRPSs with approximately 10-fold improvements in enzyme activity and product yield, including one that produces new derivatives of the potent NRP/polyketide antibiotic andrimid. Because functional restoration in these examples required only modest library sizes (10(3) to 10(4) clones) and three or fewer rounds of screening, our approach may be widely applicable even for NRPSs from genetically challenging hosts.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, 200 Longwood Avenue, Boston, MA 02115, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fischbach</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Jonathan R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roche</LastName>
+                    <ForeName>Eric D</ForeName>
+                    <Initials>ED</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walsh</LastName>
+                    <ForeName>Christopher T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM065400</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM20011</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>07</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Polyenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrroles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>108868-95-7</RegistryNumber>
+                <NameOfSubstance>andrimid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>28384-96-5</RegistryNumber>
+                <NameOfSubstance>Enterobactin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.-</RegistryNumber>
+                <NameOfSubstance>Peptide Synthases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.-</RegistryNumber>
+                <NameOfSubstance>non-ribosomal peptide synthase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2000 Apr;7(4):287-97</RefSource>
+                <PMID Version="1">10780924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Dec 4;273(49):32857-63</RefSource>
+                <PMID Version="1">9830033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2000 Jun;7(6):373-84</RefSource>
+                <PMID Version="1">10873839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Microbiol Biotechnol. 2000 Apr;2(2):217-24</RefSource>
+                <PMID Version="1">10939247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2003 Feb 11;42(5):1334-44</RefSource>
+                <PMID Version="1">12564937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2003 May 7;125(18):5366-74</RefSource>
+                <PMID Version="1">12720450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2004 May 1;234(1):43-9</RefSource>
+                <PMID Version="1">15109718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2005 Feb 15;15(4):1189-92</RefSource>
+                <PMID Version="1">15686939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2005 Feb;105(2):715-38</RefSource>
+                <PMID Version="1">15700962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2006 Mar;2(3):132-8</RefSource>
+                <PMID Version="1">16485005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5314-9</RefSource>
+                <PMID Version="1">16567620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2006 Mar;13(3):269-76</RefSource>
+                <PMID Version="1">16638532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2006 Aug;50(8):2707-12</RefSource>
+                <PMID Version="1">16870762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2006 Aug;106(8):3468-96</RefSource>
+                <PMID Version="1">16895337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2006 Aug 23;128(33):10660-1</RefSource>
+                <PMID Version="1">16910643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2006 Aug 30;128(34):11002-3</RefSource>
+                <PMID Version="1">16925399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2006 Aug;13(8):869-79</RefSource>
+                <PMID Version="1">16931336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2006 Aug;13(8):899-908</RefSource>
+                <PMID Version="1">16931339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2006 Oct;152(Pt 10):2993-3001</RefSource>
+                <PMID Version="1">17005980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Nov 14;103(46):17462-7</RefSource>
+                <PMID Version="1">17090667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2006 Nov;13(11):1183-91</RefSource>
+                <PMID Version="1">17114000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2006 Dec;24(12):1533-40</RefSource>
+                <PMID Version="1">17160059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jul 7;269(5220):69-72</RefSource>
+                <PMID Version="1">7604280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1996 Feb 2;255(4):589-603</RefSource>
+                <PMID Version="1">8568899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 1997 Dec;4(12):927-37</RefSource>
+                <PMID Version="1">9427658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Feb 24;37(8):2648-59</RefSource>
+                <PMID Version="1">9485415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Gen Genet. 1998 Feb;257(3):308-18</RefSource>
+                <PMID Version="1">9520265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Oct 2;282(5386):63-8</RefSource>
+                <PMID Version="1">9756477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 May 23;97(11):5848-53</RefSource>
+                <PMID Version="1">10811885</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clone Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Directed Molecular Evolution</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enterobactin</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Synthases</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polyenes</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Structure, Secondary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrroles</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1924594</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0705348104</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0705348104</ArticleId>
+            <ArticleId IdType="pubmed">17620609</ArticleId>
+            <ArticleId IdType="pmc">PMC1924594</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16832063</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>103</Volume>
+                    <Issue>29</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jul</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Imaging peptidoglycan biosynthesis in Bacillus subtilis with fluorescent antibiotics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11033-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The peptidoglycan (PG) layers surrounding bacterial cells play an important role in determining cell shape. The machinery controlling when and where new PG is made is not understood, but is proposed to involve interactions between bacterial actin homologs such as Mbl, which forms helical cables within cells, and extracellular multiprotein complexes that include penicillin-binding proteins. It has been suggested that labeled antibiotics that bind to PG precursors may be useful for imaging PG to help determine the genes that control the biosynthesis of this polymer. Here, we compare the staining patterns observed in Bacillus subtilis using fluorescent derivatives of two PG-binding antibiotics, vancomycin and ramoplanin. The staining patterns for both probes exhibit a strong dependence on probe concentration, suggesting antibiotic-induced perturbations in PG synthesis. Ramoplanin probes may be better imaging agents than vancomycin probes because they yield clear staining patterns at concentrations well below their minimum inhibitory concentrations. Under some conditions, both ramoplanin and vancomycin probes produce helicoid staining patterns along the cylindrical walls of B. subtilis cells. This sidewall staining is observed in the absence of the cytoskeletal protein Mbl. Although Mbl plays an important role in cell shape determination, our data indicate that other proteins control the spatial localization of the biosynthetic complexes responsible for new PG synthesis along the walls of B. subtilis cells.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Microbiology and Molecular Genetics, Harvard Medical School, Boston, MA 02115, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tiyanont</LastName>
+                    <ForeName>Kittichoat</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doan</LastName>
+                    <ForeName>Thierry</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lazarus</LastName>
+                    <ForeName>Michael B</ForeName>
+                    <Initials>MB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Xiao</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudner</LastName>
+                    <ForeName>David Z</ForeName>
+                    <Initials>DZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walker</LastName>
+                    <ForeName>Suzanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI50855</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 GM007598</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Depsipeptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptidoglycan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1404-90-6</RegistryNumber>
+                <NameOfSubstance>Vancomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>76168-82-6</RegistryNumber>
+                <NameOfSubstance>ramoplanin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Nov 5;274(45):32031-9</RefSource>
+                <PMID Version="1">10542235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Apr 16;284(5413):507-11</RefSource>
+                <PMID Version="1">10205063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Jul;184(13):3749-52</RefSource>
+                <PMID Version="1">12057973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2002 Aug;46(8):2344-8</RefSource>
+                <PMID Version="1">12121903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2002 Nov 27;124(47):13970-1</RefSource>
+                <PMID Version="1">12440876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2003 Jan;47(2):539-47</RefSource>
+                <PMID Version="1">12519203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Feb;185(4):1147-52</RefSource>
+                <PMID Version="1">12562782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Jun 13;113(6):767-76</RefSource>
+                <PMID Version="1">12809607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2003 Jul 23;125(29):8736-7</RefSource>
+                <PMID Version="1">12862463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2003 Aug;49(3):571-80</RefSource>
+                <PMID Version="1">12914007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2003 Nov;50(3):871-81</RefSource>
+                <PMID Version="1">14617148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2003 Dec;6(6):594-9</RefSource>
+                <PMID Version="1">14662355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2004 Feb;51(3):749-64</RefSource>
+                <PMID Version="1">14731276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2004 Sep;53(6):1583-99</RefSource>
+                <PMID Version="1">15341641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2005 Feb;105(2):425-48</RefSource>
+                <PMID Version="1">15700951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2005 Feb;105(2):449-76</RefSource>
+                <PMID Version="1">15700952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Aug;3(8):601-10</RefSource>
+                <PMID Version="1">16012516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Dec 20;102(51):18602-7</RefSource>
+                <PMID Version="1">16344480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Dec 20;102(51):18608-13</RefSource>
+                <PMID Version="1">16344481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2006 Jan;2(1):69-76</RefSource>
+                <PMID Version="1">16880924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1991 Sep;173(18):5740-6</RefSource>
+                <PMID Version="1">1885547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1985 Oct;164(1):130-5</RefSource>
+                <PMID Version="1">3930463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1973 Dec;135(4):721-8</RefSource>
+                <PMID Version="1">4778270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1984 Apr;158(1):169-79</RefSource>
+                <PMID Version="1">6232259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1983 Sep;155(3):983-8</RefSource>
+                <PMID Version="1">6350274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1995 Nov;177(21):6176-83</RefSource>
+                <PMID Version="1">7592383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Aug 26;269(34):21603-7</RefSource>
+                <PMID Version="1">8063800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1976 Nov;73(11):4200-4</RefSource>
+                <PMID Version="1">825860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 1996 Aug;142 ( Pt 8):1911-8</RefSource>
+                <PMID Version="1">8760905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1997 May;179(9):2823-34</RefSource>
+                <PMID Version="1">9139895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 1997;13:395-424</RefSource>
+                <PMID Version="1">9442879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 1998 Mar;62(1):181-203</RefSource>
+                <PMID Version="1">9529891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1998 Dec;180(24):6493-502</RefSource>
+                <PMID Version="1">9851991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Mar 5;274(10):6726-34</RefSource>
+                <PMID Version="1">10037771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Mar 23;104(6):913-22</RefSource>
+                <PMID Version="1">11290328</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacillus subtilis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Depsipeptides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptidoglycan</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vancomycin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1544169</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0600829103</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0600829103</ArticleId>
+            <ArticleId IdType="pubmed">16832063</ArticleId>
+            <ArticleId IdType="pmc">PMC1544169</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

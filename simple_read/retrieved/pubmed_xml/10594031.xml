@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10594031</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-7306</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biology</Title>
+                <ISOAbbreviation>Mol. Cell. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Essential function of the polo box of Cdc5 in subcellular localization and induction of cytokinetic structures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>286-98</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Members of the polo subfamily of protein kinases play pivotal roles in cell proliferation. In addition to the kinase domain, polo kinases have a strikingly conserved sequence in the noncatalytic C-terminal domain, termed the polo box. Here we show that the budding-yeast polo kinase Cdc5, when fused to green fluorescent protein and expressed under its endogenous promoter, localizes at spindle poles and the mother bud neck. Overexpression of Cdc5 can induce a class of cells with abnormally elongated buds in a polo box- and kinase activity-dependent manner. In addition to localizing at the spindle poles and cytokinetic neck filaments, Cdc5 induces and localizes to additional septin ring structures within the elongated buds. Without impairing kinase activity, conservative mutations in the polo box abolish the ability of Cdc5 to functionally complement the defect associated with a cdc5-1 temperature-sensitive mutation, to localize to the spindle poles and cytokinetic neck filaments, and to induce elongated cells with ectopic septin ring structures. Consistent with the polo box-dependent subcellular localization, the C-terminal domain of Cdc5, but not its polo box mutant, is sufficient for subcellular localization, and its overexpression appears to inhibit cytokinesis. These data provide evidence that the polo box is required to direct Cdc5 to specific subcellular locations and induce or organize cytokinetic structures.</AbstractText>
+            </Abstract>
+            <Affiliation>Laboratory of Metabolism, Division of Basic Sciences, National Cancer Institute, National Institutes of Health, Bethesda, Maryland 20892, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grenfell</LastName>
+                    <ForeName>T Z</ForeName>
+                    <Initials>TZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garfield</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erikson</LastName>
+                    <ForeName>R L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>K S</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA42580</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Mol Cell Biol</MedlineTA>
+            <NlmUniqueID>8109087</NlmUniqueID>
+            <ISSNLinking>0270-7306</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Cycle Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.-</RegistryNumber>
+                <NameOfSubstance>Protein Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.21</RegistryNumber>
+                <NameOfSubstance>CDC5 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 May 17;145(4):809-23</RefSource>
+                <PMID Version="1">10330408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Apr 23;8(9):497-507</RefSource>
+                <PMID Version="1">9560342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1992 Sep;12(9):4164-9</RefSource>
+                <PMID Version="1">1508211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1991 Dec;5(12A):2153-65</RefSource>
+                <PMID Version="1">1660828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Nov;111(5 Pt 1):1913-27</RefSource>
+                <PMID Version="1">2229181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Nov;109(5):2225-32</RefSource>
+                <PMID Version="1">2808526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1988 Jan;89 ( Pt 1):57-65</RefSource>
+                <PMID Version="1">3047157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 1986;105:245-81</RefSource>
+                <PMID Version="1">3539854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1983 Jan;153(1):163-8</RefSource>
+                <PMID Version="1">6336730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 May 6;77(3):371-9</RefSource>
+                <PMID Version="1">8181057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Jul;13(7):4445-57</RefSource>
+                <PMID Version="1">8321244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Dec;15(12):7143-51</RefSource>
+                <PMID Version="1">8524282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Mar;132(5):887-901</RefSource>
+                <PMID Version="1">8603920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 May 15;12(10):1483-94</RefSource>
+                <PMID Version="1">9585508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1998 Jun;111 ( Pt 12):1751-7</RefSource>
+                <PMID Version="1">9601104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Jul;18(7):4262-71</RefSource>
+                <PMID Version="1">9632810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9301-6</RefSource>
+                <PMID Version="1">9689075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 1998 Jul;14(10):953-61</RefSource>
+                <PMID Version="1">9717241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Oct;9(10):2803-17</RefSource>
+                <PMID Version="1">9763445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Nov 2;143(3):659-71</RefSource>
+                <PMID Version="1">9813088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Nov 2;143(3):709-17</RefSource>
+                <PMID Version="1">9813092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Nov 2;143(3):719-36</RefSource>
+                <PMID Version="1">9813093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Nov 2;143(3):737-49</RefSource>
+                <PMID Version="1">9813094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Dec 14;143(6):1603-16</RefSource>
+                <PMID Version="1">9852154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Dec 15;12(24):3777-87</RefSource>
+                <PMID Version="1">9869630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1984 Jul;37(3):969-78</RefSource>
+                <PMID Version="1">6378388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 1983 Mar 21;101(2):289-316</RefSource>
+                <PMID Version="1">6683772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Apr 28;270(17):10351-7</RefSource>
+                <PMID Version="1">7730342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 May 1;9(9):1059-73</RefSource>
+                <PMID Version="1">7744248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1995 Feb;5(1):17-23</RefSource>
+                <PMID Version="1">7749320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Dec;13(12):7793-801</RefSource>
+                <PMID Version="1">7902533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1994 Jun;107 ( Pt 6):1509-17</RefSource>
+                <PMID Version="1">7962193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1994 Mar;5(3):249-57</RefSource>
+                <PMID Version="1">8018557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Jun 1;90(11):4882-6</RefSource>
+                <PMID Version="1">8099445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1992 Feb;4(1):43-52</RefSource>
+                <PMID Version="1">1313686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Aug 9;271(32):19402-8</RefSource>
+                <PMID Version="1">8702627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Sep 6;273(5280):1377-80</RefSource>
+                <PMID Version="1">8703070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 Dec;16(12):6775-82</RefSource>
+                <PMID Version="1">8943332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Dec;135(6 Pt 2):1701-13</RefSource>
+                <PMID Version="1">8991084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 May 13;94(10):4817-20</RefSource>
+                <PMID Version="1">9144146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 Jun;17(6):3408-17</RefSource>
+                <PMID Version="1">9154840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 Sep;17(9):5067-76</RefSource>
+                <PMID Version="1">9271384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Sep 19;90(6):1097-106</RefSource>
+                <PMID Version="1">9323137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Jan 26;140(2):355-66</RefSource>
+                <PMID Version="1">9442111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Mar 2;17(5):1328-35</RefSource>
+                <PMID Version="1">9482730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Mar 2;17(5):1336-49</RefSource>
+                <PMID Version="1">9482731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Apr;18(4):2100-7</RefSource>
+                <PMID Version="1">9528782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Mar 1;91(5):1736-40</RefSource>
+                <PMID Version="1">8127874</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Cycle Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Division</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Saccharomyces cerevisiae Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC85084</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10594031</ArticleId>
+            <ArticleId IdType="pmc">PMC85084</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

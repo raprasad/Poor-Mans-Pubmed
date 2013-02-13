@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15118093</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>06</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>101</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>May</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Directed evolution of protein enzymes using nonhomologous random recombination.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7011-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We recently reported the development of nonhomologous random recombination (NRR) as a method for nucleic acid diversification and applied NRR to the evolution of DNA aptamers. Here, we describe a modified method, protein NRR, that enables proteins to access diversity previously difficult or impossible to generate. We investigated the structural plasticity of protein folds and the ability of helical motifs to function in different contexts by applying protein NRR and in vivo selection to the evolution of chorismate mutase (CM) enzymes. Functional CM mutants evolved using protein NRR contained many insertions, deletions, and rearrangements. The distribution of these changes was not random but clustered in certain regions of the protein. Topologically rearranged but functional enzymes also emerged from these studies, indicating that multiple connectivities can accommodate a functional CM active site and demonstrating the ability to generate new domain connectivities through protein NRR. Protein NRR was also used to randomly recombine CM and fumarase, an unrelated but also alpha-helical protein. Whereas the resulting library contained fumarase fragments in many contexts before functional selection, library members surviving selection for CM activity invariably contained a CM core with fumarase sequences found only at the termini or in one loop. These results imply that internal helical fragments cannot be swapped between these proteins without the loss of nearly all CM activity. Our findings suggest that protein NRR will be useful in probing the functional requirements of enzymes and in the creation of new protein topologies.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, MA 01238, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bittker</LastName>
+                    <ForeName>Joshua A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Brian V</ForeName>
+                    <Initials>BV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jane M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM65400-01</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.4.99.5</RegistryNumber>
+                <NameOfSubstance>Chorismate Mutase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Oct 15;29(20):E97</RefSource>
+                <PMID Version="1">11600716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11248-53</RefSource>
+                <PMID Version="1">11562494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2002 Aug 23;321(4):677-91</RefSource>
+                <PMID Version="1">12206782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2002 Oct;20(10):1024-9</RefSource>
+                <PMID Version="1">12219078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2003 Feb;270(4):757-63</RefSource>
+                <PMID Version="1">12581215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Jul 4;330(2):287-96</RefSource>
+                <PMID Version="1">12823968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Nov 1;31(21):e126</RefSource>
+                <PMID Version="1">14576326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteins. 1991;9(3):180-90</RefSource>
+                <PMID Version="1">2006136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1989 May 4;339(6219):31-6</RefSource>
+                <PMID Version="1">2524006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Aug 4;370(6488):389-91</RefSource>
+                <PMID Version="1">8047147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 May 14;93(10):5043-8</RefSource>
+                <PMID Version="1">8643526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1996 Nov 5;35(44):13955-65</RefSource>
+                <PMID Version="1">8909293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Dec 5;272(49):30591-4</RefSource>
+                <PMID Version="1">9388188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Mar 20;279(5358):1958-61</RefSource>
+                <PMID Version="1">9506949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 1998 Feb;7(2):325-35</RefSource>
+                <PMID Version="1">9521108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 1996 Mar;14(3):315-9</RefSource>
+                <PMID Version="1">9630892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Jul 14;37(28):10062-73</RefSource>
+                <PMID Version="1">9665711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Mar 16;96(6):2591-5</RefSource>
+                <PMID Version="1">10077554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 1999 Dec;17(12):1205-9</RefSource>
+                <PMID Version="1">10585719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Nov 24;275(47):36832-8</RefSource>
+                <PMID Version="1">10960481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2000 Nov 21;39(46):14087-94</RefSource>
+                <PMID Version="1">11087356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Apr 20;292(5516):498-500</RefSource>
+                <PMID Version="1">11313494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2001 May;19(5):456-60</RefSource>
+                <PMID Version="1">11329016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10596-601</RefSource>
+                <PMID Version="1">11535813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Apr 2;99(7):4185-90</RefSource>
+                <PMID Version="1">11904359</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chorismate Mutase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Directed Molecular Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC406457</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2004</Year>
+                <Month>Apr</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15118093</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0402202101</ArticleId>
+            <ArticleId IdType="pii">0402202101</ArticleId>
+            <ArticleId IdType="pmc">PMC406457</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

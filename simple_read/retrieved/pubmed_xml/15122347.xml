@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15122347</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>05</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>07</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1545-9993</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature structural &amp; molecular biology</Title>
+                <ISOAbbreviation>Nat. Struct. Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assembly of endocytic machinery around individual influenza viruses during viral entry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>567-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Most viruses enter cells via receptor-mediated endocytosis. However, the entry mechanisms used by many of them remain unclear. Also largely unknown is the way in which viruses are targeted to cellular endocytic machinery. We have studied the entry mechanisms of influenza viruses by tracking the interaction of single viruses with cellular endocytic structures in real time using fluorescence microscopy. Our results show that influenza can exploit clathrin-mediated and clathrin- and caveolin-independent endocytic pathways in parallel, both pathways leading to viral fusion with similar efficiency. Remarkably, viruses taking the clathrin-mediated pathway enter cells via the de novo formation of clathrin-coated pits (CCPs) at viral-binding sites. CCP formation at these sites is much faster than elsewhere on the cell surface, suggesting a virus-induced CCP formation mechanism that may be commonly exploited by many other types of viruses.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rust</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lakadamyali</LastName>
+                    <ForeName>Melike</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Feng</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM068518-05</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nat Struct Mol Biol</MedlineTA>
+            <NlmUniqueID>101186374</NlmUniqueID>
+            <ISSNLinking>1545-9985</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Caveolin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Caveolins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Clathrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.18</RegistryNumber>
+                <NameOfSubstance>Neuraminidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2003 Aug;15(4):414-22</RefSource>
+                <PMID Version="1">12892781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jan 23;303(5657):495-9</RefSource>
+                <PMID Version="1">14645856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Jan;65(1):232-44</RefSource>
+                <PMID Version="1">1985199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Sep;87(17):6579-83</RefSource>
+                <PMID Version="1">2118653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Dec;111(6 Pt 2):2931-8</RefSource>
+                <PMID Version="1">2148564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Jul 31;50(3):453-63</RefSource>
+                <PMID Version="1">3111717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1984 Aug;51(2):497-504</RefSource>
+                <PMID Version="1">6431119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1982 Dec 16;300(5893):658-9</RefSource>
+                <PMID Version="1">6815542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1980 Feb;84(2):404-20</RefSource>
+                <PMID Version="1">6991511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1981 Jul;90(1):176-80</RefSource>
+                <PMID Version="1">7251673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1981 Dec;91(3 Pt 1):601-13</RefSource>
+                <PMID Version="1">7328111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Dec;127(5):1217-32</RefSource>
+                <PMID Version="1">7525606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9280-5</RefSource>
+                <PMID Version="1">12883000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 May 26;161(4):673-7</RefSource>
+                <PMID Version="1">12771123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 May;4(5):333-43</RefSource>
+                <PMID Version="1">12713661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Mar 6;422(6927):37-44</RefSource>
+                <PMID Version="1">12621426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2003 Feb;14(2):417-31</RefSource>
+                <PMID Version="1">12589044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Mar 1;116(Pt 5):847-55</RefSource>
+                <PMID Version="1">12571282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Nov 11;159(3):441-52</RefSource>
+                <PMID Version="1">12417576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Oct;76(20):10455-64</RefSource>
+                <PMID Version="1">12239322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2002 Sep;4(9):691-8</RefSource>
+                <PMID Version="1">12198492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Nov;7(11):1825-34</RefSource>
+                <PMID Version="1">8930903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Apr 19;296(5567):535-9</RefSource>
+                <PMID Version="1">11964480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Jan;13(1):238-50</RefSource>
+                <PMID Version="1">11809836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Nov 30;294(5548):1929-32</RefSource>
+                <PMID Version="1">11729319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2001;17:517-68</RefSource>
+                <PMID Version="1">11687498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Oct 15;155(2):291-300</RefSource>
+                <PMID Version="1">11604424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Feb 1;277(5):3552-9</RefSource>
+                <PMID Version="1">11602587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2001 Oct;11(10):406-12</RefSource>
+                <PMID Version="1">11567873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 May;3(5):473-83</RefSource>
+                <PMID Version="1">11331875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2000 Sep 21;43(19):3482-6</RefSource>
+                <PMID Version="1">11000002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2000;69:699-727</RefSource>
+                <PMID Version="1">10966473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2000;69:531-69</RefSource>
+                <PMID Version="1">10966468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 1999 May;1(1):1-7</RefSource>
+                <PMID Version="1">10559856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Jan;8(1):47-57</RefSource>
+                <PMID Version="1">9017594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1997 Dec 15;57(24):5498-504</RefSource>
+                <PMID Version="1">9407958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Aug 17;17(16):4585-93</RefSource>
+                <PMID Version="1">9707418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Feb 22;144(4):657-72</RefSource>
+                <PMID Version="1">10037788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Mar 5;96(5):677-87</RefSource>
+                <PMID Version="1">10089883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1999 Feb 26;445(2-3):431-9</RefSource>
+                <PMID Version="1">10094502</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Caveolin 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Caveolins</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clathrin</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clathrin-Coated Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Video</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuraminidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Orthomyxoviridae</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS88408</OtherID>
+        <OtherID Source="NLM">PMC2748740</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2003</Year>
+                <Month>Dec</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>Mar</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2004</Year>
+                <Month>May</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15122347</ArticleId>
+            <ArticleId IdType="doi">10.1038/nsmb769</ArticleId>
+            <ArticleId IdType="pii">nsmb769</ArticleId>
+            <ArticleId IdType="pmc">PMC2748740</ArticleId>
+            <ArticleId IdType="mid">NIHMS88408</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

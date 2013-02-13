@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12829622</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>06</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-1797</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>52</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Diabetes</Title>
+                <ISOAbbreviation>Diabetes</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transcriptional program of the endocrine pancreas in mice and humans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1604-10</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Endocrine Pancreas Consortium was formed in late 1999 to derive and sequence cDNA libraries enriched for rare transcripts expressed in the mammalian endocrine pancreas. Over the past 3 years, the Consortium has generated 20 cDNA libraries from mouse and human pancreatic tissues and deposited &gt;150,000 sequences into the public expressed sequence tag databases. A special effort was made to enrich for cDNAs from the endocrine pancreas by constructing libraries from isolated islets. In addition, we constructed a library in which fetal pancreas from Neurogenin 3 null mice, which consists of only exocrine and duct cells, was subtracted from fetal wild-type pancreas to enrich for the transcripts from the endocrine compartment. Sequence analysis showed that these clones cluster into 9,464 assembly groups (approximating unique transcripts) for the mouse and 13,910 for the human sequences. Of these, &gt;4,300 were unique to Consortium libraries. We have assembled a core clone set containing one cDNA for each assembly group for the mouse and have constructed the corresponding microarray, termed &quot;PancChip 4.0,&quot; which contains &gt;9,000 nonredundant elements. We show that this PancChip is highly enriched for genes expressed in the endocrine pancreas. The mouse and human clone sets and corresponding arrays will be important resources for diabetes research.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Genetics, University of Pennsylvania, Philadelphia 19104, USA. kaestner@mail.med.upenn.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kaestner</LastName>
+                    <ForeName>Klaus H</ForeName>
+                    <Initials>KH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Catherine S</ForeName>
+                    <Initials>CS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scearce</LastName>
+                    <ForeName>L Marie</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brestelli</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arsenlis</LastName>
+                    <ForeName>Athanasios</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Phillip Phuc</ForeName>
+                    <Initials>PP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lantz</LastName>
+                    <ForeName>Kristen A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crabtree</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pizarro</LastName>
+                    <ForeName>Angel</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzarelli</LastName>
+                    <ForeName>Joan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinney</LastName>
+                    <ForeName>Deborah</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fischer</LastName>
+                    <ForeName>Steve</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manduchi</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoeckert</LastName>
+                    <ForeName>Christian J</ForeName>
+                    <Initials>CJ</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gradwohl</LastName>
+                    <ForeName>Gerard</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clifton</LastName>
+                    <ForeName>Sandra W</ForeName>
+                    <Initials>SW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Juliana R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inoue</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cras-Méneur</LastName>
+                    <ForeName>Corentin</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Permutt</LastName>
+                    <ForeName>M Alan</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>56947</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>56954</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Diabetes</MedlineTA>
+            <NlmUniqueID>0372763</NlmUniqueID>
+            <ISSNLinking>0012-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Complementary</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Complementary</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Expressed Sequence Tags</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Library</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Islets of Langerhans</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Homology, Nucleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12829622</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10477765</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9525</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>146</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Sep</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of cell biology</Title>
+                <ISOAbbreviation>J. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Distinct domains of MuSK mediate its abilities to induce and to associate with postsynaptic specializations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1133-46</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Agrin released from motor nerve terminals activates a muscle-specific receptor tyrosine kinase (MuSK) in muscle cells to trigger formation of the skeletal neuromuscular junction. A key step in synaptogenesis is the aggregation of acetylcholine receptors (AChRs) in the postsynaptic membrane, a process that requires the AChR-associated protein, rapsyn. Here, we mapped domains on MuSK necessary for its interactions with agrin and rapsyn. Myotubes from MuSK(-/)- mutant mice form no AChR clusters in response to agrin, but agrin-responsiveness is restored by the introduction of rat MuSK or a Torpedo orthologue. Thus, MuSK(-/)- myotubes provide an assay system for the structure-function analysis of MuSK. Using this system, we found that sequences in or near the first of four extracellular immunoglobulin-like domains in MuSK are required for agrin responsiveness, whereas sequences in or near the fourth immunoglobulin-like domain are required for interaction with rapsyn. Analysis of the cytoplasmic domain revealed that a recognition site for the phosphotyrosine binding domain-containing proteins is essential for MuSK activity, whereas consensus binding sites for the PSD-95/Dlg/ZO-1-like domain-containing proteins and phosphatidylinositol-3-kinase are dispensable. Together, our results indicate that the ectodomain of MuSK mediates both agrin- dependent activation of a complex signal transduction pathway and agrin-independent association of the kinase with other postsynaptic components. These interactions allow MuSK not only to induce a multimolecular AChR-containing complex, but also to localize that complex to a primary scaffold in the postsynaptic membrane.</AbstractText>
+            </Abstract>
+            <Affiliation>Washington University School of Medicine, St. Louis, Missouri 63110, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glass</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yancopoulos</LastName>
+                    <ForeName>G D</ForeName>
+                    <Initials>GD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanes</LastName>
+                    <ForeName>J R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Cell Biol</MedlineTA>
+            <NlmUniqueID>0375356</NlmUniqueID>
+            <ISSNLinking>0021-9525</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Agrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Muscle Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cholinergic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Nerve Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>peripheral membrane protein 43K</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>21820-51-9</RegistryNumber>
+                <NameOfSubstance>Phosphotyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56-65-5</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositol 3-Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>MUSK protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor Protein-Tyrosine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, trkC</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1985 May;100(5):1698-705</RefSource>
+                <PMID Version="1">3886673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1998 Aug 13;17(6):691-7</RefSource>
+                <PMID Version="1">9715270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1995 Sep;96(3):1473-83</RefSource>
+                <PMID Version="1">7544807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1995 Jul;20(7):277-80</RefSource>
+                <PMID Version="1">7545337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1995 Sep;15(3):573-84</RefSource>
+                <PMID Version="1">7546737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1995 Nov;172(1):158-69</RefSource>
+                <PMID Version="1">7589796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1995 Jul;15(1):115-26</RefSource>
+                <PMID Version="1">7619516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1995 Jul 20;11(2):281-90</RefSource>
+                <PMID Version="1">7624144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Sep 21;377(6546):232-6</RefSource>
+                <PMID Version="1">7675108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Mar 12;72(5):767-78</RefSource>
+                <PMID Version="1">7680959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Apr 1;90(7):2895-9</RefSource>
+                <PMID Version="1">8385349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1993 Sep;11(3):491-502</RefSource>
+                <PMID Version="1">8398142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1993 Jan;155(1):275-80</RefSource>
+                <PMID Version="1">8416841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 1993 Jul;42(7):1041-54</RefSource>
+                <PMID Version="1">8513971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1996 May;16(5):953-62</RefSource>
+                <PMID Version="1">8630253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 May 31;85(5):695-705</RefSource>
+                <PMID Version="1">8646778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 May 17;85(4):501-12</RefSource>
+                <PMID Version="1">8653786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 May 17;85(4):513-23</RefSource>
+                <PMID Version="1">8653787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 May 17;85(4):525-35</RefSource>
+                <PMID Version="1">8653788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Mar 18;94(6):2654-9</RefSource>
+                <PMID Version="1">9122251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1997 Apr;18(4):623-35</RefSource>
+                <PMID Version="1">9136771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8848-53</RefSource>
+                <PMID Version="1">9238066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1997 Sep 1;17(17):6534-44</RefSource>
+                <PMID Version="1">9254666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Neurosci. 1997;9(4):237-53</RefSource>
+                <PMID Version="1">9268503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Oct 6;139(1):181-91</RefSource>
+                <PMID Version="1">9314538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1998;228:23-38</RefSource>
+                <PMID Version="1">9401201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1998;228:209-33</RefSource>
+                <PMID Version="1">9401208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Jan 15;12(2):133-48</RefSource>
+                <PMID Version="1">9436975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Mar 13;273(11):6467-73</RefSource>
+                <PMID Version="1">9497380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1998 Apr 15;253(2):382-9</RefSource>
+                <PMID Version="1">9654087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1998 May 13;841:1-13</RefSource>
+                <PMID Version="1">9668217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Neurobiol. 1998 Jun;8(3):364-9</RefSource>
+                <PMID Version="1">9687358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 14;273(33):20996-1002</RefSource>
+                <PMID Version="1">9694850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Neurosci. 1998 Aug;11(5-6):324-33</RefSource>
+                <PMID Version="1">9698397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 1999 Feb;11(2):373-82</RefSource>
+                <PMID Version="1">10051737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 1999;22:389-442</RefSource>
+                <PMID Version="1">10202544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1999 May 1;19(9):3376-83</RefSource>
+                <PMID Version="1">10212297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res Dev Brain Res. 1999 May 14;114(2):171-8</RefSource>
+                <PMID Version="1">10320756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1999 May;23(1):33-44</RefSource>
+                <PMID Version="1">10402191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1992 Sep;9(3):383-91</RefSource>
+                <PMID Version="1">1326293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Aug;21(2):335-45</RefSource>
+                <PMID Version="1">9728915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Sep 18;94(6):773-82</RefSource>
+                <PMID Version="1">9753324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1998;67:481-507</RefSource>
+                <PMID Version="1">9759495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Neurosci. 1998 Nov;21(11):476-81</RefSource>
+                <PMID Version="1">9829689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Res. 1998 Sep;32(1):1-7</RefSource>
+                <PMID Version="1">9831248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Dec;21(6):1453-63</RefSource>
+                <PMID Version="1">9883737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Apr 3;69(1):67-77</RefSource>
+                <PMID Version="1">1555243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Sep 6;66(5):967-79</RefSource>
+                <PMID Version="1">1653651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1990 Oct;5(4):403-10</RefSource>
+                <PMID Version="1">1698395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 Feb 1;251(4993):568-70</RefSource>
+                <PMID Version="1">1703661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Jun 15;88(12):5096-100</RefSource>
+                <PMID Version="1">1711218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1991 Dec;115(6):1713-23</RefSource>
+                <PMID Version="1">1757470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1977 May;11(1):95-103</RefSource>
+                <PMID Version="1">194709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Feb 5;262(4):1842-7</RefSource>
+                <PMID Version="1">3100537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Oct 23;51(2):199-209</RefSource>
+                <PMID Version="1">3499230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1998 Jul 15;199(2):309-19</RefSource>
+                <PMID Version="1">9698449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 May;15(5):2500-8</RefSource>
+                <PMID Version="1">7537849</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Agrin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Fusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphotyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor Protein-Tyrosine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, trkC</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cholinergic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Nerve Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Membranes</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Torpedo</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2169478</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10477765</ArticleId>
+            <ArticleId IdType="pmc">PMC2169478</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

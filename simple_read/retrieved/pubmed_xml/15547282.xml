@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15547282</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9193</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>186</Volume>
+                    <Issue>23</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unmasking novel sporulation genes in Bacillus subtilis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8089-95</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Bacillus subtilis transcription factor sigma(E) directs the expression of a regulon of 262 genes, but null mutations in only a small fraction of these genes severely impair sporulation. We have previously reported that mutations in seven sigma(E)-controlled genes cause a mild (2- to 10-fold) defect in sporulation. In this study, we found that pairwise combinations of some of these seven mutations led to strong synthetic sporulation phenotypes, especially those involving the ytrHI operon and ybaN. Double mutants of ybaN and ytrH and of ybaN and ytrI had &gt;10,000-fold lower sporulation efficiencies than the wild type. Thin-section electron microscopy revealed a block in cortex formation for the ybaN ytrH double mutant and coat defects for the ybaN single and ybaN ytrI double mutants. Sporulating cells of a ybaN ytrI double mutant and of a ybaN ytrHI triple mutant exhibited a pronounced loss of dipicolinic acid (DPA) between hours 8 and 24 of sporulation, in contrast to the constant levels seen for the wild type. An analysis of the spore cortex peptidoglycans of the ybaN ytrI and ybaN ytrHI mutants showed striking decreases in the levels of total muramic acid by hour 24 of sporulation. These data, along with the loss of DPA in the mutants, suggest that the developing spores were unstable and that the cortex underwent degradation late in sporulation. The existence of otherwise hidden sporulation pathways indicates that functional redundancy may mask the role of hitherto unrecognized sporulation genes.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, The Biological Laboratories, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Silvaggi</LastName>
+                    <ForeName>Jessica M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popham</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Driks</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eichenberger</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Losick</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM18568</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM53989</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM56695</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM056695-05</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptidoglycan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Sigma Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>sporulation-specific sigma factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1999 Oct;181(20):6230-7</RefSource>
+                <PMID Version="1">10515909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Nov 20;282(5393):1516-9</RefSource>
+                <PMID Version="1">9822387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Jul 26;1475(3):353-9</RefSource>
+                <PMID Version="1">10913836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Mar;183(5):1645-54</RefSource>
+                <PMID Version="1">11160095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2001 Apr;147(Pt 4):919-27</RefSource>
+                <PMID Version="1">11283287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Nov 2;107(3):339-46</RefSource>
+                <PMID Version="1">11701124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2002 Mar;59(3):426-33</RefSource>
+                <PMID Version="1">11964121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Nov;184(21):6007-15</RefSource>
+                <PMID Version="1">12374835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Feb;185(4):1391-8</RefSource>
+                <PMID Version="1">12562810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Apr 11;327(5):945-72</RefSource>
+                <PMID Version="1">12662922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bacteriol Rev. 1976 Dec;40(4):908-62</RefSource>
+                <PMID Version="1">12736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 1992 Jul-Aug;74(7-8):689-94</RefSource>
+                <PMID Version="1">1391048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 Oct;149(Pt 10):3011-21</RefSource>
+                <PMID Version="1">14523132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Nov;185(21):6255-61</RefSource>
+                <PMID Version="1">14563859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Jan;186(1):80-9</RefSource>
+                <PMID Version="1">14679227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Jul;186(14):4441-8</RefSource>
+                <PMID Version="1">15231775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2004 Oct;2(10):e328</RefSource>
+                <PMID Version="1">15383836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1987 Dec;117(4):603-17</RefSource>
+                <PMID Version="1">2828153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1986 Sep;117(1):252-66</RefSource>
+                <PMID Version="1">3017794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1969 Jun;113(1):29-37</RefSource>
+                <PMID Version="1">4185146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1965 Sep;54(3):704-11</RefSource>
+                <PMID Version="1">4956288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plasmid. 1984 Jul;12(1):1-9</RefSource>
+                <PMID Version="1">6093169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1994 May 3;142(1):79-83</RefSource>
+                <PMID Version="1">8181761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1993 Aug;9(4):761-71</RefSource>
+                <PMID Version="1">8231808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1993 Jan;175(2):528-40</RefSource>
+                <PMID Version="1">8419299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 1996 Mar 15;12(3):259-65</RefSource>
+                <PMID Version="1">8904338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Genet. 1996;30:297-41</RefSource>
+                <PMID Version="1">8982457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2000 Aug;182(16):4491-9</RefSource>
+                <PMID Version="1">10913082</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacillus subtilis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Operon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptidoglycan</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sigma Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spores, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Terminology as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC529092</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">186/23/8089</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.186.23.8089-8095.2004</ArticleId>
+            <ArticleId IdType="pubmed">15547282</ArticleId>
+            <ArticleId IdType="pmc">PMC529092</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

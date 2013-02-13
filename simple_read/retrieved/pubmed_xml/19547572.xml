@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">19547572</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Sep</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemically-selective imaging of brain structures with CARS microscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>12076-87</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We demonstrate the use of coherent anti-Stokes Raman scattering (CARS) microscopy to image brain structure and pathology ex vivo. Although non-invasive clinical brain imaging with CT, MRI and PET has transformed the diagnosis of neurologic disease, definitive pre-operative distinction of neoplastic and benign pathologies remains elusive. Definitive diagnosis still requires brain biopsy in a significant number of cases. CARS microscopy, a nonlinear, vibrationally-sensitive technique, is capable of high-sensitivity chemically-selective three-dimensional imaging without exogenous labeling agents. Like MRI, CARS can be tuned to provide a wide variety of possible tissue contrasts, but with sub-cellular spatial resolution and near real time temporal resolution. These attributes make CARS an ideal technique for fast, minimally invasive, non-destructive, molecularly specific intraoperative optical diagnosis of brain lesions. This promises significant clinical benefit to neurosurgical patients by providing definitive diagnosis of neoplasia prior to tissue biopsy or resection. CARS imaging can augment the diagnostic accuracy of traditional frozen section histopathology in needle biopsy and dynamically define the margins of tumor resection during brain surgery. This report illustrates the feasibility of in vivo CARS vibrational histology as a clinical tool for neuropathological diagnosis by demonstrating the use of CARS microscopy in identifying normal brain structures and primary glioma in fresh unfixed and unstained ex vivo brain tissue.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Conor L</ForeName>
+                    <Initials>CL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiaoyin</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kesari</LastName>
+                    <ForeName>Santosh</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>X Sunney</ForeName>
+                    <Initials>XS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Steven T C</ForeName>
+                    <Initials>ST</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Geoffrey S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">141231</ArticleId>
+            <ArticleId IdType="pubmed">19547572</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

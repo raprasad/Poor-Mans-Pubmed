@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">14694470</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1433-7851</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>43</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angewandte Chemie (International ed. in English)</Title>
+                <ISOAbbreviation>Angew. Chem. Int. Ed. Engl.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A planning strategy for diversity-oriented synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>46-58</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In contrast to target-oriented synthesis (TOS) and medicinal or combinatorial chemistry, which aim to access precise or dense regions of chemistry space, diversity-oriented synthesis (DOS) populates chemical space broadly with small-molecules having diverse structures. The goals of DOS include the development of pathways leading to the efficient (three- to five-step) synthesis of collections of small molecules having skeletal and stereochemical diversity with defined coordinates in chemical space. Ideally, these pathways also yield compounds having the potential to attach appendages site- and stereoselectively to a variety of attachment sites during a post-screening, maturation stage. The diverse skeletons and stereochemistries ensure that the appendages can be positioned in multiple orientations about the surface of the molecules. TOS as well as medicinal and combinatorial chemistries have been advanced by the development of retrosynthetic analysis. Although the distinct goals of DOS do not permit the application of retrosynthetic concepts and thinking, these foundations are being built on, by using parallel logic, to develop a complementary procedure known as forward-synthetic analysis. This analysis facilitates synthetic planning, communication, and teaching in this evolving discipline.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Howard Hughes Medical Institute, ICCB, Harvard University, 12 Oxford Street, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Martin D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+            <NlmUniqueID>0370543</NlmUniqueID>
+            <ISSNLinking>1433-7851</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14694470</ArticleId>
+            <ArticleId IdType="doi">10.1002/anie.200300626</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

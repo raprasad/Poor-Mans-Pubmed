@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">22241535</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-3773</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angewandte Chemie (International ed. in English)</Title>
+                <ISOAbbreviation>Angew. Chem. Int. Ed. Engl.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The even-handed approach: strategies for the deployment of racemic chiral catalysts.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1526-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/anie.201106836</ELocationID>
+            <Abstract>
+                <AbstractText>Asymmetric catalysis is predominantly associated with the use of enantiomerically pure chiral ligands and catalysts. Although racemic chiral catalysts have been employed quite extensively in polymerization, their utility in mainstream organic synthesis and catalyst development has arguably been rather overlooked. This Minireview collates various themes for the strategic application of racemic ligands and catalysts, ranging from the estimation of selectivity and determination of enantiomeric excess, through to control of regio- and stereochemical outcomes, and mechanistic studies. What emerges is a clear picture that, in isolation or in concert with enantiopure catalysts, the &quot;even-handed&quot; approach has much to offer.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <Affiliation>School of Chemistry, University of Bristol, Cantock's Close, Bristol, BS8 1TS, UK.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Louise A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodnett</LastName>
+                    <ForeName>Neil S</ForeName>
+                    <Initials>NS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lloyd-Jones</LastName>
+                    <ForeName>Guy C</ForeName>
+                    <Initials>GC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+            <NlmUniqueID>0370543</NlmUniqueID>
+            <ISSNLinking>1433-7851</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/anie.201106836</ArticleId>
+            <ArticleId IdType="pubmed">22241535</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12937270</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1059-1524</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology of the cell</Title>
+                <ISOAbbreviation>Mol. Biol. Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations in a beta-tubulin disrupt spindle orientation and microtubule dynamics in the early Caenorhabditis elegans embryo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4512-25</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The early Caenorhabditis elegans embryo contains abundant transcripts for two alpha- and two beta-tubulins, raising the question of whether each isoform performs specialized functions or simply contributes to total tubulin levels. Our identification of two recessive, complementing alleles of a beta-tubulin that disrupt nuclear-centrosome centration and rotation in the early embryo originally suggested that this tubulin, tbb-2, has specialized functions. However, embryos from tbb-2 deletion worms do not have defects in nuclear-centrosome centration and rotation suggesting that the complementing alleles are not null mutations. Both complementing alleles have distinct effects on microtubule dynamics and show allele-specific interactions with the two embryonically expressed alpha-tubulins: One of the alleles causes microtubules to be cold stable and resistant to the microtubule-depolymerizing drug benomyl, whereas the other causes cell cycle-specific defects in microtubule polymerization. Gene-specific RNA interference targeting all four embryonically expressed tubulin genes singly and in all double combinations showed that the tubulin isoforms in the early embryo are largely functionally redundant with the exception of tbb-2. tbb-2 is required for centrosome stabilization during anaphase of the first cell division, suggesting that tbb-2 may be specialized for interactions with the cell cortex.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>Amanda J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Craig P</ForeName>
+                    <Initials>CP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2003</Year>
+                <Month>08</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Biol Cell</MedlineTA>
+            <NlmUniqueID>9201390</NlmUniqueID>
+            <ISSNLinking>1059-1524</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tubulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>17804-35-2</RegistryNumber>
+                <NameOfSubstance>Benomyl</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Oct 4;147(1):135-50</RefSource>
+                <PMID Version="1">10508861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Mar 8;144(5):927-46</RefSource>
+                <PMID Version="1">10085292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2000 May;11(5):1887-903</RefSource>
+                <PMID Version="1">10793159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2000 May 1;14(9):1072-84</RefSource>
+                <PMID Version="1">10809666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Nov 24;275(47):37038-47</RefSource>
+                <PMID Version="1">10956651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Oct 27;290(5492):809-12</RefSource>
+                <PMID Version="1">11052945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Nov 16;408(6810):325-30</RefSource>
+                <PMID Version="1">11099033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Nov 16;408(6810):331-6</RefSource>
+                <PMID Version="1">11099034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Jan;114(Pt 2):247-55</RefSource>
+                <PMID Version="1">11148127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Feb 1;409(6820):630-3</RefSource>
+                <PMID Version="1">11214323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2001 Apr;11(4):160-6</RefSource>
+                <PMID Version="1">11306295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2001 Jun;28(2):160-4</RefSource>
+                <PMID Version="1">11381264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 May 13;157(4):591-602</RefSource>
+                <PMID Version="1">12011109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Aug;13(8):2919-32</RefSource>
+                <PMID Version="1">12181356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2002 Oct;129(19):4469-81</RefSource>
+                <PMID Version="1">12223405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2003 Mar;130(5):889-900</RefSource>
+                <PMID Version="1">12538516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2003 Apr 29;13(9):707-14</RefSource>
+                <PMID Version="1">12725727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Genet. 1992 Apr;21(4-5):399-404</RefSource>
+                <PMID Version="1">1388107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Motil Cytoskeleton. 1992;22(3):170-4</RefSource>
+                <PMID Version="1">1423663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Sep;111(3):1009-26</RefSource>
+                <PMID Version="1">2118141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1990 Nov;126(3):593-605</RefSource>
+                <PMID Version="1">2249759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Dec;109(6 Pt 1):2993-3003</RefSource>
+                <PMID Version="1">2592410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Jun;3(6):870-81</RefSource>
+                <PMID Version="1">2744465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Sep;109(3):1185-93</RefSource>
+                <PMID Version="1">2768338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1986 Nov;6(11):3722-33</RefSource>
+                <PMID Version="1">3540600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1987 Nov;105(5):2123-35</RefSource>
+                <PMID Version="1">3680373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1974 May;77(1):71-94</RefSource>
+                <PMID Version="1">4366476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Nov;35(1):15-25</RefSource>
+                <PMID Version="1">6684994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1984 Jan;101(1):61-72</RefSource>
+                <PMID Version="1">6692980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1994 Nov;60(11):4155-9</RefSource>
+                <PMID Version="1">7993097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Aug 11;138(3):629-41</RefSource>
+                <PMID Version="1">9245791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Sep 8;138(5):1023-40</RefSource>
+                <PMID Version="1">9281581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Sep 8;138(5):1041-53</RefSource>
+                <PMID Version="1">9281582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 1998;178:207-75</RefSource>
+                <PMID Version="1">9348671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jan 8;391(6663):199-203</RefSource>
+                <PMID Version="1">9428769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 1997;13:83-117</RefSource>
+                <PMID Version="1">9442869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Feb 19;391(6669):806-11</RefSource>
+                <PMID Version="1">9486653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Jun 1;141(5):1159-68</RefSource>
+                <PMID Version="1">9606208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Jul;9(7):1757-71</RefSource>
+                <PMID Version="1">9658169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1998 Sep;150(1):119-28</RefSource>
+                <PMID Version="1">9725834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 1998 Sep;42(9):2171-3</RefSource>
+                <PMID Version="1">9736529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Oct 8;8(20):1110-6</RefSource>
+                <PMID Version="1">9778526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jul 7;275(27):20748-53</RefSource>
+                <PMID Version="1">10770946</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Alleles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anaphase</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Benomyl</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Caenorhabditis elegans</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Centrosome</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryo, Nonmammalian</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microtubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitotic Spindle Apparatus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tubulin</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC268303</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2003</Year>
+                <Month>Aug</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12937270</ArticleId>
+            <ArticleId IdType="doi">10.1091/mbc.E03-01-0017</ArticleId>
+            <ArticleId IdType="pii">E03-01-0017</ArticleId>
+            <ArticleId IdType="pmc">PMC268303</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

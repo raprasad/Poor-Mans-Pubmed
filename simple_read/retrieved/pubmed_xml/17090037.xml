@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">17090037</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>128</Volume>
+                    <Issue>45</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Nov</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Controlled modulation of conductance in silicon devices by molecular monolayers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14537-41</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have controllably modulated the drain current (I(D)) and threshold voltage (V(T)) in pseudo metal-oxide-semiconductor field-effect transistors (MOSFETs) by grafting a monolayer of molecules atop oxide-free H-passivated silicon surfaces. An electronically controlled series of molecules, from strong pi-electron donors to strong pi-electron acceptors, was covalently attached onto the channel region of the transistors. The device conductance was thus systematically tuned in accordance with the electron-donating ability of the grafted molecules, which is attributed to the charge transfer between the device channel and the molecules. This surface grafting protocol might serve as a useful method for controlling electronic characteristics in small silicon devices at future technology nodes.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry, Rice University, Houston, Texas 77005, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Jianli</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Meng</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pang</LastName>
+                    <ForeName>Harry</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reus</LastName>
+                    <ForeName>William F</ForeName>
+                    <Initials>WF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nolte</LastName>
+                    <ForeName>Whitney M</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nackashi</LastName>
+                    <ForeName>David P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franzon</LastName>
+                    <ForeName>Paul D</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tour</LastName>
+                    <ForeName>James M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja063571l</ArticleId>
+            <ArticleId IdType="pubmed">17090037</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

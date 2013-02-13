@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">19461948</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>5</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0040-4039</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>39</Volume>
+                    <Issue>41</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Tetrahedron letters</Title>
+                <ISOAbbreviation>Tetrahedron Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Acid- and Base-Stable o-Nitrobenzyl Photolabile Linker for Solid Phase Organic Synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7451-7454</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The synthesis of an o-nitrobenzyl photolabile linker (1) from o-nitrobenzaldehyde is described, and the efficiency of its light-mediated (365 nm) cleavage is found to be comparable to related, previously developed systems. In contrast, 1 is shown to be stable to acid, base, and Lewis acid/amine combinations while the previously developed linker 2 is shown to degrade under the latter two conditions.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Institute of Chemistry and Cell Biology, Howard Hughes Medical Institute, Harvard University, 12 Oxford St., Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Sternson</LastName>
+                    <ForeName>Scott M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author>
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID/>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Tetrahedron Lett</MedlineTA>
+            <NlmUniqueID>2984819R</NlmUniqueID>
+            <ISSNLinking>0040-4039</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19461948</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

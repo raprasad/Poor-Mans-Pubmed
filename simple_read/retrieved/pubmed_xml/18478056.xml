@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18478056</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>LED arrays as cost effective and efficient light sources for widefield microscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e2146</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>New developments in fluorophores as well as in detection methods have fueled the rapid growth of optical imaging in the life sciences. Commercial widefield microscopes generally use arc lamps, excitation/emission filters and shutters for fluorescence imaging. These components can be expensive, difficult to maintain and preclude stable illumination. Here, we describe methods to construct inexpensive and easy-to-use light sources for optical microscopy using light-emitting diodes (LEDs). We also provide examples of its applicability to biological fluorescence imaging.</AbstractText>
+            </Abstract>
+            <Affiliation>Program in Neuroscience, Harvard Medical School, Boston, Massachusetts, United States of America.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Albeanu</LastName>
+                    <ForeName>Dinu F</ForeName>
+                    <Initials>DF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soucy</LastName>
+                    <ForeName>Edward</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sato</LastName>
+                    <ForeName>Tomokazu F</ForeName>
+                    <Initials>TF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meister</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murthy</LastName>
+                    <ForeName>Venkatesh N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1999 Jul;23(3):499-511</RefSource>
+                <PMID Version="1">10433262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2001 Feb 15;21(4):1351-60</RefSource>
+                <PMID Version="1">11160406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microsc. 2001 Aug;203(Pt 2):176-81</RefSource>
+                <PMID Version="1">11489073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2001 Nov 20;32(4):723-35</RefSource>
+                <PMID Version="1">11719211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2004 Apr 8;42(1):9-21</RefSource>
+                <PMID Version="1">15066261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Methods. 2005 Jan 30;141(1):165-9</RefSource>
+                <PMID Version="1">15585300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jul 9;394(6689):192-5</RefSource>
+                <PMID Version="1">9671304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2005 Dec;2(12):910-9</RefSource>
+                <PMID Version="1">16299476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Apr 14;312(5771):217-24</RefSource>
+                <PMID Version="1">16614209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2006 Oct 11;26(41):10380-6</RefSource>
+                <PMID Version="1">17035522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microsc. 2007 Apr;226(Pt 1):1-5</RefSource>
+                <PMID Version="1">17381703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Instrum Technol. 2007 Nov-Dec;41(6):461-4</RefSource>
+                <PMID Version="1">18085085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1986 Nov 27-Dec 3;324(6095):361-4</RefSource>
+                <PMID Version="1">3785405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 2005 Feb;38(2):204, 206</RefSource>
+                <PMID Version="1">15727126</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cost-Benefit Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy</DescriptorName>
+                <QualifierName MajorTopicYN="N">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2361193</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0002146</ArticleId>
+            <ArticleId IdType="pubmed">18478056</ArticleId>
+            <ArticleId IdType="pmc">PMC2361193</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

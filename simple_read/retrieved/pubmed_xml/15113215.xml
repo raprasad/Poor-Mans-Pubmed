@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">15113215</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>126</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>May</Month>
+                        <Day>5</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Practical procedures for the preparation of N-tert-butyldimethylsilylhydrazones and their use in modified Wolff-Kishner reductions and in the synthesis of vinyl halides and gem-dihalides.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5436-45</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this work we develop practical chemistry for the preparation of N-tert-butyldimethylsilylhydrazone (TBSH) derivatives from carbonyl-containing compounds and show that these products serve as superior alternatives to simple hydrazones in Wolff-Kishner-type reduction reactions, in the Barton vinyl iodide preparation, in the synthesis of vinyl bromides, and in the synthesis of gem-diiodides, gem-dibromides, and gem-dichlorides. In our new procedure for silyl hydrazone synthesis, aliphatic and aromatic ketones and aldehydes are shown to undergo highly efficient coupling (typically &gt;95% yield) to form the corresponding TBSH derivatives when combined with equimolar amounts of 1,2-bis(tert-butyldimethylsilyl)hydrazine (BTBSH) and a catalytic quantity of scandium trifluoromethanesulfonate (typically, 0.01 mol %), neat, or in solvent. Optimized procedures are provided for the use of TBSH derivatives in a Wolff-Kishner-type reduction protocol that proceeds at low temperature (23-100 degrees C) and in a single reaction flask. Similarly, protocols for the use of TBSH derivatives as precursors to vinyl halides and gem-dihalides are described in detail.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Furrow</LastName>
+                    <ForeName>Michael E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myers</LastName>
+                    <ForeName>Andrew G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15113215</ArticleId>
+            <ArticleId IdType="doi">10.1021/ja049694s</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

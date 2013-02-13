@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10385628</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0890-9369</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genes &amp; development</Title>
+                <ISOAbbreviation>Genes Dev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction between FGF and BMP signaling pathways regulates development of metanephric mesenchyme.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1601-13</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nephrogenesis in the mouse kidney begins at embryonic day 11 and ends approximately 10 days postpartum. During this period, new nephrons are continually being generated from a stem-cell population-the nephrogenic mesenchyme-in response to signals emanating from the tips of the branching ureter. Relatively little is known about the mechanism by which the nephrogenic mesenchyme cell population is maintained at the tips of the ureter in the presence of signals promoting tubulogenesis. Previous studies have shown that a loss of Bmp7 function leads to kidney defects that are a likely result of progressive loss of nephrogenic mesenchyme by apoptosis. The studies presented here demonstrate that BMP7 signaling can prevent apoptosis in explants of metanephric mesenchyme. The surviving mesenchyme cell population, however, is not competent to respond to signals promoting tubulogenesis. In conjunction with FGF2, BMP7 promotes growth and maintains competence of the mesenchyme in vitro. In addition, FGF2 and BMP7 signaling, both independently and in combination, inhibit tubulogenesis. Interestingly, FGF2 and BMP7 also promote expansion of the stromal progenitor cell population in whole kidney culture. Because BMP7 is not produced by stromal progenitor cells, these data suggest a novel interaction between the nephrogenic mesenchyme and stromal progenitor cell populations. A model for the regulation of nephrogenesis by FGF and BMP signaling is presented.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, The Biological Laboratories, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dudley</LastName>
+                    <ForeName>A T</ForeName>
+                    <Initials>AT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godin</LastName>
+                    <ForeName>R E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robertson</LastName>
+                    <ForeName>E J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Genes Dev</MedlineTA>
+            <NlmUniqueID>8711660</NlmUniqueID>
+            <ISSNLinking>0890-9369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bone Morphogenetic Protein 7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bone Morphogenetic Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Fibroblast Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transforming Growth Factor beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>103107-01-3</RegistryNumber>
+                <NameOfSubstance>Fibroblast Growth Factor 2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1996 Aug 25;178(1):198-202</RefSource>
+                <PMID Version="1">8812122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Aug 20;93(17):9021-6</RefSource>
+                <PMID Version="1">8799147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 May;124(9):1653-64</RefSource>
+                <PMID Version="1">9165114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Jul 25;90(2):247-55</RefSource>
+                <PMID Version="1">9244299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1997 Nov;273(5 Pt 2):F757-67</RefSource>
+                <PMID Version="1">9374839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Nov;124(22):4707-16</RefSource>
+                <PMID Version="1">9409686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1998 Feb;4(2):201-7</RefSource>
+                <PMID Version="1">9461194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1998 Mar;125(6):1005-15</RefSource>
+                <PMID Version="1">9463347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1998 Feb;8(1):103-11</RefSource>
+                <PMID Version="1">9529613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1998 Sep;125(17):3473-82</RefSource>
+                <PMID Version="1">9693150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Feb;126(3):547-54</RefSource>
+                <PMID Version="1">9876183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Mar;126(6):1139-48</RefSource>
+                <PMID Version="1">10021334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Dec;119(5):1327-33</RefSource>
+                <PMID Version="1">1447305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1991 Dec;113(4):1419-34</RefSource>
+                <PMID Version="1">1667382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1991 Oct;113(2):641-51</RefSource>
+                <PMID Version="1">1723680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Differentiation. 1991 Sep;48(1):25-31</RefSource>
+                <PMID Version="1">1743431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1991 Feb;111(2):531-42</RefSource>
+                <PMID Version="1">1893873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1990 Aug;109(4):787-95</RefSource>
+                <PMID Version="1">1977574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1991 Apr;144(2):248-61</RefSource>
+                <PMID Version="1">2010031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1987 Jul;105(1):599-608</RefSource>
+                <PMID Version="1">2440899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Dec 22-29;336(6201):772-4</RefSource>
+                <PMID Version="1">3205305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Jul 15;54(2):235-45</RefSource>
+                <PMID Version="1">3292056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Embryol Exp Morphol. 1972 Dec;28(3):615-31</RefSource>
+                <PMID Version="1">4676279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 1995 Aug;203(4):434-47</RefSource>
+                <PMID Version="1">7496035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 Nov 15;9(22):2795-807</RefSource>
+                <PMID Version="1">7590254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 Nov 15;9(22):2808-20</RefSource>
+                <PMID Version="1">7590255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 1995 Mar;50(1):71-83</RefSource>
+                <PMID Version="1">7605753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 May 9;92(10):4696-700</RefSource>
+                <PMID Version="1">7753867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Jul;130(1):217-26</RefSource>
+                <PMID Version="1">7790373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1995 Jan;167(1):50-60</RefSource>
+                <PMID Version="1">7851662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Dec 15;372(6507):679-83</RefSource>
+                <PMID Version="1">7990960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 1994 Mar;38(1):77-84</RefSource>
+                <PMID Version="1">8074998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1994 Jan 28;198(2):693-700</RefSource>
+                <PMID Version="1">8297380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Aug 27;74(4):679-91</RefSource>
+                <PMID Version="1">8395349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Jan 7;361(6407):68-71</RefSource>
+                <PMID Version="1">8421496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 May 3;85(3):331-43</RefSource>
+                <PMID Version="1">8616889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1996 Apr 1;237(1):295-302</RefSource>
+                <PMID Version="1">8620887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 1995 Nov;53(3):383-92</RefSource>
+                <PMID Version="1">8645604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Jun 15;10(12):1467-78</RefSource>
+                <PMID Version="1">8666231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 1997 Mar;208(3):349-62</RefSource>
+                <PMID Version="1">9056639</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Morphogenetic Protein 7</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Morphogenetic Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibroblast Growth Factor 2</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="Y">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney Tubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">embryology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesoderm</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Fibroblast Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Transforming Growth Factor beta</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC316794</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10385628</ArticleId>
+            <ArticleId IdType="pmc">PMC316794</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

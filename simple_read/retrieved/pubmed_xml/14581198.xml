@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14581198</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>07</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3495</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>85</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biophysical journal</Title>
+                <ISOAbbreviation>Biophys. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein evolution within a structural space.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2962-72</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Understanding of the evolutionary origins of protein structures represents a key component of the understanding of molecular evolution as a whole. Here we seek to elucidate how the features of an underlying protein structural &quot;space&quot; might impact protein structural evolution. We approach this question using lattice polymers as a completely characterized model of this space. We develop a measure of structural comparison of lattice structures that is analogous to the one used to understand structural similarities between real proteins. We use this measure of structural relatedness to create a graph of lattice structures and compare this graph (in which nodes are lattice structures and edges are defined using structural similarity) to the graph obtained for real protein structures. We find that the graph obtained from all compact lattice structures exhibits a distribution of structural neighbors per node consistent with a random graph. We also find that subgraphs of 3500 nodes chosen either at random or according to physical constraints also represent random graphs. We develop a divergent evolution model based on the lattice space which produces graphs that, within certain parameter regimes, recapitulate the scale-free behavior observed in similar graphs of real protein structures.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deeds</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dokholyan</LastName>
+                    <ForeName>Nikolay V</ForeName>
+                    <Initials>NV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shakhnovich</LastName>
+                    <ForeName>Eugene I</ForeName>
+                    <Initials>EI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biophys J</MedlineTA>
+            <NlmUniqueID>0370626</NlmUniqueID>
+            <ISSNLinking>0006-3495</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14132-6</RefSource>
+                <PMID Version="1">12384571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev E Stat Nonlin Soft Matter Phys. 2002 Sep;66(3 Pt 2A):036113</RefSource>
+                <PMID Version="1">12366190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Mar 18;100(6):3215-20</RefSource>
+                <PMID Version="1">12631702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev Lett. 2003 May 30;90(21):218101</RefSource>
+                <PMID Version="1">12786593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1995 Apr 7;247(4):536-40</RefSource>
+                <PMID Version="1">7723011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1993 Sep 5;233(1):123-38</RefSource>
+                <PMID Version="1">8377180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1993 Jun 28;325(1-2):23-8</RefSource>
+                <PMID Version="1">8513888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1996 Jan 1;24(1):206-9</RefSource>
+                <PMID Version="1">8594580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Aug 2;273(5275):666-9</RefSource>
+                <PMID Version="1">8662562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Dec 10;93(25):14249-55</RefSource>
+                <PMID Version="1">8962034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1996 Dec 20;264(5):1164-79</RefSource>
+                <PMID Version="1">9000638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Jan 1;29(1):22-8</RefSource>
+                <PMID Version="1">11125040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2001 Nov;8(11):953-7</RefSource>
+                <PMID Version="1">11685241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2001 Nov 2;313(4):673-81</RefSource>
+                <PMID Version="1">11697896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2002 Jan;2(1):11-21</RefSource>
+                <PMID Version="1">11788987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Evol Biol. 2002;2:1</RefSource>
+                <PMID Version="1">11801181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2002;31:45-71</RefSource>
+                <PMID Version="1">11988462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2002 Sep 6;322(1):65-78</RefSource>
+                <PMID Version="1">12215415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Phylogenet Evol. 2002 Sep;24(3):345-57</RefSource>
+                <PMID Version="1">12220976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Nov 14;420(6912):218-23</RefSource>
+                <PMID Version="1">12432406</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1303574</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14581198</ArticleId>
+            <ArticleId IdType="pmc">PMC1303574</ArticleId>
+            <ArticleId IdType="pii">S0006-3495(03)74716-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0006-3495(03)74716-X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

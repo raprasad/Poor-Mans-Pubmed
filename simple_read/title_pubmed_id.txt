@@ -1,0 +1,642 @@
+Lck Phosphorylates the Activation Loop Tyrosine of the Itk Kinase Domain and Activates Itk Kinase Activity|9312162
+The Signal Transduction of Motion and Antigen Recognition: Factors Affecting T Cell Function and Differentiation|9666556
+Biochemical Interactions Integrating Itk with the T Cell Receptor-Initiated Signaling Cascade|10636929
+Short-range Signaling by Candidate Morphogens of the TGF beta Family and Evidence for a Relay Mechanism of Induction|8797821
+Mouse Models of Tumor Development in Neurofibromatosis Type|10591652
+Reconstitution and Characterization of Two Forms of Cyclic Nucleotide-Gated Channels from Skeletal Muscle|8997225
+Expression of a Single Gene Produces Both Forms of Skeletal Muscle Cyclic Nucleotide-Gated Channels|9435530
+Regulation of ARNO Nucleotide Exchange by a PH Domain Electrostatic Switch|10531036
+Multiple Distinct Splicing Enhancers in the Protein-Coding Sequences of a Constitutively Spliced Pre-mRNA|9858550
+Selection and Characterization of Pre-mRNA Splicing Enhancers: Identification of Novel SR Protein-Specific Enhancer Sequences|10022858
+Structure of PI3K SH3 Domain and Analysis of the SH3 Family|7681364
+1H and 15N Assignments and Secondary Structure of PI3K SH3 Domain|7684988
+A Mammalian Protein Targeted by G1-Arresting Rapamycin-Receptor Complex|8008069
+Control of p70 S6 Kinase by Kinase Activity of FRAP in vivo|7566123
+cDNA Cloning and Gene Mapping of a Candidate Human Cell Cycle Checkpoint Protein|8610130
+Two Binding Orientations for Peptides to Src SH3 Domain: Development of a General Model for SH3-Ligand Interactions|7526465
+The Identification of Myriocin-Binding Proteins|10099133
+Mice Lacking Bmp6 Function|9664685
+Role of BMP Family Members During Kidney Development|10535316
+Interaction Between FGF and BMP Signaling Pathways Regulates Development of Metanephric Mesenchyme|10385628
+BMP7 Acts in Murine Lens Placode Development|10049573
+An IQGAP-Related Protein Controls Actin-Ring Formation and Cytokinesis in Yeast|9382845
+Synthesis of Calcineurin-Resistant Derivatives of FK506 and Selection of Compensatory Receptors|11841938
+Xnr4: a Xenopus Nodal-Related Gene Expressed in the Spemann Organizer|9133442
+Mutant Vg1 Ligands Disrupt Endoderm and Mesoderm Formation in Xenopus Embryos|9636082
+Mespo: a Novel Basic Helix-Loop-Helix Gene Expressed in the Presomitic Mesoderm and Posterior Tailbud of Xenopus Embryos|10354484
+A Mechanism of Bud1p GTPase Action Suggested by Mutational Analysis and Immunolocalization|8723349
+A Bacillus subtilis Gene Encoding a Protein Similar to Nucleotide Sugar Transferases Influences Cell Shape and Viability|9244290
+A Four-Dimensional View of Assembly of a Morphogenetic Protein During Sporulation in Bacillus subtilis|9922240
+Regulation of Drosophila Adh Promoter Switching by an Initiator-Targeted Repression Mechanism|9463385
+PRDI-BF1/Blimp-1 Repression is Mediated by Corepressors of the Groucho Family of Proteins|9887105
+A Novel Signaling Pathway from Rod Photoreceptors to Ganglion Cells in Mammalian Retina|9768836
+BMP-4-Responsive Regulation of Dorsal-Ventral Patterning by the Homeobox Protein Mix.1|8684465
+TGF-beta Signals and a Pattern in Xenopus laevis Endodermal Development|8631246
+Mechanisms of Concerted Firing Among Retinal Ganglion Cells|9539126
+Anticipation of Moving Stimuli by the Retina|10192333
+Analysis of Epithelial-Mesenchymal Interactions in the Initial Morphogenesis of the Mammalian Tooth|9769173
+Sonic Hedgehog Regulates Growth and Morphogenesis of the Tooth|11044393
+Reversal of Intrinsic DNA Bends in the IFN beta Gene Enhancer by Transcription Factors and the Architectural Protein HMG I(Y)|8548798
+Structure and Function of the Interferon-Beta Enhanceosome|10384326
+Substitution of His59 Converts CD39 Apyrase into an ADPase in a Quaternary Structure Dependent Manner|10625474
+TGF-beta Signals and a Pattern in Xenopus laevis Endodermal Development|8631246
+Mixer, a Homeobox Gene Required for Endoderm Development|9651252
+Casanova Plays an Early and Essential Role in Endoderm Formation in Zebrafish|10545242
+Septation, Dephosphorylation, and the Activation of SigmaF During Sporulation in Bacillus Subtilis|10323866
+MEKK1 Activates Both IkappaB Kinase alpha and IkappaB Kinase beta|9689078
+Fluctuation Analysis of Rotational Speeds of the Bacterial Flagellar Motor|7724590
+Do Cyanobacteria Swim Using Traveling Surface Waves?|8710872
+Torque Generating Units of the Bacterial Flagellar Motor Step Independently|8842231
+Temperature Dependence of Switching of the Bacterial Flagellar Motor by the Protein CheY(13DK106YW)|10388784
+Flagellar Determinants of Bacterial Sensitivity to chi-Phage|10449785
+Mutation of the Polo-Box Disrupts Localization and Mitotic Functions of the Mammalian Polo Kinase Plk|9689075
+Novel Regulatory Interactions Revealed by Studies of Murine Limb Pattern in Wnt-7a and En-1 Mutants|9362463
+The Classical Mouse Mutant Postaxial Hemimelia Results from a Mutation in the Wnt 7a Gene|9769174
+Probing Protein-Cofactor Interactions in the Terminal Oxidases by Second Derivative Spectroscopy: Study of Bacterial Enzymes with Cofactor Substitutions and heme A Model Compounds|7703856
+Activation of Protein Tyrosine Kinase PYK2 by the m1 Muscarinic Acetylcholine Receptor|9560226
+Tyrosine kinase Pyk2 mediates G-protein-coupled receptor regulation of the Ewing sarcoma RNA-binding protein EWS|10322114
+Tn10 transposition via a DNA hairpin intermediate|9778253
+Tn10 Transpososome Assembly Involves a Folded Intermediate that Must be Unfolded for Target Capture and Strand Transfer|10675347
+Structural Analysis of Antibody Specificity. Detailed Comparison of Five Fab'-Steroid Complexes|8071992
+Nuclear Histone Acetylases and Deacetylases and Transcriptional Regulation: HATs Off to HDACs|9667866
+Fiber-Derived Butyrate and the Prevention of Colon Cancer|9384528
+Nuclear Receptor Repression Mediated by a Complex Containing SMRT, mSin3A, and Histone Deacetylase|9150137
+Histone Deacetylase Activity is Required for Full Transcriptional Repression by mSin3A|9150133
+Chromatin Deacetylation by an ATP-Dependent Nucleosome Remodelling Complex|9804427
+A Role for Histone Deacetylase Activity in HDAC1-Mediated Transcriptional Repression|9520398
+Depudecin Induces Morphological Reversion of Transformed Fibroblasts via the Inhibition of Histone Deacetylase|9520369
+Three Proteins Define a Class of Human Histone Deacetylases Related to Yeast Hda1p|10220385
+Cloning, Expression and Chromosomal Location of SHH and IHH Two Human Homologues of The Drosophila Segment Polarity Gene Hedgehog|7590746
+Cell Interactions in Patterning the Mammalian Midbrain|9598387
+Sonic Hedgehog Regulates Proliferation and Inhibits Differentiation of CNS Precursor Cells|10516314
+A Local Wnt-3a Signal is Required for Development of the Mammalian Hippocampus|10631167
+Direct Observation of Disordered Regions in the Major Histocompatibility Complex Class II-Associated Invariant Chain|7568241
+Regulation of the p53 Protein by Protein Kinase C alpha and Protein Kinase C zeta|9571186
+A Second Calineurin Binding Site on the NFAT Regulatory Domain|10860980
+Use of Green Fluorescent Protein for Visualization of Cell-Specific Gene Expression and Subcellular Protein Localization During Sporulation in Bacillus subtilis|7592342
+Chromosome and Low Copy Plasmid Segregation in E. coli: Visual Evidence for Distinct Mechanisms|9323139
+Bipolar Localization of the Replication Origin Regions of Chromosomes in Vegetative and Sporulating Cells of B. subtilis|9054506
+Use of Time-Lapse Microscopy to Visualize Rapid Movement of the Replication Origin Region of the Chromosome During the Cell Cycle in Bacillus subtilis|9663676
+Structural Basis for Recognition and Repair of the Endogenous Mutagen 8-oxoguanine in DNA|10706276
+Selective Inhibition of Herpes Simplex Virus Type-1 Uracil-DNA Glycosylase by Designed Substrate Analogs|11084051
+Structural and Mechanistic Studies on Repair of 8-Oxoguanine in Mammalian Cells|12760025
+Coupling of Substrate Recognition and Catalysis by a Human Base-Excision DNA Repair Protein|11456534
+Product-Assisted Catalysis in Base-Excision DNA Repair|12592398
+Design and Discovery of Protein Dimerizers|10021413
+Exploiting Site-Site Interactions on Solid Support to Fenerate Dimeric Molecules|11348190
+An Even-Handed Approach|22241535
+Synthesis of Calcineurin-Resistant Derivatives of FK506 and Selection of Compensatory Receptors|11841938
+Uncleaved BAP31 in Association with A4 Protein at the Endoplasmic Reticulum is an Inhibitor of Fas-Initiated Release of Cytochrome c from Mitochondria|12529377
+Alpha 4 Associates with Protein Phosphatases 2A, 4, and 6|9647778
+Translation Control: Connecting Mitogens and the Ribosome|9545190
+Kinase Phosphorylation: Keeping it all in the Family|10421571
+FKBP12-Rapamycin-associated Protein (FRAP) Autophosphorylates at Serine 2481 under Translationally Repressive Conditions|10702316
+Small Molecule Developmental Screens Reveal the Logic and Timing of Vertebrate Development|11087852
+Flagellar Determinants of Bacterial Sensitivity to chi-Phage|10449785
+Torque-Generating Units of the Flagellar Motor of Escherichia coli Have a High Duty Ratio|10667798
+NF- B p105 Processing via the Ubiquitin-Proteasome Pathway|9430676
+Combgap Relays Wingless Signal Reception to the Determination of Cortical Cell Fate in the Drosophila Visual System|11106753
+Solution Structure of the Core NFATC1/DNA Complex|9506523
+Chemical Communication across the Zinc Tetrathiolate Cluster in Escherichia coli Ada, a Metalloactivated DNA Repair Protein|11560510
+A Methylation-Dependent Electrostatic Switch Controls DNA Repair and Transcriptional Activation by E. coli Ada|16209950
+Mutation of the Polo-Box Disrupts Localization and Mitotic Functions of the Mammalian Polo Kinase Plk|9689075
+Essential Function of the Polo Box of Cdc5 in Subcellular Localization and Induction of Cytokinetic Structures|10594031
+Identification of a New Uracil-DNA Glycosylase Family by Expression Cloning Using Synthetic Inhibitors|10074426
+Excision of Deaminated Cytosine from the Vertebrate Genome: Role of the SMUG1 Uracil-DNA Glycosylase|11483530
+Direct Visualization of a DNA Glycosylase Searching for Damage|11927259
+Structure and Specificity of the Vertebrate Anti-Mutator Uracil-DNA Glycosylase SMUG1|12820976
+Structure and Function of the Interferon-beta Enhanceosome|10384326
+Efficient Recruitment of TFIIB and CBP-RNA Polymerase II Holoenzyme by an Interferon-beta Enhanceosome in vitro|9770462
+PRDI-BF1/Blimp-1 Repression is Mediated by Corepressors of the Groucho Family of Proteins|9887105
+Functional Expression of Murine V2R Pheromone Receptors Involves Selective Association with the M10 and M1 Families of MHC Class Ib Molecules|12628182
+A Mitogen Gradient of Dorsal Midline Wnts Organizes Growth in the CNS|11959819
+A Miniaturized Arrayed Assay Format for Detecting Small Molecule-Protein Interactions in Cells|9427662
+CoREST is an Integral Component of the CoREST-Human Histone Deacetylase Complex|11171972
+A Modular Synthetic Approach Toward Exhaustively Stereodiversified Ligand Libraries|11112627
+Conformational Analysis of a Stereochemically Complete Set of cis-Enediol Peptide Analogues|12224961
+High-Affinity Mu Opioid Receptor Ligands Discovered by the Screening of an Exhaustively Stereodiversified Library of 1,5-Enediols|12418865
+Extensively Stereodiversified Scaffolds for Use in Diversity-Oriented Library Synthesis|12605474
+Mutations in Filamin 1 Prevent Migration of Cerebral Cortical Neurons in Human Periventricular Heterotopia|9883725
+MEX-3 Interacting Proteins Link Cell Polarity to Asymmetric Gene Expression in Caenorhabditis elegans|11830574
+Pairwise Use of Complexity-Generating Reactions in Diversity-Oriented Organic Synthesis|10814416
+Transmembrane Polar Residues of TCR beta Chain are Required for Signal Transduction|9701030
+Single-Cell Transcriptional Analysis of Neuronal Progenitors|12718852
+Single-Cell Transcriptional Profiles and Spatial Patterning of the Mammalian Olfactory Epithelium|15906233
+A One-Bead, One-Stock Solution Approach to Chemical Genetics: Part 2|11755397
+Systemic RNAi in C. elegans Requires the Putative Transmembrane Protein SID-1|11834782
+Systemic RNAi in Caenorhabditis elegans|17381285
+Caenorhabditis elegans SID-2 is Required for Environmental RNA Interference|17563372
+Mutations in a beta-Tubulin Disrupt Spindle Orientation and Microtubule Dynamics in the Early Caenorhabditis elegans Embryo|12937270
+Systemic RNAi in Caenorhabditis elegans|17381285
+Caenorhabditis elegans SID-2 is Required for Environmental RNA Interference|17563372
+Identification and Expression of Mouse Netrin-4|10940631
+Expression of Laminin Chains by Central Neurons: Analysis with Gene and Protein Trapping Techniques|12820173
+Distinct Domains of MuSK Mediate its Abilities to Induce and to Associate with Postsynaptic Specializations|10477765
+The Role of Ubiquitination in Drosophila Innate Immunity|16081424
+Functional Genomics of the Endocrine Pancreas: the Pancreas Clone Set and PancChip, New Resources for Diabetes Research|12086925
+Notch Gene Expression During Pancreatic Organogenesis|10842072
+Transcriptional Program of the Endocrine Pancreas in Mice and Humans|12829622
+Direct Lineage Tracing Reveals the Ontogeny of Pancreatic Cell Fates During Mouse Embryogenesis|12490294
+Adult Pancreatic beta-Cells are Formed by Self-Duplication Rather than Stem-Cell Differentiation|15129273
+FKBP12-Rapamycin-Associated Protein Associates with Mitochondria and Senses Osmotic Stress via Mitochondrial Dysfunction|11930000
+Systemic RNAi in Caenorhabditis elegans|17381285
+The Synthesis of an Exhaustively Stereodiversified Library of cis-1,5 Enediols by Silyl-tethered Ring Closing Metathesis|11440568
+High-Affinity Mu Opioid Receptor Ligands Discovered by the Screening of an Exhaustively Stereodiversified Library of 1,5-Enediols|12418865
+2-6-Dimethyltyrosine Analogues of a Stereodiversified Ligand Library: Highly Potent, Selective, Non-Peptidic Mu Opioid Receptor Agonists|12593647
+Unpredictable Stereochemical Preferences for Mu Opioid Receptor Activity in an Exhaustively Stereodiversified Library of 1,4-Enediols|12605477
+Structural Basis for Recognition and Repair of the Endogenous Mutagen 8-oxoguanine in DNA|10706276
+Structural and Mechanistic Studies on Repair of 8-Oxoguanine in Mammalian Cells|12760025
+Coupling of Substrate Recognition and Catalysis by a Human Base-Excision DNA Repair Protein|11456534
+Structural and Biochemical Exploration of a Critical Amino Acid in Human 8-Oxoguanine Glycosylase|12578369
+Covalent Trapping of Protein-DNA Complexes|14527324
+A Methylation-Dependent Electrostatic Switch Controls DNA Repair and Transcriptional Activation by E. coli Ada|16209950
+Single-Cell Transcriptional Analysis of Neuronal Progenitors|12718852
+Single-Cell Transcriptional Profiles and Spatial Patterning of the Mammalian Olfactory Epithelium|15906233
+Hedgehog Signals Regulate Multiple Aspects of Gastrointestinal Development|10821773
+Smoothened Mutants Reveal Redundant Roles for Shh and Ihh Signaling Including Regulation of L/R Asymmetry by Mouse Node|11440720
+High-Resolution Footprinting of Sequence-Specific Protein-DNA Contacts|11821865
+5-Amino-2'-Deoxyuridine, a Novel Thymidine Analogue for High-Resolution Footprinting of Protein-DNA Complexes|12599479
+Alternative Pre-mRNA Splicing and Proteome Expansion in Metazoans|12110900
+Promoter Choice Determines Splice Site Selection in Protocadherin and Pre-mRNA Splicing|12150904
+Delay in Synthesis of the 3' Splice Site Promotes Trans-Splicing of the Preceding 5' Splice Site|15837427
+Identification of Long-Range Regulatory Elements in the Protocadherin-alpha Gene Cluster|17172445
+A Modular Synthetic Approach Toward Exhaustively Stereodiversified Ligand Libraries|11112627
+Identification of Xenopus CENP-A and an Associated Centromeric DNA repeat|15673610
+Comparative DNA Sequence Analysis of Mouse and Human Protocadherin Gene Clusters|11230163
+Promoter choice determines splice site selection in protocadherin and pre-mRNA splicing|12150904
+Gradients of Substrate-Bound Laminin Orient Axonal Specification of Neurons|12237407
+Synaptic Vesicle Recycling Studied Using Transgenic Mice Expressing SynaptopHluorin|15837917
+In vitro Selection of RNA Aptamers Against a Composite Small Molecule-Protein Surface|16199752
+Nucleotide-Dependent Domain Movement in the ATPase Domain of a Human Type IIA DNA Topoisomerase|16100112
+Crystal Structure of Staphylococcus aureus tRNA Adenosine Deaminase, TadA in Complex with RNA|16415880
+Histone H3 Recognition and Presentation by the WDR5 Module of the MLL1 Complex|16829959
+Rapid Turnover of Actin in Dendritic Spines and its Regulation by Activity|11850630
+Real-Time Imaging of Rab3a and Rab5a Reveals Differential Roles in Presynaptic Function|16141272
+Molecular Detection of Pheromone Signals in Mammals: From Genes to Behaviour|12838330
+A Multireceptor Genetic Approach Uncovers an Ordered Integration of VNO Sensory Inputs in the Accessory Olfactory Bulb|16731509
+A Multipotent Progenitor Domain Guides Pancreatic Organogenesis|17609113
+Real-Time Analysis of Endosomal Lipid Transport by Live Cell Scintillation Proximity Assay|15314094
+Modulation of Endosomal Cholesteryl Ester Metabolism by Membrane Cholesterol|15657032
+Evidence in Support of a Docking Model for the Release of the Transcription Factor Sigma F from the Antisigma Factor SpoIIAB in Bacillus subtilis|12676949
+Contrasting Short-Term Plasticity at Two Sides of the Mitral Granule Reciprocal Synapse in the Mammalian Olfactory Bulb|16166156
+Structural and Mechanistic Studies on Repair of 8-Oxoguanine in Mammalian Cells|12760025
+Structural Insights into Lesion Recognition and Repair by the Bacterial 8-Oxoguanine DNA Glycosylase MutM|12055620
+Product-Assisted Catalysis in Base-Excision DNA Repair|12592398
+Structure of a Trapped Endonuclease III - DNA Covalent Intermediate|12840008
+DNA Lesion Recognition by the Bacterial Repair Enzyme MutM|14525999
+Structural Basis for Removal of Adenine Mispaired with 8-Oxoguanine by MutY Adenine DNA Glycosylase|14961129
+Structure of Human Cytidine Deaminase Bound to a Potent Inhibitor|15689149
+A Multireceptor Genetic Approach Uncovers an Ordered Integration of VNO Sensory Inputs in the Accessory Olfactory Bulb|16731509
+A Genetic Screen for Novel Components of the Ras/Mitogen-activated Protein Kinase Signaling Pathway That Interact with the Yan Gene of Drosophila Identifies Split Ends, a New RNA Recognition Motif-Containing Protein|10655223
+Eyes Absent Mediates Cross-Talk Between Retinal Determination Genes and the Receptor Tyrosine Kinase Signaling Pathway|11703923
+Methylation of Histone H3 Lys 4 in Coding Regions of Active Genes|12060701
+Global Nucleosome Occupancy in Yeast|15345046
+The Use of Chromatin Immunoprecipitation Assays in Genome-Wide Analyses of Histone Modifications|14975317
+Rpd3p Relocation Mediates the Transcriptional Response to Rapamycin in Yeast|15123258
+Signal Transduction: History Matters|12169717
+Positive Feedback Loops as a Flexible Biological Module|17398098
+Cholesterol Modification of Hedgehog Family Proteins|12208857
+The Morphogen Sonic Hedgehog Is an Axonal Chemoattractant that Collaborates with Netrin-1 in Midline Axon Guidance|12679031
+Hedgehog Signaling in the Neural Crest Cells Regulates the Patterning and Growth of Facial Primordia|15107405
+Notochord-Derived Shh Concentrates in Close Association with the Apically Positioned Basal Body in Neural Target Cells and Forms a Dynamic Gradient During Neural Patterning|18272593
+Signals from Lateral Plate Mesoderm Instruct Endoderm Toward a Pancreatic Fate|12812792
+Pancreas Specification: A Budding Question|12888014
+Promoter Choice Determines Splice|12150904
+Identification of Long-Range Regulatory Elements in the Protocadherin-alpha Gene Cluster|17172445
+Unmasking Novel Sporulation Genes in Bacillus subtilis|15547282
+A Small, Untranslated RNA Antitoxin in Bacillus subtilis|16166525
+DNA Replication Is Required for the Checkpoint Response to Damaged DNA in Xenopus Egg Extracts|12213834
+DNA Damage-Induced Replication Arrest in Xenopus Egg Extracts|14581453
+A Novel Replication Arrest Pathway in Response to DNA Damage|14712071
+Telomere Associations in Interphase Nuclei: Possible Role in Maintenance of Interphase Chromosome Topology|11148139
+Treatment of Cultured Myotubes with the Proteasome Inhibitor beta-Lactone Increases the Expression of the Transcription Factor C/EBPbeta|16987992
+Notochord-Derived Shh Concentrates in Close Association with the Apically Positioned Basal Body in Neural Target Cells and Forms a Dynamic Gradient During Neural Patterning|18272593
+Protein Evolution Within a Structural Space|14581198
+Equilibrium Distribution of Mutators in the Single Fitness Peak Model|14525341
+Proteomic Traces of Speciation|15095981
+Proteomic Traces of Speciation|15095981
+Semiconservative Replication in the Quasispecies Model|15244626
+High-Resolution Protein Folding with a Transferable Potential|16365306
+The Emergence of Scaling in Sequence-Based Physical Models of Protein Evolution|15805176
+Protein Structure and Evolutionary History Determine Sequence Space Topology|15741509
+Prokaryotic Phylogenies Inferred from Protein Structural Domains|15741510
+Understanding Ensemble Protein Folding at Atomic Detail|17095606
+A Simple Physical Model for Scaling in Protein-Protein Interaction Networks|16384916
+A Structure-Centric View of Protein Evolution, Design, and Adaptation|17124867
+Robust Protein-Protein Interactions in Crowded Cellular Environments|17848524
+Synaptic Vesicle Recycling Studied Using Transgenic Mice Expressing SynaptopHluorin|15837917
+Activity-Dependent Regulation of Inhibitory Synaptic Transmission in Hippocampal Neurons|16582905
+A Three-Protein Signaling Pathway Governing Immunity to a Bacterial Cannibalism Toxin|16469701
+Protein Arms in the Kinetochore-Microtubule Interface of the Yeast DASH Complex|17460120
+Rapamycin-Modulated Transcription Defines the Subset of Nutrient-Sensitive Signaling Pathways Directly Controlled by the Tor Proteins|10611304
+Partitioning the Transcriptional Program Induced by Rapamycin Among the Effectors of the Tor Proteins|11137008
+Carbon- and Nitrogen-Quality Signaling to Translation are Mediated by Distinct GATA-type Transcription Factors|11416207
+Discovery of an Inhibitor of a Transcription Factor Using Small Molecule Microarrays and Diversity-Oriented Synthesis|12848532
+Integration of Growth Factor and Nutrient Signaling: Implications for Cancer Biology|14536067
+Rpd3p Relocation Mediates the Transcriptional Response to Rapamycin in Yeast|15123258
+Spatiotemporal Specificity of Neuronal Activity Directs the Modification of Receptive Fields in the Developing Retinotectal System|16600859
+The Program of Gene Transcription for a Single Differentiating Cell Type During Sporulation in Bacillus subtilis|15383836
+Novel Genes that Influence Development in Streptomyces coelicolor|15150245
+Olfactory Inputs to Hypothalamic Neurons Controlling Reproduction and Fertility|16290037
+All beta Cells Contribute Equally to Islet Growth and Maintenance|17535113
+Myosin IIA is Required for Cytolytic Granule Exocytosis in Human NK Cells|17875677
+Many NK Cell Receptors Activate ERK2 and JNK1 to Trigger Microtubule Organizing Center and Granule Polarization and Cytotoxicity|17395718
+A Major Protein Component of the Bacilllus subtilis Biofilm Matrix|16430696
+Targets of the Master Regulator of Biofilm Formation in Bacillus subtilis|16430695
+The Speed of Evolution and Maintenance of Variation in Asexual Populations|17331728
+gerT, a Newly Discovered Germination Gene Under the Control of the Sporulation Transcription Factor sigmaK in Bacillus subtilis|17720779
+Identifying Biologically Active Compound Classes Using Phenotypic Screening Data and Sampling Statistics|16309290
+Using High-Throughput Screening Data to Discriminate Compounds with Single-Target Effects from those with Side Effects|16859287
+Revealing Complex Traits with Small Molecules and Naturally Recombinant Yeast Strains|16638537
+A Library of Spirooxindoles Based on a Stereoselective Three-Component Coupling Reaction|15584743
+Microarray-Based Method for Monitoring Yeast Overexpression Strains Reveals Small-Molecule Targets in TOR Pathway|16415861
+Genetic Basis of Individual Differences in the Response to Small-Molecule Drugs in Yeast|17334364
+Small Molecules Enhance Autophagy and Reduce Toxicity in Huntington's Disease Models|17486044
+Quantifying Fitness Distributions and Phenotypic Relationships in Recombinant Yeast Populations|17566105
+Evolutionarily Conserved Optimization of Amino-Acid Biosynthesis|17684697
+Polar Localization and Compartmentalization of ClpP Proteases During Growth and Sporulation in Bacillus subtilis|18689476
+The FtsEX ABC Transporter Directs Cellular Differentiation in Bacillus subtilis|18573177
+High-Resolution Mutation Mapping Reveals Parallel Experimental Evolution in Yeast|16856782
+GeneCards 2002: Towards a Complete, Object-Oriented, Human Gene Compendium|12424129
+Pairing of Competitive and Topologically Distinct Regulatory Modules Enhances Patterned Gene Expression|18277379
+Estimating the Per-Base-Pair Mutation Rate in the Yeast, Saccharomyces cerevisiae|18202359
+CCT Chaperonin Complex is Required for the Biogenesis of Functional Plk1|15923617
+Plk1 Depletion in Nontransformed Diploid Cells Activates the DNA-Damage Checkpoint|18297112
+Crystal Structure of Bacillus stearothermophilus UvrA Provides Insight into ATP-Modulated Dimerization, UvrB Interaction, and DNA Binding|18158267
+Crystal Structure of Bacillus stearothermophilus UvrA Provides Insight into ATP-modulated Dimerization, UvrB Interaction and DNA Binding|18158267
+Identification of Domain Boundaries Within the N-termini of TAP1 and TAP2 and Their Importance in Tapasin Binding and Tapasin-Mediated Increase in Peptide Loading of MHC Class I|16174096
+Distinct Structural and Functional Properties of the ATPase Sites in an Asymmetric ABC Transporter|17018292
+The Ankyrin Repeats of TRPV1 Bind Multiple Ligands and Modulate Channel Sensitivity|17582331
+Insights into the Roles of Conserved and Divergent Residues in the Ankyrin Repeats of TRPV Ion Channels|18690026
+Functionally Important Interactions between the Nucleotide-Binding Domains of an Antigenic Peptide Transporter|18452308
+Synthetic Strategy toward Skeletal Diversity via Solid-Supported, Otherwise Unstable Reactive Intermediates|15038036
+Enantioselective Addition of Terminal Alkynes to Isolated Isoquinoline Iminiums|16381588
+Bacterial Actin Assembly Requires Toca-1 to Relieve N-WASP Autoinhibition|18191793
+Synaptic Vesicle Recycling Studied Using Transgenic Mice Expressing SynaptopHluorin|15837917
+LED Arrays as Cost-Effective and Efficient Light Sources for Widefield Microscopy|18478056
+A Deep-Branching Clade of Retrovirus-Like Retrotransposons in Bdelloid Rotifers|17129685
+Telomere-Associated Endonuclease-Deficient Penelope-Like Retroelements in Diverse Eukaryotes|17483479
+Extreme Resistance of Bdelloid Rotifers to Ionizing Radiation|18362355
+Massive Horizontal Gene Transfer in Bdelloid Rotifers|18511688
+Spatiotemporal Specificity of Neuronal Activity Directs the Modification of Receptive Fields in the Developing Retinotectal System|16600859
+Control of Visually Guided Behavior by Distinct Populations of Spinal Projection Neurons|18264094
+Intrinsic Epithelial Cells Repair the Kidney After Injury|18371453
+Hoxd11 Specifies a Program of Metanephric Kidney Development Within the Intermediate Mesoderm of the Mouse Embryo|18485340
+Systemic RNAi in Caenorhabditis elegans|17381285
+Disp1 Regulates Growth of Mammalian Long Bones Through the Control of Ihh Distribution|18395198
+Peptide Inhibitor of Cytokinesis During Sporulation in Bacillus subtilis|18284588
+Stepwise Protein-Mediated RNA Folding Directs Assembly of Telomerase Ribonucleoprotein|17322903
+Developmental Reprogramming After Chromosome Transfer into Mitotic Mouse Zygotes|17554301
+LED Arrays as Cost-Effective and Efficient Light Sources for Widefield Microscopy|18478056
+Harnessing the Potential of Myogenic Satellite Cells|16595190
+Prospective Isolation and Global Gene Expression Analysis of Definitive and Visceral Endoderm|17328885
+Genetic Targeting of the Endoderm with Claudin-6CreER|18213590
+Distinct Structural and Functional Properties of the ATPase Sites in an Asymmetric ABC Transporter|17018292
+Structure of the Pho85-Pho80 CDK-Cyclin Complex of the Phosphate-Responsive Signal Transduction Pathway|18042456
+A Quantitative Study of the Recruitment Potential of All Intracellular Tyrosine Residues on EGFR, FGFR1, and IGF1R|18493663
+System-Wide Investigation of ErbB4 Reveals 19 Sites of Tyr Phosphorylation that are Unusually Selective in their Recruitment Properties|18721752
+Directly Reprogrammed Fibroblasts Show Global Epigenetic Remodeling and Widespread Tissue Contribution|18371336
+Defining Molecular Cornerstones during Fibroblast to iPS Cell Reprogramming in Mouse|18371448
+X Chromosome Inactivation and Epigenetic Fluidity in Human Embryonic Stem Cells|18339803
+Distinct Structural and Functional Properties of the ATPase Sites in an Asymmetric ABC Transporter|17018292
+Multiple Functions of the IKK-Related Kinase IKK in Interferon-Mediated Antiviral Immunity|17332413
+Positive Feedback Regulates Switching of Phosphate Transporters in S. cerevisiae|17889672
+Pairing of Competitive and Topologically Distinct Regulatory Modules Enhances Patterned Gene Expression|18277379
+RIPtide Mapping of Human Telomerase RNA|22451672
+Hypocretin/Orexin Overexpression Induces an Insomnia-Like Phenotype in Zebrafish|17182791
+PDZ Domain Binding Selectivity is Optimized Across the Mouse Proteome|17641200
+An Integrated Approach to Prognosis Using Protein Microarrays and Nonparametric Methods|17593911
+Small-Molecule Fluorophores to Detect Cell-State Switching in the Context of High-Throughput Screening|18327938
+Prediction of Optimal Peptide Mixtures to Induce Broadly Neutralizing Antibodies to Human Immunodeficiency Virus Type 1|1862103
+Molecular Cloning of the Human Gene Encoding Lanosterol Synthase from a Liver cDNA Library|7639730
+Molecular Cloning of a Schizosaccharomyces pombe cDNA Encoding Lanosterol Synthase and Investigation of Conserved Tryptophan Residues|8604986
+Mechanistic Studies of a Signaling Pathway Activated by the Organic Dimerizer FK1012|9383386
+Selection of gp41-Mediated HIV-1 cell Entry Inhibitors from Biased Combinatorial Libraries|10504731
+The Structure of an HIV-1 Specific Cell Entry Inhibitor in Complex with the HIV-1 gp41 Trimeric Core|11026535
+Solution Structure of the Core NFATC1/DNA Complex|9506523
+A Methylation-Dependent Electrostatic Switch Controls DNA Repair and Transcriptional Activation by E. coli Ada|16209950
+A Modular Synthetic Approach Toward Exhaustively Stereodiversified Ligand Libraries|11112627
+A Mammalian Protein Targeted by G1-Arresting Rapamycin-Receptor Complex|8008069
+Control of p70 S6 Kinase by Kinase Activity of FRAP in vivo|7566123
+PIK-related Kinases: DNA Repair, Recombination, and Cell Cycle Checkpoints|7569949
+cDNA Cloning and Gene Mapping of a Candidate Human Cell Cycle Checkpoint Protein|8610130
+An Acid- and Base-Stable o-Nitrobenzyl Photolabile Linker for Solid Phase Organic Synthesis|19461948
+Split-Pool Synthesis of 1,3-Dioxanes Leading to Arrayed Stock Solutions of Single Compounds Sufficient for Multiple Phenotypic and Protein-Binding Assays|11456775
+Synthesis of 7200 Small Molecules Based on a Substructural Analysis of the Histone Deacetylase Inhibitors Trichostatin and Trapoxin|11784187
+High-Throughput Screening of Small Molecules in Miniaturized Mammalian Cell-Based Assays Involving Post-Translational Modifications|10021420
+A One-Bead, One-Stock Solution Approach to Chemical Genetics: Part 1|11755396
+Synthesis of Calcineurin-Resistant Derivatives of FK506 and Selection of Compensatory Receptors|11841938
+Virus Infection Induces the Assembly of Coordinately Activated Transcription Factors on the IFN-  Enhancer in vivo|9660935
+A Small Domain of CBP/p300 Binds Diverse Proteins: Solution Structure and Functional Studies|11583620
+Enantioselective Synthesis of Saframycin a and Evaluation of Antitumor Activity Relative to Ecteinascidin/Saframycin Hybrids|10822537
+Phthalascidin, a Synthetic Antitumor Agent with Potency and Mode of Action Comparable to Ecteinascidin 743|10097064
+Catalytic Asymmetric Silane Alcoholysis: Practical Access to Chiral Silanes|12553820
+Macrolactones in Diversity-Oriented Synthesis: Preparation of a Pilot Library and Exploration of Factors Controlling Macrocyclization|15002980
+Fiber-derived Butyrate and the Prevention of Colon Cancer|9384528
+A Role for Histone Deacetylase in HDAC1-Mediated Transcriptional Repression|9520398
+Chromatin Deacetylation by an ATP-Dependent Nucleosome Remodelling Complex|9804427
+Rapamycin-Modulated Transcription Defines the Subset of Nutrient-Sensitive Signaling Pathways Directly Controlled by the Tor Proteins|10611304
+CoREST is an Integral Component of the CoREST-Human Histone Deacetylase Complex|11171972
+Histone Deacetylase 1 Phosphorylation Promotes Enzymatic Activity and Complex Formation|11602581
+Three Proteins Define a Class of Human Histone Deacetylases Related to Yeast Hda1p|10220385
+CoREST is an Integral Component of the CoREST-Human Histone Deacetylase Complex|11171972
+Identification of a Class of Small Molecule Inhibitors of the Sirtuin Family of NAD-Dependent Deacetylases by Phenotypic Screening|11483616
+Synthesis of 7200 Small Molecules Based on a Substructural Analysis of the Histone Deacetylase Inhibitors Trichostatin and Trapoxin|11784187
+Deacetylase Enzymes: Biological Functions and the Use of Small-Molecule Inhibitors|11841934
+Domain-Selective Small-Molecule Inhibitor of Histone Deacetylase 6 (HDAC6)-Mediated Tubulin Deacetylation|12677000
+The PIK-Related Kinases Intercept Conventional Signaling Pathways|10322127
+Rapamycin-Modulated Transcription Defines the Subset of Nutrient-Sensitive Signaling Pathways Directly Controlled by the Tor Proteins|10611304
+Partitioning the Transcriptional Program Induced by Rapamycin Among the Effectors of the Tor Proteins|11137008
+Carbon- and Nitrogen-Quality Signaling to Translation are Mediated by Distinct GATA-type Transcription Factors|11416207
+Vector Algebra in the Analysis of Genome-Wide Expression Data|11897023
+Biomimetic Synthesis of (-)-Longithorone A|11817951
+Synthesis of (-)-Longithorone A: Using Organic Synthesis to Probe a Proposed Biosynthesis|15190180
+An Exceptionally Mild Catalytic Thioester Aldol Reaction Inspired by Polyketide Biosynthesis|12617633
+A Synthetic Library of Cell-Permeable Molecules|11456541
+Synthesis of a 10,000-Membered Library of Molecules Resembling Carpanone and Discovery of Vesicular Traffic Inhibitors|16620111
+An Enantioselective, Modular, and General Route to the Cytochalasins: Synthesis of L-696,474 and Cytochalasin B|15208404
+Synthesis of L-Kedarosamine in Protected Form and Its Efficient Incorporation into an Advanced Intermediate to Kedarcidin Chromophore|17439225
+The Role of Lysine 55 in Determining the Specificity of the Purine Repressor for its Operators through Minor Groove Interactions|10438625
+A One-Bead, One-Stock Solution Approach to Chemical Genetics: Part 2|11755397
+Expanding the Functional Group Compatibility of Small-Molecule Microarrays: Discovery of Novel Calmodulin Ligands|12783500
+Discovery of an Inhibitor of a Transcription Factor Using Small Molecule Microarrays and Diversity-Oriented Synthesis|12848532
+Reaction Microarrays: A Method for Determining the Enantiomeric Excess of Thousands of Samples|11456535
+Syntheses of Stereochemically Diverse Nine-Membered Ring-Containing Biaryls|15496089
+A Highly Efficient and Convergent Reaction for the Synthesis of Bridgehead Enone-Containing Polycyclic Ring Systems|10934402
+Reaction Microarrays: A Method for Determining the Enantiomeric Excess of Thousands of Samples|11456535
+An Exceptionally Mild Catalytic Thioester Aldol Reaction Inspired by Polyketide Biosynthesis|12617633
+Dynamic Kinetic Resolution During a Cascade Reaction on Substrates with Chrial All-Carbon Quaternary Centers|15751105
+Catalytic Enantioselective Thioester Aldol Reactions That Are Compatible With Protic Functional Groups|15898756
+Efficient, Stereoselective Synthesis of trans-2,5-Disubstituted Morpholines|15012096
+Biomimetic Synthesis of (-)-Longithorone A|11817951
+Synthesis of (-)-Longithorone A: Using Organic Synthesis to Probe a Proposed Biosynthesis|15190180
+Use of Biomimetic Diversity-Oriented Synthesis to Discover Galanthamine-Like Molecules with Biological Properties Beyond Those of the Natural Product|11439080
+Decoding Products of Diversity Pathways from Stock Solutions Derived from Single Polymeric Macrobeads|11592158
+A One-Bead, One-Stock Solution Approach to Chemical Genetics: Part 1|11755396
+Structural Basis for Removal of Adenine Mispaired with 8-Oxoguanine by MutY Adenine DNA Glycosylase|14961129
+Structure of a Repair Enzyme Interrogating Undamaged DNA Elucidates Recognition of Damaged DNA|15800616
+Structure of a DNA Glycosylase Searching for Lesions|16497933
+A Base-Excision DNA-Repair Protein Finds Intrahelical Lesion Bases by Fast Sliding in Contact with DNA|16585517
+A Nucleobase Lesion Remodels the Interaction of its Normal Neighbor in a DNA Glycosylase Complex|17015827
+Structural Characterization of Human 8-Oxoguanine DNA Glycosylase Variants Bearing Active Site Mutations|17114185
+Recent Advances in the in vitro Evolution of Nucleic Acids|12023118
+Nucleic Acid Evolution and Minimization by Nonhomologous Random Recombination|12219078
+Directed Evolution of Protein Enzymes Using Nonhomologous Random Recombination|15118093
+Functional Dissection of sRNA Translational Regulators Using Nonhomologous Random Recombination and in vivo Selection|16039523
+Generating Diverse Skeletons of Small Molecules Combinatorially|14576427
+A Planning Strategy for Diversity-Oriented Synthesis|14694470
+A Synthesis Strategy Yielding Skeletally Diverse Small Molecules Combinatorially|15506774
+In vivo Evolution of an RNA Transcriptional Activator|12837386
+Engineering a Ligand-Dependent RNA Transcriptional Activator|15324817
+Creating Small Molecule-Dependent Switches to Modulate Biological Functions|15734643
+A Small Molecule Suppressor of FK506 that Targets the Mitochondria and Modulates Ionic Balance in Saccharomyces cerevisiae|12837385
+Using Genome-Wide Transcriptional Profiling to Elucidate Small-Molecule Mechanism|15701449
+Microarray-Based Method for Monitoring Yeast Overexpression Strains Reveals Small-Molecule Targets in TOR Pathway|16415861
+A Microarray-Based Protocol for Monitoring the Growth of Yeast Overexpression Strains|17406283
+The Generality of DNA-Templated Synthesis as a Basis for Evolving Non-Natural Small Molecules|11448217
+Expanding the Reaction Scope of DNA-Templated Synthesis|19750721
+Multistep Small-Molecule Synthesis Programmed by DNA Templates|12197733
+Directing Otherwise Incompatible Reactions in a Single Solution Using DNA-Templated Organic Synthesis|12412096
+Two Enabling Architectures for DNA-Templated Organic Synthesis|12671971
+DNA-Templated Organic Synthesis and Selection of a Library of Macrocycles|15319493
+Translation of DNA into Synthetic N-Acyloxazolidines|15099091
+Split-Pool Synthesis of 1,3-Dioxanes Leading to Arrayed Stock Solutions of Single Compounds Sufficient for Multiple Phenotypic and Protein-Binding Assays|11456775
+Synthesis of 7200 Small Molecules Based on a Substructural Analysis of the Histone Deacetylase Inhibitors Trichostatin and Trapoxin|11784187
+Domain-Selective Small-Molecule Inhibitor of Histone Deacetylase 6 (HDAC6)-Mediated Tubulin Deacetylation|12677000
+Structural Biasing Elements for In-Cell Histone Deacetylase Paralog Selectivity|12733869
+Mapping Chemical Space Using Molecular Descriptors and Chemical Genetics: Deacetylase Inhibitors|15578929
+Directing Otherwise Incompatible Reactions in a Single Solution Using DNA-Templated Organic Synthesis|12412096
+Two Enabling Architectures for DNA-Templated Organic Synthesis|12671971
+Nucleic Acid-Templated Synthesis as a Model System for Ancient Translation|15556410
+Small-Molecule Diversification From Iterated Branching Reaction Pathways Enabled by DNA-Templated Synthesis|16240310
+A Convergent Enantioselective Route to Structurally Diverse 6-Deoxytetracycline Antibiotics|15831754
+Practical Procedures for the Preparation of N-tert-Butyldimethylsilylhydrazones and Their Use in Modified Wolff-Kishner Reductions, and in the Synthesis of Vinyl Halides and gem-Dihalides|15113215
+A General Procedure for the Esterification of Carboxylic Acids with Diazoalkanes Generated In Situ by the Oxidation of N-tert-Butyldimethylsilylhydrazones with (Difluoroiodo)benzene|15453728
+Germanium Telluride Nanowires and Nanohelices with Memory-Switching Behavior|16787074
+Current-Driven Phase Oscillation and Domain-Wall Propagation in WxV1-xO2 Nanobeams|17256915
+Crystal Structure of Bacillus stearothermophilus UvrA Provides Insight into ATP-modulated Dimerization, UvrB Interaction and DNA Binding|18158267
+Crystal Structure of Bacillus stearothermophilus UvrA Provides Insight into ATP-modulated Dimerization, UvrB Interaction and DNA Binding|18158267
+Multistep Small-Molecule Synthesis Programmed by DNA Templates|12197733
+Expanding the Reaction Scope of DNA-Templated Synthesis|19750721
+Reaction Discovery Enabled by DNA-Templated Synthesis and in vitro Selection|15457254
+Development and Initial Application of a Hybridization-Independent, DNA-Encoded Reaction Discovery System Compatible with Organic Solvents|17994738
+Synthesis of Acyclic alpha,beta-Unsaturated Ketones via Pd(II)-Catalyzed Intermolecular Reaction of Alkynamides and Alkenes|17279758
+Fabry-Perot Interference in a Nanotube Electron Waveguide|11395762
+Resonant Electron Scattering by Defects in Single-Walled Carbon Nanotubes|11209073
+Kondo Resonance in a Single-Molecule Transistor|12066180
+Shell Filling and Exchange Coupling in Single-Walled Carbon Nanotubes|11909488
+Transport Spectroscopy of Chemical Nanostructures: The Case of Metallic Single-Walled Carbon Nanotubes|15796708
+Single-Molecule Transition-State Analysis of RNA Folding|12869691
+Visualizing Infection of Individual Influenza Viruses|12883000
+Using Single Particle-Tracking to Study Nuclear Trafficking of Viral Genes|15454466
+Single-Molecule Kinetics of Exonuclease Reveal Base Dependence and Dynamic Disorder|12947199
+A Base-Excision DNA-Repair Protein Finds Intrahelical Lesion Bases by Fast Sliding in Contact with DNA|16585517
+Multiplexed Single-Molecule Assay for Enzymatic Activity on Flow-Stretched DNA|17435763
+Single-Molecule Transition-State Analysis of RNA Folding|12869691
+Single-Molecule Enzymology of RNA: Essential Functional Groups Impact Catalysis from a Distance|15218105
+Two Distinct Binding Modes of a Protein Cofactor with its Target RNA|16872630
+Dissecting the Multistep Reaction Pathway of an RNA Enzyme by Single-Molecule Kinetic Fingerprinting|17496145
+Dynamic Binding Orientations Direct Activity of HIV Reverse Transcriptase|18464735
+Bacterial Printing Press that Regenerates Its Ink: Contact-Printing Bacteria Using Hydrogel Stamps|15982051
+Directing Cell Migration with Asymmetric Micropatterns|15653772
+Cofabrication of Electromagnets and Microfluidic Systems in Poly(dimethylsiloxane)|17001718
+Biomimetic Fabrication of 3D Structures by Spontaneous Folding of Tapes|16848450
+Linking Stochastic Dynamics to Population Distribution: An Analytical Framework of Gene Expression|17155441
+Highly Sensitive in vitro Selections for DNA-Linked Synthetic Small Molecules with Protein Binding Affinity and Specificity|14531656
+DNA-Templated Organic Synthesis and Selection of a Library of Macrocycles|15319493
+Directed Evolution and Substrate Specificity Profile of Homing Endonuclease I-SceI|16478204
+Identification of Eukaryotic Promoter Regulatory Elements Using Nonhomologous Random Recombination|17720707
+Single-Molecule Michaelis-Menten Equations|16853459
+Ever-Fluctuating Single Enzyme Molecules: Michaelis-Menten Equation Revisited|16415859
+When Does the Michaelis-Menten Equation Hold for Fluctuating Enzymes?|17034179
+A Superhelical Spiral in the Escherichia coli DNA Gyrase A C-Terminal Domain Imparts Unidirectional Supercoiling Bias|15897198
+Histone H3 Recognition and Presentation by the WDR5 Module of the MLL1 Complex|16829959
+A Method For the Rapid Synthesis of Highly Functionalized 2-Hydroxy-1-Naphthoates. Syntheses of the Naphthoic Acid Components of Neocarzinostatin Chromophore and N1999A2|15548073
+Enantioselective Synthesis of N1999A2|17105291
+Expanding the Reaction Scope of DNA-templated Synthesis|19750721
+In vivo Evolution of an RNA Transcriptional Activator|12837386
+Thermodynamic Parameters for the Association of Fluorinated Benzenesulfonamides with Bovine Carbonic Anhydrase II|17441142
+Dependence of Effective Molarity on Linker Length for an Intramolecular Protein-Ligand System|17263415
+Visualizing Infection of Individual Influenza Viruses|12883000
+Electrical Detection of Single Viruses|15365183
+Assembly of Endocytic Machinery Around Individual Influenza Viruses During Viral Entry|15122347
+Ligands for Clathrin-Mediated Endocytosis are Differentially Sorted into Distinct Populations of Early Endosomes|16530046
+Imaging Poliovirus Entry in Live Cells|17622193
+Catalytic Asymmetric 3+2 Cycloaddition of Azomethine Ylides. Development of a Versatile Stepwise, Three-Component Reaction for Diversity-Oriented Synthesis|12926931
+Convergent Diversity-Oriented Synthesis of Small-Molecule Hybrids|15747386
+Small Molecules, Big Players: the National Cancer Institute's Initiative for Chemical Genetics|16982730
+Directed Evolution of Protein Enzymes Using Nonhomologous Random Recombination|15118093
+Functional Dissection of sRNA Translational Regulators Using Nonhomologous Random Recombination and in vivo Selection|16039523
+Discovery of a mRNA Mitochondrial Localization Element in Saccharomyces cerevisiae by Nonhomologous Random Recombination and in vivo Selection|17916575
+Observation of Individual Microtubule Motor Steps in Living Cells with Endocytosed Quantum Dots|16375416
+Intracellular Imaging of HCV RNA and Cellular Lipids by Using Simultaneous Two-Photon Fluorescence and Coherent Anti-Stokes Raman Scattering Microscopies|17068839
+Nonperturbative Chemical Imaging of Organelle Transport in Living Cells with Coherent anti-Stokes Raman Scattering Microscopy|16632501
+Organelle Tracking in a Living Cell with Microsecond Time Resolution and Nanometer Spatial Precision|18383236
+A Library of Spirooxindoles Based on a Stereoselective Three-Component Coupling Reaction|15584743
+Convergent Diversity-Oriented Synthesis of Small-Molecule Hybrids|15747386
+Electroluminescence From a Single-Nanocrystal Transistor|16277464
+Catalyst-Assisted Solution-Liquid-Solid Synthesis of CdS/CdSe Nanorod Heterostructures|17199292
+Recent Advances in the in vitro Evolution of Nucleic Acids|12023118
+Structural Characterization of Human 8-Oxoguanine DNA Glycosylase Variants Bearing Active Site Mutations|17114185
+Trapping and Structural Elucidation of a Very Advanced Intermediate in the Lesion-Extrusion Pathway of hOGG1|18507380
+Synthesis of L-Kedarosamine in Protected Form and Its Efficient Incorporation into an Advanced Intermediate to Kedarcidin Chromophore|17439225
+Visualizing Infection of Individual Influenza Viruses|12883000
+Single-Molecule Enzymology of RNA: Essential Functional Groups Impact Catalysis from a Distance|15218105
+Assembly of Endocytic Machinery Around Individual Influenza Viruses During Viral Entry|15122347
+Ligands for Clathrin-Mediated Endocytosis are Differentially Sorted into Distinct Populations of Early Endosomes|16530046
+Sub-Diffraction-Limit Imaging by Stochastic Reconstruction Optical Microscopy (STORM)|16896339
+Characterization of the Early Events in Dengue Virus Cell Entry by Biochemical Assays and Single-Virus Tracking|17728239
+Imaging Poliovirus Entry in Live Cells|17622193
+Converting the Sacrificial DNA Repair Protein N-Ada into a Catalytic Methyl Phosphotriester Repair Enzyme|12568584
+Nucleotide-Dependent Domain Movement in the ATPase Domain of a Human Type IIA DNA Topoisomerase|16100112
+A Methylation-Dependent Electrostatic Switch Controls DNA Repair and Transcriptional Activation by E. coli Ada|16209950
+A Convenient, NMR-Based Method for the Analysis of Diastereomeric Mixtures of Pseudoephedrine Amides|17217303
+Picosecond-pulse amplification with an external passive optical cavity|14514117
+Coherent anti-Stokes Raman Scattering Interferometry: Determination of the Real and Imaginary Components of Nonlinear Susceptibility chi(3) for Vibrational Microscopy|15645825
+Chemical Imaging of Tissue in vivo with Video-Rate Coherent anti-Stokes Raman Scattering Microscopy|16263923
+High-Sensitivity Vibrational Imaging with Frequency Modulation Coherent anti-Stokes Raman Scattering (FM CARS) Microscopy|16729099
+Towards CARS Endoscopy|19516594
+Heterodyne Coherent anti-Stokes Raman Scattering (CARS) Imaging|16441043
+Adaptive Optics for Enhanced Signal in CARS Microscopy|19551119
+Chemically-Selective Imaging of Brain Structures with CARS Microscopy|19547572
+Electroluminescence From a Single-Nanocrystal Transistor|16277464
+Catalyst-Assisted Solution-Liquid-Solid Synthesis of CdS/CdSe Nanorod Heterostructures|17199292
+Identification of Novel Epoxide Inhibitors of Hepatitis C Virus Replication Using a High-Throughput Screen|17682098
+Identification of a Small-Molecule Inhibitor of Class Ia PI3Ks with Cell-Based Screening|17462572
+Highly Sensitive in vitro Selections for DNA-Linked Synthetic Small Molecules with Protein Binding Affinity and Specificity|14531656
+Reaction Discovery Enabled by DNA-Templated Synthesis and in vitro Selection|15457254
+DNA-Templated Organic Synthesis and Selection of a Library of Macrocycles|15319493
+Ordered Multistep Synthesis in a Single Solution Directed by DNA Templates|16217825
+DNA-Templated Functional Group Transformations Enable Sequence-Programmed Synthesis Using Small-Molecule Reagents|15700999
+Effects of Template Sequence and Secondary Structure on DNA-Templated Reactivity|18179216
+Synthetic Strategy toward Skeletal Diversity via Solid-Supported, Otherwise Unstable Reactive Intermediates|15038036
+A Convergent Enantioselective Route to Structurally Diverse 6-Deoxytetracycline Antibiotics|15831754
+A Practical, Enantioselective Synthetic Route to a Key Precursor to the Tetracycline Antibiotics|17691796
+In vitro Characterization of IroB, a Pathogen-Associated C-Glycosyltransferase|15598734
+In vitro Characterization of Salmochelin and Enterobactin Trilactone Hydrolases IroD, IroE, and Fes|16076215
+The Pathogen-Associated iroA Gene Cluster Mediates Bacterial Evasion of Lipocalin 2|17060628
+Localized Protein Interaction Surfaces on the EntB Carrier Protein Revealed by Combinatorial Mutagenesis and Selection|16925399
+Bromoenterobactins as Potent Inhibitors of a Pathogen-Associated, Siderophore-Modifying C-Glycosyltransferase|16848455
+A Protein Interaction Surface in Nonribosomal Peptide Synthesis Mapped by Combinatorial Mutagenesis and Selection|16567620
+How Pathogenic Bacteria Evade Mammalian Sabotage in the Battle for Iron|16485005
+Directed Evolution Can Rapidly Improve the Activity of Chimeric Assembly-Line Enzymes|17620609
+Identification of a Novel Michael Acceptor Group for the Reversible Addition of Oxygen- and Sulfur-Based Nucleophiles. Synthesis and Reactivity of the 3-Alkylidene-3H-indole 1-Oxide Function of Avrainvillamide|14518979
+Enantioselective Synthesis of Stephacidin B|15826171
+Evidence for the Rapid Conversion of Stephacidin B into the Electrophilic Monomer Avrainvillamide in Cell Culture|17397160
+Small-Molecule Diversity Using a Skeletal Transformation Strategy|15957884
+Internalization and Trafficking of Cell Surface Proteoglycans and Proteoglycan Binding Ligands|17394486
+Reaction Discovery Enabled by DNA-Templated Synthesis and in vitro Selection|15457254
+DNA-Templated Synthesis in Organic Solvents|16381048
+Development and Initial Application of a Hybridization-Independent, DNA-Encoded Reaction Discovery System Compatible with Organic Solvents|17994738
+Solving Chemical Problems through the Application of Evolutionary Principles|17548235
+Perturbational Profiling of a Cell Line Model of Tumorigenesis by Using Metabolic Measurements|15840712
+Two Distinct Binding Modes of a Protein Cofactor with its Target RNA|16872630
+Prospective Isolation and Global Gene Expression Analysis of Definitive and Visceral Endoderm|17328885
+Using Single Particle-Tracking to Study Nuclear Trafficking of Viral Genes|15454466
+Internalization and Trafficking of Cell Surface Proteoglycans and Proteoglycan Binding Ligands|17394486
+Catalytic Enantioselective Thioester Aldol Reactions That Are Compatible With Protic Functional Groups|15898756
+Stereoelectronic Effects Dictate Mechanistic Dichotomy between Cu(II)-Catalyzed and Enzyme-Catalyzed Reactions of Malonic Acid Half Thioesters|17263375
+Enantioselective Synthesis of the Central Ring System of Lomaiviticin A in the Form of an Unusually Stable Cyclic Hydrate|18214870
+Catalytic Enantioselective Thioester Aldol Reactions That Are Compatible With Protic Functional Groups|15898756
+Uncovering Quantitative Protein Interaction Networks for Mouse PDZ Domains Using Protein Microarrays|16637659
+Translation of DNA into Synthetic N-Acyloxazolidines|15099091
+Effects of Template Sequence and Secondary Structure on DNA-Templated Reactivity|18179216
+Short-Range Spectroscopic Ruler Based on a Single-Molecule Optical Switch|15783528
+Sub-Diffraction-Limit Imaging by Stochastic Reconstruction Optical Microscopy (STORM)|16896339
+Multicolor Super-Resolution Imaging with Photo-Switchable Fluorescent Probes|17702910
+Three-Dimensional Super-Resolution Imaging by Stochastic Optical Reconstruction Microscopy|18174397
+Use of Lithium Hexafluoroisopropoxide as a Mild Base for Horner-Wadsworth-Emmons Olefination of Epimerizable Aldehydes|16146407
+Short-Range Spectroscopic Ruler Based on a Single-Molecule Optical Switch|15783528
+Current-Driven Phase Oscillation and Domain-Wall Propagation in WxV1-xO2 Nanobeams|17256915
+Circumventing the Problems Caused by Protein Diversity in Microarrays: Implications for Protein Interaction Networks|17044677
+A Quantitative Protein Interaction Network for the ErbB Receptors Using Protein Microarrays|16273093
+An Integrated Approach to Prognosis Using Protein Microarrays and Nonparametric Methods|17593911
+Two Distinct Binding Modes of a Protein Cofactor with its Target RNA|16872630
+State-Based Discovery: A Multidimensional Screen for Small-Molecule Modulators of EGF Signaling|16990815
+Uncovering Quantitative Protein Interaction Networks for Mouse PDZ Domains Using Protein Microarrays|16637659
+Control of Transcription Factor Activity and Osteoblast Differentiation in Mammalian Cells Using an Evolved Small-Molecule-Dependent Intein|16819890
+DNA-Templated Polymerization of Side-Chain-Functionalized Peptide Nucleic Acid Aldehydes|18341334
+A Quantitative Protein Interaction Network for the ErbB Receptors Using Protein Microarrays|16273093
+Two Distinct Binding Modes of a Protein Cofactor with its Target RNA|16872630
+Dissecting the Multistep Reaction Pathway of an RNA Enzyme by Single-Molecule Kinetic Fingerprinting|17496145
+Dynamic Binding Orientations Direct Activity of HIV Reverse Transcriptase|18464735
+Virus Trafficking-Learning from Single-Virus Tracking|17304249
+Imaging Poliovirus Entry in Live Cells|17622193
+Internalization and Trafficking of Cell Surface Proteoglycans and Proteoglycan Binding Ligands|17394486
+Imaging Peptidoglycan Biosynthesis in Bacillus subtilis with Fluorescent Antibiotics|16832063
+DNA-Templated Polymerization of Side-Chain-Functionalized Peptide Nucleic Acid Aldehydes|18341334
+Chemoenzymatic Formation of Novel Aminocoumarin Antibiotics by the Enzymes CouN1 and CouN7|17580964
+Characterization of Rhodosaminyl Transfer by the AknS/AknT Glycosylation Complex and Its Use in Reconstituting the Biosynthetic Pathway of Aclacinomycin A|17685523
+Direct Inhibition of the Notch Transcription Factor Complex|19907488
+Stepwise Protein-Mediated RNA Folding Directs Assembly of Telomerase Ribonucleoprotein|17322903
+Shifting Paradigms in Hedgehog Signaling|17303409
+Generation of Single Optical Plasmons in Metallic Nanowires Coupled to Quantum Dots|18004381
+Catalyst-Assisted Solution-Liquid-Solid Synthesis of CdS/CdSe Nanorod Heterostructures|17199292
+Robust Reconstruction of the Rate Constant Distribution Using the Phase Function Method|16980370
+Multicolor Super-Resolution Imaging with Photo-Switchable Fluorescent Probes|17702910
+Three-Dimensional Super-Resolution Imaging by Stochastic Optical Reconstruction Microscopy|18174397
+Controlled Modulation of Conductance in Silicon Devices by Molecular Monolayers|17090037
+Directed Evolution and Substrate Specificity Profile of Homing Endonuclease I-SceI|16478204
+Controlled Modulation of Conductance in Silicon Devices by Molecular Monolayers|17090037
+A Transcriptional Logic for Nuclear Reprogramming|16923385
+Nanoscale Pipetting for Controlled Chemistry in Small Arrayed Water Droplets Using a Double-Barrel Pipet|16464045
+Multicolor Super-Resolution Imaging with Photo-Switchable Fluorescent Probes|17702910
+Generation of Inhibitor-Sensitive Protein Tyrosine Phosphatases via Active-Site Mutations|17532515
+Control of ansa-Zirconocene Stereochemistry by Reversible Exchange of Cyclopentadienyl and Chloride Ligands|17328547
+Three-Dimensional Super-Resolution Imaging by Stochastic Optical Reconstruction Microscopy|18174397
+Preparation of MultiMilligram Quantities of Large Linear DNA Molecules for Structural Studies|18547516
+A novel family of candidate pheromone receptors in mammals|11163270
+Base excision repair|15588838
+DNA glycosylase recognition and catalysis|15102448
+Efficient and Sequence-Specific DNA-Templated Polymerization of Peptide Nucleic Acid Aldehydes|14611205
+Endocytosis of influenza viruses|15310470|PMC2715838
+Small Genes under Sporulation Control in the Bacillus subtilis genome|20709900|PMC2950494
+Growth and pattern of the mammalian neural tube are governed by partially overlapping feedback activities of the hedgehog antagonists patched 1 and Hhip1|15576403
+A superhelical spiral in the Escherichia coli DNA gyrase A C-terminal domain imparts unidirectional supercoiling bias|15897198
+Transcriptional regulation of phagocytosis-induced membrane biogenesis by sterol regulatory element binding proteins|16141315
+Checkpoint silencing during the DNA damage response in Caenorhabditis elegans embryos|16549501
+Dissecting glucose signalling with diversity-oriented synthesis and small-molecule microarrays|11948353
+T cell apoptosis at the maternal-fetal interface in early human pregnancy, involvement of galectin-1|19011096
+Directed evolution of ligand dependence: Small-molecule-activated protein splicing|15247421
+Directed evolution of ligand dependence: Small-molecule-activated protein splicing|15247421
+Chemical genetic modifier screens: small molecule trichostatin suppressors as probes of intracellular histone and tubulin acetylation|12770822
+Binding and stability determinants of the PPARgamma nuclear receptor-coactivator interface as revealed by shotgun alanine scanning and in vivo selection|16925449
+Enzymatic tailoring of enterobactin alters membrane partitioning and iron acquisition|17163637
+Dissecting protein structure and function using directed evolution|18049466
+All-atom model for stabilization of alpha-helical structure in peptides by hydrocarbon staples|19334772
+Direct inhibition of the NOTCH transcription factor complex|19907488
+Kedarcidin Chromophore–Synthesis of Its Proposed Structure and Evidence for a Stereochemical Revision|17417855|PMC3174495
+Members of the miRNA-200 Family Regulate Olfactory Neurogenesis|18184563|PMC2204047
+Modular synthesis and preliminary biological evaluation of stereochemically diverse 1,3-dioxanes|15380188
+Multidimensional chemical genetic analysis of diversity-oriented synthesis-derived deacetylase inhibitors using cell-based assays|12770821
+Normal Cells, but Not Cancer Cells, Survive Severe Plk1 Depletion|16507989|PMC1430287
+SMK-1/PPH-4.1-mediated silencing of the CHK-1 response to DNA damage in early C. elegans embryos|17908915
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Immune activation of NF-kappaB and JNK requires Drosophila TAK1|14519762
+Protein phosphatase 2A interacts with the 70-kDa S6 kinase and is activated by inhibition of FKBP12-rapamycinassociated protein|10200280
+Regulation of MLL1 H3K4 methyltransferase activity by its core components|16878130
+Insulin staining of ES cell progeny from insulin uptake|12532008
+Identification of a small-molecule inhibitor of class Ia PI3Ks with cell-based screening|17462572
+Human embryonic stem cell-derived motor neurons are sensitive to the toxic effect of glial cells carrying an ALS-causing mutation|19041780
+Identification of Ald6p as the target of a class of small-molecule suppressors of FK506 and their use in network dissection|15146068
+Multistep small-molecule synthesis programmed by DNA templates|12197733
+Peroxisome proliferator-activated receptor alpha antagonism inhibits hepatitis C virus replication|16426968
+Kedarcidin Chromophore-Synthesis of Its Proposed Structure and Evidence for a Stereochemical Revision|17417855
+Peroxisome proliferator-activated receptor alpha antagonism inhibits hepatitis C virus replication|16426968
+Identification of GAPDH as a protein target of the saframycin antiproliferative agents|15079082
+Kinetic analysis of sequential multistep reactions|17994718

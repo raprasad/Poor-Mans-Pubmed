@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">12066180</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>07</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-0836</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>417</Volume>
+                    <Issue>6890</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature</Title>
+                <ISOAbbreviation>Nature</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Kondo resonance in a single-molecule transistor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>725-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>When an individual molecule, nanocrystal, nanotube or lithographically defined quantum dot is attached to metallic electrodes via tunnel barriers, electron transport is dominated by single-electron charging and energy-level quantization. As the coupling to the electrodes increases, higher-order tunnelling and correlated electron motion give rise to new phenomena, including the Kondo resonance. To date, all of the studies of Kondo phenomena in quantum dots have been performed on systems where precise control over the spin degrees of freedom is difficult. Molecules incorporating transition-metal atoms provide powerful new systems in this regard, because the spin and orbital degrees of freedom can be controlled through well-defined chemistry. Here we report the observation of the Kondo effect in single-molecule transistors, where an individual divanadium molecule serves as a spin impurity. We find that the Kondo resonance can be tuned reversibly using the gate voltage to alter the charge and spin state of the molecule. The resonance persists at temperatures up to 30 K and when the energy separation between the molecular state and the Fermi level of the metal exceeds 100 meV.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Wenjie</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shores</LastName>
+                    <ForeName>Matthew P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bockrath</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Long</LastName>
+                    <ForeName>Jeffrey R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Hongkun</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nature</MedlineTA>
+            <NlmUniqueID>0410462</NlmUniqueID>
+            <ISSNLinking>0028-0836</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12066180</ArticleId>
+            <ArticleId IdType="doi">10.1038/nature00790</ArticleId>
+            <ArticleId IdType="pii">nature00790</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

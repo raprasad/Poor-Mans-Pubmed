@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17848524</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>38</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Sep</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Robust protein protein interactions in crowded cellular environments.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14952-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The capacity of proteins to interact specifically with one another underlies our conceptual understanding of how living systems function. Systems-level study of specificity in protein-protein interactions is complicated by the fact that the cellular environment is crowded and heterogeneous; interaction pairs may exist at low relative concentrations and thus be presented with many more opportunities for promiscuous interactions compared with specific interaction possibilities. Here we address these questions by using a simple computational model that includes specifically designed interacting model proteins immersed in a mixture containing hundreds of different unrelated ones; all of them undergo simulated diffusion and interaction. We find that specific complexes are quite robust to interference from promiscuous interaction partners only in the range of temperatures T(design) &gt; T &gt; T(rand). At T &gt; T(design), specific complexes become unstable, whereas at T &lt; T(rand), formation of specific complexes is suppressed by promiscuous interactions. Specific interactions can form only if T(design) &gt; T(rand). This condition requires an energy gap between binding energy in a specific complex and set of binding energies between randomly associating proteins, providing a general physical constraint on evolutionary selection or design of specific interacting protein interfaces. This work has implications for our understanding of how the protein repertoire functions and evolves within the context of cellular systems.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Systems Biology, Harvard Medical School, 200 Longwood Avenue, Warren Alpert #536, Boston, MA 02115, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deeds</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashenberg</LastName>
+                    <ForeName>Orr</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerardin</LastName>
+                    <ForeName>Jaline</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shakhnovich</LastName>
+                    <ForeName>Eugene I</ForeName>
+                    <Initials>EI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Multiprotein Complexes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2006 May;106(5):1559-88</RefSource>
+                <PMID Version="1">16683745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2001;30:361-96</RefSource>
+                <PMID Version="1">11340064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2007 Feb 2;365(5):1596-606</RefSource>
+                <PMID Version="1">17141268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev Lett. 2006 Oct 27;97(17):178101</RefSource>
+                <PMID Version="1">17155509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Dec 22;314(5807):1938-41</RefSource>
+                <PMID Version="1">17185604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 May 19;369(6477):248-51</RefSource>
+                <PMID Version="1">7710478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 1995 Nov;17(11):987-97</RefSource>
+                <PMID Version="1">8526893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1996 Dec 20;264(5):1164-79</RefSource>
+                <PMID Version="1">9000638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Apr 28;95(9):4976-81</RefSource>
+                <PMID Version="1">9560213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1998 Jul 3;280(1):1-9</RefSource>
+                <PMID Version="1">9653027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1999 Feb 5;285(5):2177-98</RefSource>
+                <PMID Version="1">9925793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Apr 30;99(9):5896-901</RefSource>
+                <PMID Version="1">11972061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Aug 16;297(5584):1183-6</RefSource>
+                <PMID Version="1">12183631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14116-21</RefSource>
+                <PMID Version="1">12381794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2002 Oct 23;530(1-3):253-4</RefSource>
+                <PMID Version="1">12387902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Feb 28;326(4):1227-37</RefSource>
+                <PMID Version="1">12589765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Oct 16;425(6959):737-41</RefSource>
+                <PMID Version="1">14562106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev Lett. 2003 Dec 12;91(24):245701</RefSource>
+                <PMID Version="1">14683134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2004 Feb;8(1):91-7</RefSource>
+                <PMID Version="1">15036162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Mar 26;303(5666):2026-9</RefSource>
+                <PMID Version="1">15044803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Bioinformatics. 2002;1(3):121-44</RefSource>
+                <PMID Version="1">15130840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jun;88(6):3905-11</RefSource>
+                <PMID Version="1">15805176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Jun 1;89(11):4918-22</RefSource>
+                <PMID Version="1">1594594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Biol. 2004 Jun;1(1-2):53-60</RefSource>
+                <PMID Version="1">16204822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jan 12;439(7073):168-74</RefSource>
+                <PMID Version="1">16273093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jan 10;103(2):311-6</RefSource>
+                <PMID Version="1">16384916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Mar 30;440(7084):631-6</RefSource>
+                <PMID Version="1">16429126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2006 Mar;7(3):188-97</RefSource>
+                <PMID Version="1">16496021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Feb 10;403(6770):623-7</RefSource>
+                <PMID Version="1">10688190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2001 Jan;8(1):73-6</RefSource>
+                <PMID Version="1">11135675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 2001 Feb;10(2):362-77</RefSource>
+                <PMID Version="1">11266622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 10;98(8):4569-74</RefSource>
+                <PMID Version="1">11283351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Enzymol Relat Areas Mol Biol. 2007;75:133-91, xi-xii</RefSource>
+                <PMID Version="1">17124867</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multiprotein Complexes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1986594</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0702766104</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0702766104</ArticleId>
+            <ArticleId IdType="pubmed">17848524</ArticleId>
+            <ArticleId IdType="pmc">PMC1986594</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

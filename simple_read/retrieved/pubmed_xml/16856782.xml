@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16856782</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7885</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS biology</Title>
+                <ISOAbbreviation>PLoS Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High-resolution mutation mapping reveals parallel experimental evolution in yeast.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e256</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Understanding the genetic basis of evolutionary adaptation is limited by our ability to efficiently identify the genomic locations of adaptive mutations. Here we describe a method that can quickly and precisely map the genetic basis of naturally and experimentally evolved complex traits using linkage analysis. A yeast strain that expresses the evolved trait is crossed to a distinct strain background and DNA from a large pool of progeny that express the trait of interest is hybridized to oligonucleotide microarrays that detect thousands of polymorphisms between the two strains. Adaptive mutations are detected by linkage to the polymorphisms from the evolved parent. We successfully tested our method by mapping five known genes to a precision of 0.2-24 kb (0.1-10 cM), and developed computer simulations to test the effect of different factors on mapping precision. We then applied this method to four yeast strains that had independently adapted to a fluctuating glucose-galactose environment. All four strains had acquired one or more missense mutations in GAL80, the repressor of the galactose utilization pathway. When transferred into the ancestral strain, the gal80 mutations conferred the fitness advantage that the evolved strains show in the transition from glucose to galactose. Our results show an example of parallel adaptation caused by mutations in the same gene.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Segrè</LastName>
+                    <ForeName>Ayellet V</ForeName>
+                    <Initials>AV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>Andrew W</ForeName>
+                    <Initials>AW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leu</LastName>
+                    <ForeName>Jun-Yi</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>RefSeq</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NC_001133</AccessionNumber>
+                        <AccessionNumber>NC_001134</AccessionNumber>
+                        <AccessionNumber>NC_001135</AccessionNumber>
+                        <AccessionNumber>NC_001136</AccessionNumber>
+                        <AccessionNumber>NC_001137</AccessionNumber>
+                        <AccessionNumber>NC_001138</AccessionNumber>
+                        <AccessionNumber>NC_001139</AccessionNumber>
+                        <AccessionNumber>NC_001140</AccessionNumber>
+                        <AccessionNumber>NC_001141</AccessionNumber>
+                        <AccessionNumber>NC_001142</AccessionNumber>
+                        <AccessionNumber>NC_001143</AccessionNumber>
+                        <AccessionNumber>NC_001144</AccessionNumber>
+                        <AccessionNumber>NC_001145</AccessionNumber>
+                        <AccessionNumber>NC_001146</AccessionNumber>
+                        <AccessionNumber>NC_001147</AccessionNumber>
+                        <AccessionNumber>NC_001148</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50 GM068763</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Biol</MedlineTA>
+            <NlmUniqueID>101183755</NlmUniqueID>
+            <ISSNLinking>1544-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GAL80 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Genet. 2002;43(2):175-92</RefSource>
+                <PMID Version="1">12080174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jun 25;99(13):8548-53</RefSource>
+                <PMID Version="1">12084916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Genet. 2002;43(3):309-18</RefSource>
+                <PMID Version="1">12177520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2002 Oct;18(10):489-91</RefSource>
+                <PMID Version="1">12350331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2002 Nov;3(11):862-71</RefSource>
+                <PMID Version="1">12415316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16144-9</RefSource>
+                <PMID Version="1">12446845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Feb 4;100(3):1072-7</RefSource>
+                <PMID Version="1">12538876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Jul 16;285(5426):422-4</RefSource>
+                <PMID Version="1">10411508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Aug 17;96(17):9721-6</RefSource>
+                <PMID Version="1">10449761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):31-6</RefSource>
+                <PMID Version="1">11134512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Microbiol. 1999 Feb;1(1):33-43</RefSource>
+                <PMID Version="1">11207716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mamm Genome. 2001 Feb;12(2):95-103</RefSource>
+                <PMID Version="1">11210195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2001 Jun;40(5):1059-66</RefSource>
+                <PMID Version="1">11401712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2002 Jan;3(1):43-52</RefSource>
+                <PMID Version="1">11823790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Mar 21;416(6878):326-30</RefSource>
+                <PMID Version="1">11907579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Hum Genet. 2002 Feb;10(2):125-32</RefSource>
+                <PMID Version="1">11938443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2003 Jan;163(1):79-89</RefSource>
+                <PMID Version="1">12586698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2003 Mar;13(3):513-23</RefSource>
+                <PMID Version="1">12618383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Evol. 2003 Apr;56(4):498-508</RefSource>
+                <PMID Version="1">12664169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 29;100(9):5252-7</RefSource>
+                <PMID Version="1">12704237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2003 Jun;4(6):457-69</RefSource>
+                <PMID Version="1">12776215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2003 Nov;4(11):911-6</RefSource>
+                <PMID Version="1">14634638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2003 Nov;165(3):975-83</RefSource>
+                <PMID Version="1">14668358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2004 Mar;5(3):190-201</RefSource>
+                <PMID Version="1">14970821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2004 May;2(5):E109</RefSource>
+                <PMID Version="1">15069472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Apr 15;428(6984):717-23</RefSource>
+                <PMID Version="1">15085123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Med. 2004;36(2):146-52</RefSource>
+                <PMID Version="1">15119834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Res Microbiol. 2004 May;155(4):217-23</RefSource>
+                <PMID Version="1">15142617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Res Microbiol. 2004 Jun;155(5):319-27</RefSource>
+                <PMID Version="1">15207863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2004 Jun;167(2):907-17</RefSource>
+                <PMID Version="1">15238539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2005 Feb;169(2):523-32</RefSource>
+                <PMID Version="1">15489515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Dec;14(12):2495-502</RefSource>
+                <PMID Version="1">15574828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jan 25;102(4):1092-7</RefSource>
+                <PMID Version="1">15647350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ecol. 2005 Feb;14(2):363-79</RefSource>
+                <PMID Version="1">15660931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2005 Oct;171(2):469-76</RefSource>
+                <PMID Version="1">15998719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jul 28;436(7050):588-92</RefSource>
+                <PMID Version="1">16049495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Sep 9;309(5741):1728-32</RefSource>
+                <PMID Version="1">16081699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Genet. 1992 Jul;22(1):13-9</RefSource>
+                <PMID Version="1">1611666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2005 Dec;37(12):1333-40</RefSource>
+                <PMID Version="1">16273108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2006 Jan;38(1):107-11</RefSource>
+                <PMID Version="1">16341223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2006 Feb 7;16(3):280-6</RefSource>
+                <PMID Version="1">16461281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006;34(4):e27</RefSource>
+                <PMID Version="1">16478714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Mar 31;311(5769):1932-6</RefSource>
+                <PMID Version="1">16527929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Nov 1;88(21):9828-32</RefSource>
+                <PMID Version="1">1682921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1990 May;125(1):21-7</RefSource>
+                <PMID Version="1">2187743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Jun 15;61(6):1089-101</RefSource>
+                <PMID Version="1">2190690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1989 Jul;9(7):3009-17</RefSource>
+                <PMID Version="1">2506435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1989 Jan;121(1):185-99</RefSource>
+                <PMID Version="1">2563713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1983 Jan;153(1):163-8</RefSource>
+                <PMID Version="1">6336730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1994 Nov;138(3):963-71</RefSource>
+                <PMID Version="1">7851788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1994 Dec;138(4):1365-73</RefSource>
+                <PMID Version="1">7896115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</RefSource>
+                <PMID Version="1">7984417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Jan 1;90(1):16-20</RefSource>
+                <PMID Version="1">8419918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 May;17(5):2566-75</RefSource>
+                <PMID Version="1">9111326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Aug 21;281(5380):1194-7</RefSource>
+                <PMID Version="1">9712584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Jan;21(1 Suppl):20-4</RefSource>
+                <PMID Version="1">9915496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>PLoS Biol. 2006 Aug;4(8):e275</RefSource>
+                <PMID Version="1">20076623</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genetic Linkage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymorphism, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saccharomyces cerevisiae Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transformation, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1514788</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">06-PLBI-RA-0228R2</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pbio.0040256</ArticleId>
+            <ArticleId IdType="pubmed">16856782</ArticleId>
+            <ArticleId IdType="pmc">PMC1514788</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

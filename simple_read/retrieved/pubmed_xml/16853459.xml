@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16853459</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1520-6106</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>109</Volume>
+                    <Issue>41</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Single-molecule Michaelis-Menten equations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>19068-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This paper summarizes our present theoretical understanding of single-molecule kinetics associated with the Michaelis-Menten mechanism of enzymatic reactions. Single-molecule enzymatic turnover experiments typically measure the probability density f(t) of the stochastic waiting time t for individual turnovers. While f(t) can be reconciled with ensemble kinetics, it contains more information than the ensemble data; in particular, it provides crucial information on dynamic disorder, the apparent fluctuation of the catalytic rates due to the interconversion among the enzyme's conformers with different catalytic rate constants. In the presence of dynamic disorder, f(t) exhibits a highly stretched multiexponential decay at high substrate concentrations and a monoexponential decay at low substrate concentrations. We derive a single-molecule Michaelis-Menten equation for the reciprocal of the first moment of f(t), 1/&lt;t&gt;, which shows a hyperbolic dependence on the substrate concentration [S], similar to the ensemble enzymatic velocity. We prove that this single-molecule Michaelis-Menten equation holds under many conditions, in particular when the intercoversion rates among different enzyme conformers are slower than the catalytic rate. However, unlike the conventional interpretation, the apparent catalytic rate constant and the apparent Michaelis constant in this single-molecule Michaelis-Menten equation are complicated functions of the catalytic rate constants of individual conformers. We also suggest that the randomness parameter r, defined as &lt;(t - &lt;t&gt;)2&gt; / t2, can serve as an indicator for dynamic disorder in the catalytic step of the enzymatic reaction, as it becomes larger than unity at high substrate concentrations in the presence of dynamic disorder.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Statistics, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kou</LastName>
+                    <ForeName>S C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cherayil</LastName>
+                    <ForeName>Binny J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Min</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>English</LastName>
+                    <ForeName>Brian P</ForeName>
+                    <Initials>BP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>X Sunney</ForeName>
+                    <Initials>XS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzymes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzymes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jp051490q</ArticleId>
+            <ArticleId IdType="pubmed">16853459</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

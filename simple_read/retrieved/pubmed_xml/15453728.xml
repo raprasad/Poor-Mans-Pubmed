@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">15453728</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>126</Volume>
+                    <Issue>39</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Oct</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A general procedure for the esterification of carboxylic acids with diazoalkanes generated in situ by the oxidation of N-tert-butyldimethylsilylhydrazones with (difluoroiodo)benzene.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>12222-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The bimolecular reaction of carboxylic acids with diazoalkanes to form esters is among the mildest and most efficient of organic transformations but is seldom used in synthesis beyond the important case of methyl esterification. This is largely a consequence of the inaccessibility and poor stability of higher diazoalkanes as substrates. In this work we describe a new method for the synthesis of diazoalkanes by the oxidation of N-tert-butyldimethylsilylhydrazones (TBSHs) with (difluoroiodo)benzene, a reagent heretofore unexplored in the context of hydrazone oxidation. When conducted in the presence of a carboxylic acid substrate, the oxidation leads to efficient esterification in situ. In addition to greatly extending the range of diazoalkanes that are now available for esterifications, this new protocol offers significant advantages with regard to safety, for diazo intermediates are neither isolated nor achieve appreciable concentrations during the reaction.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Furrow</LastName>
+                    <ForeName>Michael E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myers</LastName>
+                    <ForeName>Andrew G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15453728</ArticleId>
+            <ArticleId IdType="doi">10.1021/ja0459779</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

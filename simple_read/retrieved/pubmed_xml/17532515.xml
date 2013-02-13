@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17532515</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1046-2023</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>42</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods (San Diego, Calif.)</Title>
+                <ISOAbbreviation>Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Generation of inhibitor-sensitive protein tyrosine phosphatases via active-site mutations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>278-88</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Protein tyrosine phosphatases (PTPs) catalyze the dephosphorylation of phosphotyrosine, a central control element in mammalian signal transduction. Small-molecule inhibitors that are specific for each cellular PTP would be valuable tools in dissecting phosphorylation networks and for validating PTPs as therapeutic targets. However, the common architecture of PTP active sites impedes the discovery of selective PTP inhibitors. Our laboratory has recently used enzyme/inhibitor-interface engineering to generate selective PTP inhibitors. The crux of the strategy resides in the design of &quot;inhibitor-sensitized&quot; PTPs through protein engineering of a novel binding pocket in the target PTP. &quot;Allele-specific&quot; inhibitors that selectively target the sensitized PTP can be synthesized by modifying broad-specificity inhibitors with bulky chemical groups that are incompatible with wild-type PTP active sites; alternatively, specific inhibitors that serendipitously recognize the sensitized PTP's non-natural pocket may be discovered from panels of &quot;non-rationally&quot; designed compounds. In this review, we describe the current state of the PTP-sensitization strategy, with emphases on the methodology of identifying PTP-sensitizing mutations and synthesizing the compounds that have been found to target PTPs in an allele-specific manner. Moreover, we discuss the scope of PTP sensitization in regard to the potential application of the approach across the family of classical PTPs.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry, Amherst College, Amherst, MA 01002, USA. acbishop@amherst.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bishop</LastName>
+                    <ForeName>Anthony C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xin-Yu</ForeName>
+                    <Initials>XY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lone</LastName>
+                    <ForeName>Anna Mari</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1 R15 GM071388-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R15 GM071388-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods</MedlineTA>
+            <NlmUniqueID>9426302</NlmUniqueID>
+            <ISSNLinking>1046-2023</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>PTPN1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>PTPN2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>PTPN3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>Protein Tyrosine Phosphatase, Non-Receptor Type 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>Protein Tyrosine Phosphatase, Non-Receptor Type 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>Protein Tyrosine Phosphatase, Non-Receptor Type 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance>Protein Tyrosine Phosphatases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Sep 21;407(6802):395-401</RefSource>
+                <PMID Version="1">11014197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2000;29:577-606</RefSource>
+                <PMID Version="1">10940260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem. 2006 Jan 15;14(2):464-71</RefSource>
+                <PMID Version="1">16182535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2005 Dec 30;1754(1-2):100-7</RefSource>
+                <PMID Version="1">16226063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2005 Nov 18;354(1):150-63</RefSource>
+                <PMID Version="1">16226275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2006 Feb;10(1):157-77</RefSource>
+                <PMID Version="1">16441235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2006 Aug 1;16(15):4002-6</RefSource>
+                <PMID Version="1">16716588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2006;584:53-72</RefSource>
+                <PMID Version="1">16802599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2006 Oct;27(10):525-30</RefSource>
+                <PMID Version="1">16919785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Cancer Drug Targets. 2006 Sep;6(6):519-32</RefSource>
+                <PMID Version="1">17017875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2006 Nov;7(11):833-46</RefSource>
+                <PMID Version="1">17057753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jun 23;268(5218):1754-8</RefSource>
+                <PMID Version="1">7540771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 1994 Feb;8(2):236-44</RefSource>
+                <PMID Version="1">8309248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Feb 26;8(5):257-66</RefSource>
+                <PMID Version="1">9501066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1998 Feb;8(1):112-26</RefSource>
+                <PMID Version="1">9529614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jun 19;273(25):15340-4</RefSource>
+                <PMID Version="1">9624114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 1998 Aug;8(4):451-8</RefSource>
+                <PMID Version="1">9729736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2001 Aug;5(4):416-23</RefSource>
+                <PMID Version="1">11470605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2001 Aug 17;311(3):557-68</RefSource>
+                <PMID Version="1">11493009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Dec 14;276(50):47311-9</RefSource>
+                <PMID Version="1">11584002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2001 Nov;21(21):7117-36</RefSource>
+                <PMID Version="1">11585896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2001 Nov 28;123(47):11608-13</RefSource>
+                <PMID Version="1">11716715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2002;42:209-34</RefSource>
+                <PMID Version="1">11807171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2002 Jan;9(1):17-23</RefSource>
+                <PMID Version="1">11841935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Oct 25;277(43):41014-22</RefSource>
+                <PMID Version="1">12193602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2002 Sep 26;45(20):4443-59</RefSource>
+                <PMID Version="1">12238924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Med Chem. 2003;3(7):759-82</RefSource>
+                <PMID Version="1">12678843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2003 Jul 15;373(Pt 2):393-401</RefSource>
+                <PMID Version="1">12697028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acc Chem Res. 2003 Jun;36(6):385-92</RefSource>
+                <PMID Version="1">12809524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2004 Mar 1;378(Pt 2):421-33</RefSource>
+                <PMID Version="1">14572311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2003 Nov 11;42(44):12792-804</RefSource>
+                <PMID Version="1">14596593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 May 21;304(5674):1164-6</RefSource>
+                <PMID Version="1">15155950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Jun 11;117(6):699-711</RefSource>
+                <PMID Version="1">15186772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2005 Jan;35(1):9-21</RefSource>
+                <PMID Version="1">15588981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2005 Mar 9;127(9):2824-5</RefSource>
+                <PMID Version="1">15740097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2005 Jun;7(6):591-600</RefSource>
+                <PMID Version="1">15864305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2005 Jun;12(6):621-37</RefSource>
+                <PMID Version="1">15975507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1999 Mar 23;38(12):3793-803</RefSource>
+                <PMID Version="1">10090769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 1999 May-Jun;82(2-3):337-46</RefSource>
+                <PMID Version="1">10454210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Mar 10;275(10):7101-8</RefSource>
+                <PMID Version="1">10702277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Apr 7;275(14):10300-7</RefSource>
+                <PMID Version="1">10744717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2000 Jul 18;39(28):8171-9</RefSource>
+                <PMID Version="1">10889023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2001 Apr;13(2):182-95</RefSource>
+                <PMID Version="1">11248552</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Engineering</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Tyrosine Phosphatase, Non-Receptor Type 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Tyrosine Phosphatase, Non-Receptor Type 2</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Tyrosine Phosphatase, Non-Receptor Type 3</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Tyrosine Phosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>50</NumberOfReferences>
+        <OtherID Source="NLM">NIHMS25544</OtherID>
+        <OtherID Source="NLM">PMC1950444</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1046-2023(07)00034-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ymeth.2007.02.005</ArticleId>
+            <ArticleId IdType="pubmed">17532515</ArticleId>
+            <ArticleId IdType="pmc">PMC1950444</ArticleId>
+            <ArticleId IdType="mid">NIHMS25544</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

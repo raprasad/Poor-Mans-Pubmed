@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10438625</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2836</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>291</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Aug</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular biology</Title>
+                <ISOAbbreviation>J. Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of lysine 55 in determining the specificity of the purine repressor for its operators through minor groove interactions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>347-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The interaction of the dimeric Escherichia coli purine repressor (PurR) with its cognate sequences leads to a 45 degrees to 50 degrees kink at a central CpG base step towards the major groove, as dyad-related leucine side-chains interdigitate between these bases from the minor groove. The resulting broadening of the minor groove increases the accessibility of the six central base-pairs towards minor groove interactions with residues from PurR. It has been shown that lysine 55 of PurR makes a direct contact with the adenine base (Ade8) directly 5' to the central CpG base-pair step in the high-affinity purF operator sequence. We have investigated the importance of this interaction in the specificity and affinity of wild-type PurR (WT) for its operators and we have studied a mutant of PurR in which Lys55 is replaced with alanine (K55A). Complexes of WT and K55A with duplex DNA containing pur operator sequences varied at position 8 were investigated crystallographically, and binding studies were performed using fluorescence anisotropy. The structures of the protein-DNA complexes reveal a relatively unperturbed global conformation regardless of the identity of the base-pair at position 8 or residue 55. In all structures the combination of higher resolution and a palindromic purF operator site allowed several new PurR.DNA interactions to be observed, including contacts by Thr15, Thr16 and His20. The side-chain of Lys55 makes productive, though varying, interactions with the adenine, thymine or cytosine base at position 8 that result in equilibrium dissociation constants of 2.6 nM, 10 nM and 35 nM, respectively. However, the bulk of the lysine side-chain apparently blocks high-affinity binding of operators with guanine at position 8 (Kd620 nM). Also, the high-affinity binding conformation appears blocked, as crystals of WT bound to DNA with guanine at position 8 could not be grown. In complexes containing K55A, the alanine side-chain is too far removed to engage in van der Waals interactions with the operator, and, with the loss of the general electrostatic interaction between the phosphate backbone and the ammonium group of lysine, K55A binds each operator weakly. However, the mutation leads to a swap of specificity of PurR for the base at position 8, with K55A exhibiting a twofold preference for guanine over adenine. In addition to defining the role of Lys55 in PurR minor groove binding, these studies provide structural insight into the minor groove binding specificities of other LacI/GalR family members that have either alanine (e.g. LacI, GalR, CcpA) or a basic residue (e.g. RafR, ScrR, RbtR) at the comparable position.</AbstractText>
+                <CopyrightInformation>Copyright 1999 Academic Press.</CopyrightInformation>
+            </Abstract>
+            <Affiliation>Department of Biochemistry and Molecular Biology, Oregon Health Sciences University, Portland, OR, 97201-3098, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Glasfeld</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koehler</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schumacher</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brennan</LastName>
+                    <ForeName>R G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>1BDN</AccessionNumber>
+                        <AccessionNumber>1QP0</AccessionNumber>
+                        <AccessionNumber>1QP4</AccessionNumber>
+                        <AccessionNumber>1QP7</AccessionNumber>
+                        <AccessionNumber>1QPZ</AccessionNumber>
+                        <AccessionNumber>1QQA</AccessionNumber>
+                        <AccessionNumber>1QQB</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM49244</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>J Mol Biol</MedlineTA>
+            <NlmUniqueID>2985088R</NlmUniqueID>
+            <ISSNLinking>0022-2836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Oligodeoxyribonucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PurR protein, Bacteria</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PurR protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56-87-1</RegistryNumber>
+                <NameOfSubstance>Lysine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance>DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Escherichia coli Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Polarization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligodeoxyribonucleotides</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Operator Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10438625</ArticleId>
+            <ArticleId IdType="doi">10.1006/jmbi.1999.2946</ArticleId>
+            <ArticleId IdType="pii">S0022-2836(99)92946-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

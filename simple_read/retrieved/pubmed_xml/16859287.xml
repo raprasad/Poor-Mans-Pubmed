@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16859287</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1549-9596</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>46</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2006 Jul-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chemical information and modeling</Title>
+                <ISOAbbreviation>J Chem Inf Model</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Using high-throughput screening data to discriminate compounds with single-target effects from those with side effects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1549-62</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The most desirable compound leads from high-throughput assays are those with novel biological activities resulting from their action on a single biological target. Valuable resources can be wasted on compound leads with significant 'side effects' on additional biological targets; therefore, technical refinements to identify compounds that primarily have effects resulting from a single target are needed. This study explores the use of multiple assays of a chemical library and a statistic based on entropy to identify lead compound classes that have patterns of assay activity resulting primarily from small molecule action on a single target. This statistic, called the coincidence score, discriminates with 88% accuracy compound classes known to act primarily on a single target from compound classes with significant side effects on nonhomologous targets. Furthermore, a significant number of the compound classes predicted to have primarily single-target effects contain known bioactive compounds. We also show that a compound's known biological target or mechanism of action can often be suggested by its pattern of activities in multiple assays.</AbstractText>
+            </Abstract>
+            <Affiliation>Howard Hughes Medical Institute, 12 Oxford Street, Cambridge, Massachusetts 02138, Harvard Institute of Chemistry and Cell Biology, 250 Longwood Avenue, SGMB-604, Boston, Massachusetts 02115, USA. Klekota@gmail.com</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Klekota</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brauner</LastName>
+                    <ForeName>Erik</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roth</LastName>
+                    <ForeName>Frederick P</ForeName>
+                    <Initials>FP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HG0017115</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HG003224</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 HL81341</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Inf Model</MedlineTA>
+            <NlmUniqueID>101230060</NlmUniqueID>
+            <ISSNLinking>1549-9596</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pharmaceutical Preparations</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pharmaceutical Preparations</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pharmacology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ci050495h</ArticleId>
+            <ArticleId IdType="pubmed">16859287</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

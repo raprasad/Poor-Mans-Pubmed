@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15107405</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0890-9369</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>18</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genes &amp; development</Title>
+                <ISOAbbreviation>Genes Dev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hedgehog signaling in the neural crest cells regulates the patterning and growth of facial primordia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>937-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Facial abnormalities in human SHH mutants have implicated the Hedgehog (Hh) pathway in craniofacial development, but early defects in mouse Shh mutants have precluded the experimental analysis of this phenotype. Here, we removed Hh-responsiveness specifically in neural crest cells (NCCs), the multipotent cell type that gives rise to much of the skeleton and connective tissue of the head. In these mutants, many of the NCC-derived skeletal and nonskeletal components are missing, but the NCC-derived neuronal cell types are unaffected. Although the initial formation of branchial arches (BAs) is normal, expression of several Fox genes, specific targets of Hh signaling in cranial NCCs, is lost in the mutant. The spatially restricted expression of Fox genes suggests that they may play an important role in BA patterning. Removing Hh signaling in NCCs also leads to increased apoptosis and decreased cell proliferation in the BAs, which results in facial truncation that is evident by embryonic day 11.5 (E11.5). Together, our results demonstrate that Hh signaling in NCCs is essential for normal patterning and growth of the face. Further, our analysis of Shh-Fox gene regulatory interactions leads us to propose that Fox genes mediate the action of Shh in facial development.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jeong</LastName>
+                    <ForeName>Juhee</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mao</LastName>
+                    <ForeName>Junhao</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tenzen</LastName>
+                    <ForeName>Toyoaki</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kottmann</LastName>
+                    <ForeName>Andreas H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>Andrew P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK 56246</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS 33642</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genes Dev</MedlineTA>
+            <NlmUniqueID>8711660</NlmUniqueID>
+            <ISSNLinking>0890-9369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hedgehog Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, G-Protein-Coupled</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SHH protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SMO protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Smo protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Wnt Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Zebrafish Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>patched receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>smoh protein, zebrafish</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Feb 15;295(5558):1288-91</RefSource>
+                <PMID Version="1">11847340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2002 Feb;129(4):1061-73</RefSource>
+                <PMID Version="1">11861488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Oct 11;298(5592):381-5</RefSource>
+                <PMID Version="1">12193642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2002 Oct 1;250(1):1-23</RefSource>
+                <PMID Version="1">12297093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genesis. 2002 Dec;34(4):221-7</RefSource>
+                <PMID Version="1">12434331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2002 Nov 21;21(53):8196-205</RefSource>
+                <PMID Version="1">12444557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Dev Biol. 2003;53:1-114</RefSource>
+                <PMID Version="1">12509125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2003 Jan 15;17(2):269-81</RefSource>
+                <PMID Version="1">12533514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurobiol. 1994 Oct;25(10):1293-309</RefSource>
+                <PMID Version="1">7815060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Dec 31;75(7):1317-31</RefSource>
+                <PMID Version="1">7903600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Dec 31;75(7):1333-49</RefSource>
+                <PMID Version="1">7903601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Dec 31;75(7):1417-30</RefSource>
+                <PMID Version="1">7916661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1994 Aug;120(8):2213-24</RefSource>
+                <PMID Version="1">7925022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1994 Nov;166(1):195-209</RefSource>
+                <PMID Version="1">7958446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1994 May;120(5):1109-21</RefSource>
+                <PMID Version="1">8026324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Jun 15;10(12):1467-78</RefSource>
+                <PMID Version="1">8666231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Oct 3;383(6599):407-13</RefSource>
+                <PMID Version="1">8837770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1996 Nov;14(3):357-60</RefSource>
+                <PMID Version="1">8896572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1996 Oct;122(10):3229-42</RefSource>
+                <PMID Version="1">8898235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Oral Biol. 1996 Jun;41(6):577-83</RefSource>
+                <PMID Version="1">8937649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Jan;124(2):391-8</RefSource>
+                <PMID Version="1">9053315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1997 Apr 1;11(7):926-40</RefSource>
+                <PMID Version="1">9106663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Jul;124(14):2807-17</RefSource>
+                <PMID Version="1">9226452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Jul 25;90(2):247-55</RefSource>
+                <PMID Version="1">9244299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Aug 22;277(5329):1109-13</RefSource>
+                <PMID Version="1">9262482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Oct;124(20):4153-62</RefSource>
+                <PMID Version="1">9374411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1997 Nov;124(22):4627-38</RefSource>
+                <PMID Version="1">9409679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jan 1;391(6662):90-2</RefSource>
+                <PMID Version="1">9422511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mech Dev. 1998 Jan;70(1-2):3-13</RefSource>
+                <PMID Version="1">9510020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1998 Aug;125(16):3005-14</RefSource>
+                <PMID Version="1">9671575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1998 Jun 15;50(3):346-56</RefSource>
+                <PMID Version="1">9676429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Sep 1;12(17):2735-47</RefSource>
+                <PMID Version="1">9732271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1998 Oct 15;202(2):215-27</RefSource>
+                <PMID Version="1">9769173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Dec 3;8(24):1323-6</RefSource>
+                <PMID Version="1">9843687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Jan;21(1):70-1</RefSource>
+                <PMID Version="1">9916792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1999 Jun 1;210(1):15-29</RefSource>
+                <PMID Version="1">10364424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Sep;126(17):3831-46</RefSource>
+                <PMID Version="1">10433912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1999 Aug 15;13(16):2072-86</RefSource>
+                <PMID Version="1">10465785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Oct;126(20):4465-75</RefSource>
+                <PMID Version="1">10498682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Nov;126(21):4873-84</RefSource>
+                <PMID Version="1">10518503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Nov 18;9(22):1304-14</RefSource>
+                <PMID Version="1">10574760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1999 Dec 1;13(23):3136-48</RefSource>
+                <PMID Version="1">10601039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Jan;127(2):403-12</RefSource>
+                <PMID Version="1">10603356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2000 Feb;20(4):1419-25</RefSource>
+                <PMID Version="1">10648626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2000 Feb;2(2):96-102</RefSource>
+                <PMID Version="1">10655589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Apr;127(8):1607-16</RefSource>
+                <PMID Version="1">10725237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Apr;127(8):1671-9</RefSource>
+                <PMID Version="1">10725243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2003 May;130(9):1749-58</RefSource>
+                <PMID Version="1">12642481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 May 15;423(6937):326-31</RefSource>
+                <PMID Version="1">12748650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2003 Jul 1;259(1):83-94</RefSource>
+                <PMID Version="1">12812790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2003 Oct;4(10):795-805</RefSource>
+                <PMID Version="1">14523379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2003 Oct;4(10):806-18</RefSource>
+                <PMID Version="1">14523380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1991 Nov;5(11):2048-59</RefSource>
+                <PMID Version="1">1682218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1991 Jan;5(1):105-19</RefSource>
+                <PMID Version="1">1989904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1983 Mar;96(1):144-65</RefSource>
+                <PMID Version="1">6825950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Nov;127(22):4775-85</RefSource>
+                <PMID Version="1">11044393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Dec;127(24):5355-65</RefSource>
+                <PMID Version="1">11076757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Dec;127(24):5367-78</RefSource>
+                <PMID Version="1">11076758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1994 Aug;164(2):409-19</RefSource>
+                <PMID Version="1">8045344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Oct 8;75(1):45-58</RefSource>
+                <PMID Version="1">8104708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Apr 21;368(6473):703-10</RefSource>
+                <PMID Version="1">8152482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1993;225:361-73</RefSource>
+                <PMID Version="1">8231863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1993 Oct;119(2):319-38</RefSource>
+                <PMID Version="1">8287791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1993 May;118(1):47-59</RefSource>
+                <PMID Version="1">8375339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Dec 22;270(5244):1995-9</RefSource>
+                <PMID Version="1">8533092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Feb 1;10(3):301-12</RefSource>
+                <PMID Version="1">8595881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2001 Jan;128(2):155-66</RefSource>
+                <PMID Version="1">11124112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Dev Biol. 2001;1:4</RefSource>
+                <PMID Version="1">11299042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2001 Jun;128(12):2397-406</RefSource>
+                <PMID Version="1">11493558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Jul 27;106(2):781-92</RefSource>
+                <PMID Version="1">11517919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2001 Dec;128(24):5099-108</RefSource>
+                <PMID Version="1">11748145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Dec 20-27;414(6866):909-12</RefSource>
+                <PMID Version="1">11780063</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Face</DescriptorName>
+                <QualifierName MajorTopicYN="Y">embryology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hedgehog Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesoderm</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neural Crest</DescriptorName>
+                <QualifierName MajorTopicYN="Y">embryology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, G-Protein-Coupled</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skull</DescriptorName>
+                <QualifierName MajorTopicYN="N">embryology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trans-Activators</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wnt Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Zebrafish Proteins</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC395852</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15107405</ArticleId>
+            <ArticleId IdType="doi">10.1101/gad.1190304</ArticleId>
+            <ArticleId IdType="pii">18/8/937</ArticleId>
+            <ArticleId IdType="pmc">PMC395852</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

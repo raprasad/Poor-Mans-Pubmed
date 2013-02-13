@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15741509</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1088-9051</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genome research</Title>
+                <ISOAbbreviation>Genome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein structure and evolutionary history determine sequence space topology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>385-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Understanding the observed variability in the number of homologs of a gene is a very important unsolved problem that has broad implications for research into coevolution of structure and function, gene duplication, pseudogene formation, and possibly for emerging diseases. Here, we attempt to define and elucidate some possible causes behind the observed irregularity in sequence space. We present evidence that sequence variability and functional diversity of a gene or fold family is influenced by quantifiable characteristics of the protein structure. These characteristics reflect the structural potential for sequence plasticity, i.e., the ability to accept mutation without losing thermodynamic stability. We identify a structural feature of a protein domain-contact density-that serves as a determinant of entropy in sequence space, i.e., the ability of a protein to accept mutations without destroying the fold (also known as fold designability). We show that (log) of average gene family size exhibits statistical correlation (R(2) &gt; 0.9.) with contact density of its three-dimensional structure. We present evidence that the size of individual gene families are influenced not only by the designability of the structure, but also by evolutionary history, e.g., the amount of time the gene family was in existence. We further show that our observed statistical correlation between gene family size and contact density of the structure is valid on many levels of evolutionary divergence, i.e., not only for closely related sequence, but also for less-related fold and superfamily levels of homology.</AbstractText>
+            </Abstract>
+            <Affiliation>Bioinformatics Program, Boston University, Boston, Massachusetts 02215, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shakhnovich</LastName>
+                    <ForeName>Boris E</ForeName>
+                    <Initials>BE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deeds</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delisi</LastName>
+                    <ForeName>Charles</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shakhnovich</LastName>
+                    <ForeName>Eugene</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genome Res</MedlineTA>
+            <NlmUniqueID>9518021</NlmUniqueID>
+            <ISSNLinking>1088-9051</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 1999 Jun;9(3):374-82</RefSource>
+                <PMID Version="1">10361094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 1999 Jun;9(3):390-9</RefSource>
+                <PMID Version="1">10361097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biopolymers. 2000 Jan;53(1):1-8</RefSource>
+                <PMID Version="1">10644946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2000 May;25(1):25-9</RefSource>
+                <PMID Version="1">10802651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev Lett. 2000 Sep 18;85(12):2641-4</RefSource>
+                <PMID Version="1">10978127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Jan 1;29(1):55-7</RefSource>
+                <PMID Version="1">11125048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2000 Dec;16(12):1145-50</RefSource>
+                <PMID Version="1">11159333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2001 Jun;8(6):559-66</RefSource>
+                <PMID Version="1">11373627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Oct 5;294(5540):93-6</RefSource>
+                <PMID Version="1">11588250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2001 Oct;11(10):1632-40</RefSource>
+                <PMID Version="1">11591640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2001 Nov 2;313(4):673-81</RefSource>
+                <PMID Version="1">11697896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Feb 5;99(3):1280-5</RefSource>
+                <PMID Version="1">11805293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</RefSource>
+                <PMID Version="1">9254694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1998 Jan 1;26(1):320-2</RefSource>
+                <PMID Version="1">9399864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 1998 May;15(5):583-9</RefSource>
+                <PMID Version="1">9580988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 1998 Jun;14(5):423-9</RefSource>
+                <PMID Version="1">9682055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2002;31:45-71</RefSource>
+                <PMID Version="1">11988462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteins. 2002 Jun 1;47(4):506-12</RefSource>
+                <PMID Version="1">12001229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acc Chem Res. 2002 May;35(5):261-9</RefSource>
+                <PMID Version="1">12020163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2002 Jul;12(7):1048-59</RefSource>
+                <PMID Version="1">12097341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2002 Oct;27(10):514-20</RefSource>
+                <PMID Version="1">12368087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14132-6</RefSource>
+                <PMID Version="1">12384571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Nov 14;420(6912):218-23</RefSource>
+                <PMID Version="1">12432406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Evol Biol. 2003 Jan 6;3:2</RefSource>
+                <PMID Version="1">12515582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Jan 1;31(1):365-70</RefSource>
+                <PMID Version="1">12520024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Jan 1;31(1):489-91</RefSource>
+                <PMID Version="1">12520059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Biochem Anal. 2003;44:249-71</RefSource>
+                <PMID Version="1">12647390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Rev Lett. 2003 May 30;90(21):218101</RefSource>
+                <PMID Version="1">12786593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Jul 22;100(15):8727-31</RefSource>
+                <PMID Version="1">12843403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2003 Nov;85(5):2962-72</RefSource>
+                <PMID Version="1">14581198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):2846-51</RefSource>
+                <PMID Version="1">14970345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Biophys Mol Biol. 1987;50(3):171-90</RefSource>
+                <PMID Version="1">3332386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1987 Jul 5;196(1):199-216</RefSource>
+                <PMID Version="1">3656444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Subcell Biochem. 1995;24:1-26</RefSource>
+                <PMID Version="1">7900172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1993 Sep 5;233(1):123-38</RefSource>
+                <PMID Version="1">8377180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Apr 16;93(8):3341-5</RefSource>
+                <PMID Version="1">8622938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Aug 2;273(5275):666-9</RefSource>
+                <PMID Version="1">8662562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Dec 10;93(25):14249-55</RefSource>
+                <PMID Version="1">8962034</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC551565</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">15/3/385</ArticleId>
+            <ArticleId IdType="doi">10.1101/gr.3133605</ArticleId>
+            <ArticleId IdType="pubmed">15741509</ArticleId>
+            <ArticleId IdType="pmc">PMC551565</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

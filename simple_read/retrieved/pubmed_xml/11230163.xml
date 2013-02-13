@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11230163</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1088-9051</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genome research</Title>
+                <ISOAbbreviation>Genome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative DNA sequence analysis of mouse and human protocadherin gene clusters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>389-404</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The genomic organization of the human protocadherin alpha, beta, and gamma gene clusters (designated Pcdh alpha [gene symbol PCDHA], Pcdh beta [PCDHB], and Pcdh gamma [PCDHG]) is remarkably similar to that of immunoglobulin and T-cell receptor genes. The extracellular and transmembrane domains of each protocadherin protein are encoded by an unusually large &quot;variable&quot; region exon, while the intracellular domains are encoded by three small &quot;constant&quot; region exons located downstream from a tandem array of variable region exons. Here we report the results of a comparative DNA sequence analysis of the orthologous human (750 kb) and mouse (900 kb) protocadherin gene clusters. The organization of Pcdh alpha and Pcdh gamma gene clusters in the two species is virtually identical, whereas the mouse Pcdh beta gene cluster is larger and contains more genes than the human Pcdh beta gene cluster. We identified conserved DNA sequences upstream of the variable region exons, and found that these sequences are more conserved between orthologs than between paralogs. Within this region, there is a highly conserved DNA sequence motif located at about the same position upstream of the translation start codon of each variable region exon. In addition, the variable region of each gene cluster contains a rich array of CpG islands, whose location corresponds to the position of each variable region exon. These observations are consistent with the proposal that the expression of each variable region exon is regulated by a distinct promoter, which is highly conserved between orthologous variable region exons in mouse and human.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grimwood</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmutz</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dickson</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noonan</LastName>
+                    <ForeName>J P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>M Q</ForeName>
+                    <Initials>MQ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myers</LastName>
+                    <ForeName>R M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maniatis</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>AF332005</AccessionNumber>
+                        <AccessionNumber>AF332006</AccessionNumber>
+                        <AccessionNumber>AY013756</AccessionNumber>
+                        <AccessionNumber>AY013757</AccessionNumber>
+                        <AccessionNumber>AY013758</AccessionNumber>
+                        <AccessionNumber>AY013759</AccessionNumber>
+                        <AccessionNumber>AY013760</AccessionNumber>
+                        <AccessionNumber>AY013761</AccessionNumber>
+                        <AccessionNumber>AY013762</AccessionNumber>
+                        <AccessionNumber>AY013763</AccessionNumber>
+                        <AccessionNumber>AY013764</AccessionNumber>
+                        <AccessionNumber>AY013765</AccessionNumber>
+                        <AccessionNumber>AY013766</AccessionNumber>
+                        <AccessionNumber>AY013767</AccessionNumber>
+                        <AccessionNumber>AY013768</AccessionNumber>
+                        <AccessionNumber>AY013769</AccessionNumber>
+                        <AccessionNumber>AY013770</AccessionNumber>
+                        <AccessionNumber>AY013771</AccessionNumber>
+                        <AccessionNumber>AY013772</AccessionNumber>
+                        <AccessionNumber>AY013773</AccessionNumber>
+                        <AccessionNumber>AY013774</AccessionNumber>
+                        <AccessionNumber>AY013775</AccessionNumber>
+                        <AccessionNumber>AY013776</AccessionNumber>
+                        <AccessionNumber>AY013777</AccessionNumber>
+                        <AccessionNumber>AY013778</AccessionNumber>
+                        <AccessionNumber>AY013779</AccessionNumber>
+                        <AccessionNumber>AY013780</AccessionNumber>
+                        <AccessionNumber>AY013781</AccessionNumber>
+                        <AccessionNumber>AY013782</AccessionNumber>
+                        <AccessionNumber>AY013783</AccessionNumber>
+                        <AccessionNumber>AY013784</AccessionNumber>
+                        <AccessionNumber>AY013785</AccessionNumber>
+                        <AccessionNumber>AY013786</AccessionNumber>
+                        <AccessionNumber>AY013787</AccessionNumber>
+                        <AccessionNumber>AY013788</AccessionNumber>
+                        <AccessionNumber>AY013789</AccessionNumber>
+                        <AccessionNumber>AY013790</AccessionNumber>
+                        <AccessionNumber>AY013791</AccessionNumber>
+                        <AccessionNumber>AY013792</AccessionNumber>
+                        <AccessionNumber>AY013793</AccessionNumber>
+                        <AccessionNumber>AY013794</AccessionNumber>
+                        <AccessionNumber>AY013795</AccessionNumber>
+                        <AccessionNumber>AY013796</AccessionNumber>
+                        <AccessionNumber>AY013797</AccessionNumber>
+                        <AccessionNumber>AY013798</AccessionNumber>
+                        <AccessionNumber>AY013799</AccessionNumber>
+                        <AccessionNumber>AY013800</AccessionNumber>
+                        <AccessionNumber>AY013801</AccessionNumber>
+                        <AccessionNumber>AY013802</AccessionNumber>
+                        <AccessionNumber>AY013803</AccessionNumber>
+                        <AccessionNumber>AY013804</AccessionNumber>
+                        <AccessionNumber>AY013805</AccessionNumber>
+                        <AccessionNumber>AY013806</AccessionNumber>
+                        <AccessionNumber>AY013807</AccessionNumber>
+                        <AccessionNumber>AY013808</AccessionNumber>
+                        <AccessionNumber>AY013809</AccessionNumber>
+                        <AccessionNumber>AY013810</AccessionNumber>
+                        <AccessionNumber>AY013811</AccessionNumber>
+                        <AccessionNumber>AY013812</AccessionNumber>
+                        <AccessionNumber>AY013813</AccessionNumber>
+                        <AccessionNumber>AY013873</AccessionNumber>
+                        <AccessionNumber>AY013874</AccessionNumber>
+                        <AccessionNumber>AY013875</AccessionNumber>
+                        <AccessionNumber>AY013876</AccessionNumber>
+                        <AccessionNumber>AY013877</AccessionNumber>
+                        <AccessionNumber>AY013878</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM42231</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HG01696</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genome Res</MedlineTA>
+            <NlmUniqueID>9518021</NlmUniqueID>
+            <ISSNLinking>1088-9051</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cadherins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Carrier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Jun;22(2):151-8</RefSource>
+                <PMID Version="1">10369256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 1999 Jan;9(1):53-61</RefSource>
+                <PMID Version="1">9927484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jul 2;274(27):19473-1979</RefSource>
+                <PMID Version="1">10383464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Jul 14;260(3):641-5</RefSource>
+                <PMID Version="1">10403819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jul 23;98(2):133-6</RefSource>
+                <PMID Version="1">10428025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1999 Jul;23(3):427-30</RefSource>
+                <PMID Version="1">10433255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Sep 9;9(17):R651-4</RefSource>
+                <PMID Version="1">10508574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1999 Oct;11(5):554-60</RefSource>
+                <PMID Version="1">10508659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1999 Dec 15;62(3):540-3</RefSource>
+                <PMID Version="1">10644456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2000 Jan 1;63(1):75-87</RefSource>
+                <PMID Version="1">10662547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 Feb 7;148(3):399-404</RefSource>
+                <PMID Version="1">10662767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Mar 28;97(7):3124-9</RefSource>
+                <PMID Version="1">10716726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Neurobiol. 2000 Aug;61(6):611-48</RefSource>
+                <PMID Version="1">10775799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2000 Apr;10(4):577-86</RefSource>
+                <PMID Version="1">10779500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2000 May 15;14(10):1169-80</RefSource>
+                <PMID Version="1">10817752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2000 Jun 9;299(3):551-72</RefSource>
+                <PMID Version="1">10835267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2000 Jun;10(6):758-75</RefSource>
+                <PMID Version="1">10854409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2000 Jul 13;10(14):821-30</RefSource>
+                <PMID Version="1">10899001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetica. 1999;107(1-3):249-59</RefSource>
+                <PMID Version="1">10952216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2000 Aug;10(8):1095-102</RefSource>
+                <PMID Version="1">10958627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2000 Oct;12(5):593-7</RefSource>
+                <PMID Version="1">10978895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1992 Aug;13(4):1095-107</RefSource>
+                <PMID Version="1">1505946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Dec 15;90(24):11995-9</RefSource>
+                <PMID Version="1">7505451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1995 May 16;210(2):556-66</RefSource>
+                <PMID Version="1">7755634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jan 27;267(5197):531-6</RefSource>
+                <PMID Version="1">7824954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1994 Mar;6(3):236-44</RefSource>
+                <PMID Version="1">8012384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1994 May;7(1):48-53</RefSource>
+                <PMID Version="1">8075639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Jun 21;272(5269):1755-62</RefSource>
+                <PMID Version="1">8650574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1996 Jun 15;34(3):399-409</RefSource>
+                <PMID Version="1">8786141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1996 Nov;109 ( Pt 11):2609-11</RefSource>
+                <PMID Version="1">8937978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</RefSource>
+                <PMID Version="1">9254694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 1997 Oct;7(10):959-66</RefSource>
+                <PMID Version="1">9331366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Nov 14;278(5341):1315-8</RefSource>
+                <PMID Version="1">9360932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 1998 Jan;8(1):29-40</RefSource>
+                <PMID Version="1">9445485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Jun;20(6):1059-62</RefSource>
+                <PMID Version="1">9655493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Jun;20(6):1137-51</RefSource>
+                <PMID Version="1">9655502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1999 Feb 1;19(3):995-1005</RefSource>
+                <PMID Version="1">9920663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jun 11;97(6):779-90</RefSource>
+                <PMID Version="1">10380929</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Composition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cadherins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carrier Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Conserved Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CpG Islands</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exons</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multigene Family</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Precursors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC311048</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>6</Month>
+                <Day>22</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11230163</ArticleId>
+            <ArticleId IdType="doi">10.1101/gr.167301</ArticleId>
+            <ArticleId IdType="pmc">PMC311048</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022858</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-7306</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biology</Title>
+                <ISOAbbreviation>Mol. Cell. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selection and characterization of pre-mRNA splicing enhancers: identification of novel SR protein-specific enhancer sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1705-19</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Splicing enhancers are RNA sequences required for accurate splice site recognition and the control of alternative splicing. In this study, we used an in vitro selection procedure to identify and characterize novel RNA sequences capable of functioning as pre-mRNA splicing enhancers. Randomized 18-nucleotide RNA sequences were inserted downstream from a Drosophila doublesex pre-mRNA enhancer-dependent splicing substrate. Functional splicing enhancers were then selected by multiple rounds of in vitro splicing in nuclear extracts, reverse transcription, and selective PCR amplification of the spliced products. Characterization of the selected splicing enhancers revealed a highly heterogeneous population of sequences, but we identified six classes of recurring degenerate sequence motifs five to seven nucleotides in length including novel splicing enhancer sequence motifs. Analysis of selected splicing enhancer elements and other enhancers in S100 complementation assays led to the identification of individual enhancers capable of being activated by specific serine/arginine (SR)-rich splicing factors (SC35, 9G8, and SF2/ASF). In addition, a potent splicing enhancer sequence isolated in the selection specifically binds a 20-kDa SR protein. This enhancer sequence has a high level of sequence homology with a recently identified RNA-protein adduct that can be immunoprecipitated with an SRp20-specific antibody. We conclude that distinct classes of selected enhancers are activated by specific SR proteins, but there is considerable sequence degeneracy within each class. The results presented here, in conjunction with previous studies, reveal a remarkably broad spectrum of RNA sequences capable of binding specific SR proteins and/or functioning as SR-specific splicing enhancers.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schaal</LastName>
+                    <ForeName>T D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maniatis</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM42231</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Mol Cell Biol</MedlineTA>
+            <NlmUniqueID>8109087</NlmUniqueID>
+            <ISSNLinking>0270-7306</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nucleocytoplasmic Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Purines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrimidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ribonucleoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SRSF3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>170974-22-8</RegistryNumber>
+                <NameOfSubstance>serine-arginine-rich splicing proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1997 Feb 1;11(3):334-44</RefSource>
+                <PMID Version="1">9030686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Feb 18;94(4):1148-53</RefSource>
+                <PMID Version="1">9037021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Apr 15;94(8):3596-601</RefSource>
+                <PMID Version="1">9108022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 May;17(5):2649-57</RefSource>
+                <PMID Version="1">9111335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1997 Apr;7(2):205-11</RefSource>
+                <PMID Version="1">9115432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 Apr;17(4):2143-50</RefSource>
+                <PMID Version="1">9121463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1997 Jun;9(3):350-7</RefSource>
+                <PMID Version="1">9159075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 1995 Mar;1(1):21-35</RefSource>
+                <PMID Version="1">7489484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 1995 Oct;1(8):763-71</RefSource>
+                <PMID Version="1">7493322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Jul 17;14(14):3540-51</RefSource>
+                <PMID Version="1">7543047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Nov;15(11):6291-8</RefSource>
+                <PMID Version="1">7565782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 1995 Sep;1(7):663-80</RefSource>
+                <PMID Version="1">7585252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Sep;15(9):4898-907</RefSource>
+                <PMID Version="1">7651409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Aug 15;14(16):3987-4000</RefSource>
+                <PMID Version="1">7664738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 Feb 1;9(3):284-93</RefSource>
+                <PMID Version="1">7867927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1994 Nov;14(11):7670-82</RefSource>
+                <PMID Version="1">7935481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1994 Jul 15;8(14):1703-12</RefSource>
+                <PMID Version="1">7958850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1997 Aug 15;16(16):5077-85</RefSource>
+                <PMID Version="1">9305649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Jan;18(1):343-52</RefSource>
+                <PMID Version="1">9418881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Apr 3;93(1):139-48</RefSource>
+                <PMID Version="1">9546399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Jul 1;12(13):1998-2012</RefSource>
+                <PMID Version="1">9649504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Sep;18(9):4977-85</RefSource>
+                <PMID Version="1">9710581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Nov 16;17(22):6747-56</RefSource>
+                <PMID Version="1">9822617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1999 Jan;19(1):261-73</RefSource>
+                <PMID Version="1">9858550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 Dec;7(12A):2405-17</RefSource>
+                <PMID Version="1">8253386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Dec 17;75(6):1061-70</RefSource>
+                <PMID Version="1">8261509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 Dec;7(12B):2598-608</RefSource>
+                <PMID Version="1">8276242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1994 Feb;14(2):1347-54</RefSource>
+                <PMID Version="1">8289812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Jul 16;74(1):105-14</RefSource>
+                <PMID Version="1">8334698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Sep 2;365(6441):82-5</RefSource>
+                <PMID Version="1">8361546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 Mar;7(3):407-18</RefSource>
+                <PMID Version="1">8449402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Jun 6;381(6582):535-8</RefSource>
+                <PMID Version="1">8632829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Jun 1;10(11):1356-68</RefSource>
+                <PMID Version="1">8647433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 Jul;16(7):3317-26</RefSource>
+                <PMID Version="1">8668147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Apr 24;256(5056):535-8</RefSource>
+                <PMID Version="1">1373910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Sep 1;89(17):8092-6</RefSource>
+                <PMID Version="1">1518835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Apr 10;256(5054):237-40</RefSource>
+                <PMID Version="1">1566072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1992 May;6(5):837-47</RefSource>
+                <PMID Version="1">1577277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 May 15;256(5059):992-7</RefSource>
+                <PMID Version="1">1589782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene Expr. 1992;2(1):1-5</RefSource>
+                <PMID Version="1">1617299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Dec;111(6 Pt 1):2217-23</RefSource>
+                <PMID Version="1">1703534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 Jan 4;251(4989):33-4</RefSource>
+                <PMID Version="1">1824726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Jul 26;66(2):383-94</RefSource>
+                <PMID Version="1">1830244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Jul 26;66(2):373-82</RefSource>
+                <PMID Version="1">1855257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 May 10;252(5007):833-6</RefSource>
+                <PMID Version="1">1902987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1991 Nov;5(11):2071-85</RefSource>
+                <PMID Version="1">1936994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Genet. 1990;27:189-237</RefSource>
+                <PMID Version="1">2112300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Jan;4(1):89-97</RefSource>
+                <PMID Version="1">2155161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1986 Aug 29;46(5):681-90</RefSource>
+                <PMID Version="1">2427200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Jun 17;53(6):887-95</RefSource>
+                <PMID Version="1">2454747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Mar 24;56(6):997-1010</RefSource>
+                <PMID Version="1">2493994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1989 Aug 17;340(6234):521-4</RefSource>
+                <PMID Version="1">2505080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1989 Apr;9(4):1604-10</RefSource>
+                <PMID Version="1">2725519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1989 Oct 11;17(19):7905-21</RefSource>
+                <PMID Version="1">2798134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Jun 17;53(6):949-61</RefSource>
+                <PMID Version="1">2968159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Oct;42(3):725-36</RefSource>
+                <PMID Version="1">2996774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Dec 23;55(6):1025-35</RefSource>
+                <PMID Version="1">3144434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1988 Dec;2(12A):1627-38</RefSource>
+                <PMID Version="1">3215513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1987 Oct 12;15(19):7725-33</RefSource>
+                <PMID Version="1">3671064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1984 Apr;36(4):993-1005</RefSource>
+                <PMID Version="1">6323033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1983 Mar 11;11(5):1475-89</RefSource>
+                <PMID Version="1">6828386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Nov;127(3):593-607</RefSource>
+                <PMID Version="1">7962048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1994 Jun 1;13(11):2639-49</RefSource>
+                <PMID Version="1">8013463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Feb 25;76(4):735-46</RefSource>
+                <PMID Version="1">8124712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Mar 10;368(6467):119-24</RefSource>
+                <PMID Version="1">8139654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1993 Aug;3(4):574-84</RefSource>
+                <PMID Version="1">8241769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Jul 1;10(13):1569-79</RefSource>
+                <PMID Version="1">8682289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1996 Jun;8(3):331-9</RefSource>
+                <PMID Version="1">8743883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Jul 23;93(15):7582-7</RefSource>
+                <PMID Version="1">8755518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1996 Aug 15;10(16):2089-101</RefSource>
+                <PMID Version="1">8769651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 1996 Oct;2(10):969-81</RefSource>
+                <PMID Version="1">8849774</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Alternative Splicing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drosophila</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Enhancer Elements, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Insect</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Nucleocytoplasmic Transport Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Purines</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrimidines</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA Precursors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Ribonucleoproteins</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC83964</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022858</ArticleId>
+            <ArticleId IdType="pmc">PMC83964</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

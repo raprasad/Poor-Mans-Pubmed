@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16620111</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>128</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Apr</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of a 10,000-membered library of molecules resembling carpanone and discovery of vesicular traffic inhibitors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5391-403</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Split-and-pool synthesis of a 10,000-membered library of molecules resembling the natural product carpanone has been achieved. The synthesis features development of solid-phase multicomponent reactions between nitrogen nucleophiles, enones, and hydroxylamines, and a solid-phase application of the Huisgen cycloaddition affording substituted triazoles. The synthesis was performed in high-capacity (500 microm) polystyrene beads using a one bead-one stock solution strategy that enabled phenotypic screens of the resulting library. Using whole-cell fluorescence imaging, we discovered a series of molecules from the carpanone-based library that inhibit exocytosis from the Golgi apparatus. The most potent member of this series has an IC(50) of 14 microM. We also report structure-activity relationships for the molecules exhibiting this interesting phenotype. These inhibitors of exocytosis may be useful reagents for the study of vesicular traffic.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry &amp; Chemical Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goess</LastName>
+                    <ForeName>Brian C</ForeName>
+                    <Initials>BC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hannoush</LastName>
+                    <ForeName>Rami N</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Lawrence K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kirchhausen</LastName>
+                    <ForeName>Tomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shair</LastName>
+                    <ForeName>Matthew D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 GM062566-050003</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 GM62566-05</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM075252-06</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2005 Jan 12;127(1):210-6</RefSource>
+                <PMID Version="1">15631470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Sep 19;90(6):1137-48</RefSource>
+                <PMID Version="1">9323141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Sep 4;389(6646):81-5</RefSource>
+                <PMID Version="1">9288971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Jun 18;73(6):1079-90</RefSource>
+                <PMID Version="1">8513494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Mar;116(5):1071-80</RefSource>
+                <PMID Version="1">1740466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Dec 5;263(34):18545-52</RefSource>
+                <PMID Version="1">3192548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1984 Sep;99(3):1101-9</RefSource>
+                <PMID Version="1">6088553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2004 Oct 18;14(20):5035-9</RefSource>
+                <PMID Version="1">15380194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nat Prod. 2004 Feb;67(2):245-56</RefSource>
+                <PMID Version="1">14987066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Org Biomol Chem. 2003 Nov 21;1(22):3867-70</RefSource>
+                <PMID Version="1">14664374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chembiochem. 2003 Nov 7;4(11):1147-9</RefSource>
+                <PMID Version="1">14613105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2003 Jul-Aug;2(4 Suppl 1):S169-77</RefSource>
+                <PMID Version="1">14508096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Prod Rep. 2003 Aug;20(4):382-91</RefSource>
+                <PMID Version="1">12964834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 May 27;100(11):6469-74</RefSource>
+                <PMID Version="1">12738886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2002 Jul;102(7):2523-84</RefSource>
+                <PMID Version="1">12105935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2002 Feb 20;124(7):1354-63</RefSource>
+                <PMID Version="1">11841305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2001 Dec;8(12):1167-82</RefSource>
+                <PMID Version="1">11755396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2001 Feb 28;123(8):1740-7</RefSource>
+                <PMID Version="1">11456775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2001 Jul 11;123(27):6740-1</RefSource>
+                <PMID Version="1">11439080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comb Chem. 2001 May-Jun;3(3):312-8</RefSource>
+                <PMID Version="1">11350255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Mar 17;287(5460):1964-9</RefSource>
+                <PMID Version="1">10720315</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Golgi Apparatus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS9745</OtherID>
+        <OtherID Source="NLM">PMC2785548</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja056338g</ArticleId>
+            <ArticleId IdType="pubmed">16620111</ArticleId>
+            <ArticleId IdType="pmc">PMC2785548</ArticleId>
+            <ArticleId IdType="mid">NIHMS9745</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

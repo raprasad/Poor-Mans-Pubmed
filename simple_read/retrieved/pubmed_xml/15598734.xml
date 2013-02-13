@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15598734</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>102</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jan</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro characterization of IroB, a pathogen-associated C-glycosyltransferase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>571-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Pathogenic strains of Escherichia coli and Salmonella enterica modify the tricatecholic siderophore enterobactin (Ent) by glucosylation of three aryl carbon atoms, a process controlled by the iroA locus [Hantke, K., Nicholson, G., Rabsch, W. &amp; Winkelmann, G. (2003) Proc. Natl. Acad. Sci. USA 100, 3677-3682]. Here, we report the purification of the IroB protein and its characterization as the Ent C-glucosyltransferase. IroB transfers glucosyl groups from uridine-5'-diphosphoglucose to C5 of one, two, or three of the 2,3-dihydroxybenzoyl units of Ent to yield monoglucosyl-C-Ent (MGE), diglucosyl-C-Ent (DGE), and triglucosyl-C-Ent (TGE). DGE, also known as salmochelin S4, and macrolactone-opened derivatives have been isolated from the culture broths of S. enterica and uropathogenic E. coli [Bister, B., Bischoff, D., Nicholson, G. J., Valdebenito, M., Schneider, K., Winkelmann, G., Hantke, K. &amp; Sussmuth, R. D. (2004) Biometals 17, 471-481], but MGE and TGE have not been reported previously. IroB has a k(cat) of approximately 10 min(-1) for the first C-glucosylation and is distributive, with sequential conversion and buildup of MGE and then DGE. The C5 to C1' regio-selectivity of the 2,3-dihydroxybenzoyl-glucose linkage at all three rings of TGE suggests a C5 carbanion, para to the C2 phenolate oxygen, as the carbon nucleophile in this novel enzymatic C-glucosylation.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fischbach</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Hening</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walsh</LastName>
+                    <ForeName>Christopher T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM065400</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM20011</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>133-89-1</RegistryNumber>
+                <NameOfSubstance>Uridine Diphosphate Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>28384-96-5</RegistryNumber>
+                <NameOfSubstance>Enterobactin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.-</RegistryNumber>
+                <NameOfSubstance>Glycosyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.1.-</RegistryNumber>
+                <NameOfSubstance>Glucosyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.1.-</RegistryNumber>
+                <NameOfSubstance>IroB protein, E coli</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Dec 24;99(26):17020-4</RefSource>
+                <PMID Version="1">12471157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Feb 24;37(8):2648-59</RefSource>
+                <PMID Version="1">9485415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>DNA Seq. 2002 Dec;13(6):333-41</RefSource>
+                <PMID Version="1">12652904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):3677-82</RefSource>
+                <PMID Version="1">12655053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):3584-8</RefSource>
+                <PMID Version="1">12655062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2003 Jun;31(Pt 3):487-92</RefSource>
+                <PMID Version="1">12773141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 Jul;149(Pt 7):1633-45</RefSource>
+                <PMID Version="1">12855716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2003 Jul 23;125(29):8736-7</RefSource>
+                <PMID Version="1">12862463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 1992 Apr;1(4):549-56</RefSource>
+                <PMID Version="1">1338974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Mar 30;101(13):4390-5</RefSource>
+                <PMID Version="1">15070728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Org Chem. 2004 May 14;69(10):3530-7</RefSource>
+                <PMID Version="1">15132566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Jun;186(11):3578-89</RefSource>
+                <PMID Version="1">15150246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometals. 2004 Aug;17(4):471-81</RefSource>
+                <PMID Version="1">15259369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2004 Jul;11(7):959-69</RefSource>
+                <PMID Version="1">15271354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Jun 15;267(17):12350-5</RefSource>
+                <PMID Version="1">1534808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2004;58:453-88</RefSource>
+                <PMID Version="1">15487945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1989 Sep;8(9):2717-25</RefSource>
+                <PMID Version="1">2583128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2002 Dec;9(12):1305-14</RefSource>
+                <PMID Version="1">12498883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1999 Mar;24(3):104-9</RefSource>
+                <PMID Version="1">10203757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 1999 Jun;6(6):385-400</RefSource>
+                <PMID Version="1">10375542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2000 Feb;7(2):133-42</RefSource>
+                <PMID Version="1">10662691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2509-14</RefSource>
+                <PMID Version="1">10688898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2000 Aug;7(8):623-42</RefSource>
+                <PMID Version="1">11048953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2001 Apr;4(2):172-7</RefSource>
+                <PMID Version="1">11282473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2001 Apr 17;40(15):4745-55</RefSource>
+                <PMID Version="1">11294642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Prod Rep. 2001 Apr;18(2):190-227</RefSource>
+                <PMID Version="1">11336289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2001 Nov;19(11):449-56</RefSource>
+                <PMID Version="1">11602309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Genet Genomics. 2001 Oct;266(2):276-88</RefSource>
+                <PMID Version="1">11683270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2002 Apr;5(2):194-201</RefSource>
+                <PMID Version="1">11934617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2002 May;46(5):1174-82</RefSource>
+                <PMID Version="1">11959542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2002 Jun;66(2):223-49</RefSource>
+                <PMID Version="1">12040125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2002 Jul 2;41(26):8429-37</RefSource>
+                <PMID Version="1">12081492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jan 10;278(2):1022-8</RefSource>
+                <PMID Version="1">12409288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2002 Nov;10(5):1033-43</RefSource>
+                <PMID Version="1">12453412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1984 May 8;23(10):2122-7</RefSource>
+                <PMID Version="1">6234017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1997 Jul 15;36(28):8495-503</RefSource>
+                <PMID Version="1">9214294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Mar 3;95(5):1996-2000</RefSource>
+                <PMID Version="1">9482823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jan 18;102(3):519-20</RefSource>
+                <PMID Version="1">15647344</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enterobactin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucosyltransferases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycosylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycosyltransferases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Uridine Diphosphate Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC545562</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2004</Year>
+                <Month>December</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0408463102</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0408463102</ArticleId>
+            <ArticleId IdType="pubmed">15598734</ArticleId>
+            <ArticleId IdType="pmc">PMC545562</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

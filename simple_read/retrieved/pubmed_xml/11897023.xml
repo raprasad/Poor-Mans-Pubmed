@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11897023</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-6914</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genome biology</Title>
+                <ISOAbbreviation>Genome Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vector algebra in the analysis of genome-wide expression data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>RESEARCH0011</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Data from thousands of transcription-profiling experiments in organisms ranging from yeast to humans are now publicly available. How best to analyze these data remains an important challenge. A variety of tools have been used for this purpose, including hierarchical clustering, self-organizing maps and principal components analysis. In particular, concepts from vector algebra have proven useful in the study of genome-wide expression data.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Here we present a framework based on vector algebra for the analysis of transcription profiles that is geometrically intuitive and computationally efficient. Concepts in vector algebra such as angles, magnitudes, subspaces, singular value decomposition, bases and projections have natural and powerful interpretations in the analysis of microarray data. Angles in particular offer a rigorous method of defining 'similarity' and are useful in evaluating the claims of a microarray-based study. We present a sample analysis of cells treated with rapamycin, an immunosuppressant whose effects have been extensively studied with microarrays. In addition, the algebraic concept of a basis for a space affords the opportunity to simplify data analysis and uncover a limited number of expression vectors to span the transcriptional range of cell behavior.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This framework represents a compact, powerful and scalable construction for analysis and computation. As the amount of microarray data in the public domain grows, these vector-based methods are relevant in determining statistical significance. These approaches are also well suited to extract biologically meaningful information in the analysis of signaling networks.</AbstractText>
+            </Abstract>
+            <Affiliation>Howard Hughes Medical Institute, Bauer Center for Genomics Research, Department of Chemistry, Harvard University, Cambridge, MA 02138, USA. sls@slsiris.harvard.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuruvilla</LastName>
+                    <ForeName>Finny G</ForeName>
+                    <Initials>FG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Peter J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2002</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Genome Biol</MedlineTA>
+            <NlmUniqueID>100960660</NlmUniqueID>
+            <ISSNLinking>1465-6906</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunosuppressive Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53123-88-9</RegistryNumber>
+                <NameOfSubstance>Sirolimus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Jul 7;102(1):109-26</RefSource>
+                <PMID Version="1">10929718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1999 Jan 1;27(1):44-8</RefSource>
+                <PMID Version="1">9847138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Aug 3;406(6795):532-5</RefSource>
+                <PMID Version="1">10952316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Aug 17;406(6797):747-52</RefSource>
+                <PMID Version="1">10963602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Aug 29;97(18):10101-6</RefSource>
+                <PMID Version="1">10963673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Oct 15;286(5439):531-7</RefSource>
+                <PMID Version="1">10521349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):14866-70</RefSource>
+                <PMID Version="1">10611304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1999 Dec 15;13(24):3271-9</RefSource>
+                <PMID Version="1">10617575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Feb 4;287(5454):873-80</RefSource>
+                <PMID Version="1">10657304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Feb 17;403(6771):699-700</RefSource>
+                <PMID Version="1">10693778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2000 Mar;24(3):227-35</RefSource>
+                <PMID Version="1">10700174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Jul 18;97(15):8409-14</RefSource>
+                <PMID Version="1">10890920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pac Symp Biocomput. 2000;:455-66</RefSource>
+                <PMID Version="1">10902193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Aug 25;480(1):17-24</RefSource>
+                <PMID Version="1">10967323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2000 Dec;11(12):4241-57</RefSource>
+                <PMID Version="1">11102521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2000 Dec 14-28;10(24):1574-81</RefSource>
+                <PMID Version="1">11137008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2001 May;158(1):41-64</RefSource>
+                <PMID Version="1">11333217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Biol. 2001;8(1):37-52</RefSource>
+                <PMID Version="1">11339905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2001 Jun;17(6):520-5</RefSource>
+                <PMID Version="1">11395428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Jun 15;29(12):2549-57</RefSource>
+                <PMID Version="1">11410663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 24;278(5338):680-6</RefSource>
+                <PMID Version="1">9381177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 1998 Jul;2(1):65-73</RefSource>
+                <PMID Version="1">9702192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Oct 23;282(5389):699-705</RefSource>
+                <PMID Version="1">9784122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Dec;9(12):3273-97</RefSource>
+                <PMID Version="1">9843569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Nov 25;95(5):717-28</RefSource>
+                <PMID Version="1">9845373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 1998 Nov;8(11):1202-15</RefSource>
+                <PMID Version="1">9847082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Nov 17;275(46):35727-33</RefSource>
+                <PMID Version="1">10940301</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Fungal</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Genome, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunosuppressive Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sirolimus</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC88809</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2001</Year>
+                <Month>Aug</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2001</Year>
+                <Month>Dec</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2002</Year>
+                <Month>Jan</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2002</Year>
+                <Month>Feb</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11897023</ArticleId>
+            <ArticleId IdType="pmc">PMC88809</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,727 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15383836</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7885</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS biology</Title>
+                <ISOAbbreviation>PLoS Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The program of gene transcription for a single differentiating cell type during sporulation in Bacillus subtilis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e328</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Asymmetric division during sporulation by Bacillus subtilis generates a mother cell that undergoes a 5-h program of differentiation. The program is governed by a hierarchical cascade consisting of the transcription factors: sigma(E), sigma(K), GerE, GerR, and SpoIIID. The program consists of the activation and repression of 383 genes. The sigma(E) factor turns on 262 genes, including those for GerR and SpoIIID. These DNA-binding proteins downregulate almost half of the genes in the sigma(E) regulon. In addition, SpoIIID turns on ten genes, including genes involved in the appearance of sigma(K). Next, sigma(K) activates 75 additional genes, including that for GerE. This DNA-binding protein, in turn, represses half of the genes that had been activated by sigma(K) while switching on a final set of 36 genes. Evidence is presented that repression and activation contribute to proper morphogenesis. The program of gene expression is driven forward by its hierarchical organization and by the repressive effects of the DNA-binding proteins. The logic of the program is that of a linked series of feed-forward loops, which generate successive pulses of gene transcription. Similar regulatory circuits could be a common feature of other systems of cellular differentiation.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eichenberger</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujita</LastName>
+                    <ForeName>Masaya</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jensen</LastName>
+                    <ForeName>Shane T</ForeName>
+                    <Initials>ST</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conlon</LastName>
+                    <ForeName>Erin M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudner</LastName>
+                    <ForeName>David Z</ForeName>
+                    <Initials>DZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Stephanie T</ForeName>
+                    <Initials>ST</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferguson</LastName>
+                    <ForeName>Caitlin</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haga</LastName>
+                    <ForeName>Koki</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sato</LastName>
+                    <ForeName>Tsutomu</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jun S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Losick</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>BSU04780</AccessionNumber>
+                        <AccessionNumber>BSU05730</AccessionNumber>
+                        <AccessionNumber>BSU06730</AccessionNumber>
+                        <AccessionNumber>BSU06740</AccessionNumber>
+                        <AccessionNumber>BSU06750</AccessionNumber>
+                        <AccessionNumber>BSU06760</AccessionNumber>
+                        <AccessionNumber>BSU06770</AccessionNumber>
+                        <AccessionNumber>BSU06780</AccessionNumber>
+                        <AccessionNumber>BSU07270</AccessionNumber>
+                        <AccessionNumber>BSU07280</AccessionNumber>
+                        <AccessionNumber>BSU07290</AccessionNumber>
+                        <AccessionNumber>BSU07300</AccessionNumber>
+                        <AccessionNumber>BSU07310</AccessionNumber>
+                        <AccessionNumber>BSU07510</AccessionNumber>
+                        <AccessionNumber>BSU07520</AccessionNumber>
+                        <AccessionNumber>BSU07830</AccessionNumber>
+                        <AccessionNumber>BSU08620</AccessionNumber>
+                        <AccessionNumber>BSU08920</AccessionNumber>
+                        <AccessionNumber>BSU08980</AccessionNumber>
+                        <AccessionNumber>BSU09160</AccessionNumber>
+                        <AccessionNumber>BSU09170</AccessionNumber>
+                        <AccessionNumber>BSU09710</AccessionNumber>
+                        <AccessionNumber>BSU09720</AccessionNumber>
+                        <AccessionNumber>BSU09770</AccessionNumber>
+                        <AccessionNumber>BSU09780</AccessionNumber>
+                        <AccessionNumber>BSU10550</AccessionNumber>
+                        <AccessionNumber>BSU10910</AccessionNumber>
+                        <AccessionNumber>BSU10920</AccessionNumber>
+                        <AccessionNumber>BSU10930</AccessionNumber>
+                        <AccessionNumber>BSU10940</AccessionNumber>
+                        <AccessionNumber>BSU10950</AccessionNumber>
+                        <AccessionNumber>BSU10960</AccessionNumber>
+                        <AccessionNumber>BSU11790</AccessionNumber>
+                        <AccessionNumber>BSU11910</AccessionNumber>
+                        <AccessionNumber>BSU11920</AccessionNumber>
+                        <AccessionNumber>BSU11930</AccessionNumber>
+                        <AccessionNumber>BSU12320</AccessionNumber>
+                        <AccessionNumber>BSU12330</AccessionNumber>
+                        <AccessionNumber>BSU12350</AccessionNumber>
+                        <AccessionNumber>BSU13710</AccessionNumber>
+                        <AccessionNumber>BSU13830</AccessionNumber>
+                        <AccessionNumber>BSU14040</AccessionNumber>
+                        <AccessionNumber>BSU14250</AccessionNumber>
+                        <AccessionNumber>BSU14320</AccessionNumber>
+                        <AccessionNumber>BSU14330</AccessionNumber>
+                        <AccessionNumber>BSU15030</AccessionNumber>
+                        <AccessionNumber>BSU15090</AccessionNumber>
+                        <AccessionNumber>BSU18210</AccessionNumber>
+                        <AccessionNumber>BSU18220</AccessionNumber>
+                        <AccessionNumber>BSU18230</AccessionNumber>
+                        <AccessionNumber>BSU18240</AccessionNumber>
+                        <AccessionNumber>BSU18250</AccessionNumber>
+                        <AccessionNumber>BSU18260</AccessionNumber>
+                        <AccessionNumber>BSU18540</AccessionNumber>
+                        <AccessionNumber>BSU18560</AccessionNumber>
+                        <AccessionNumber>BSU19810</AccessionNumber>
+                        <AccessionNumber>BSU21670</AccessionNumber>
+                        <AccessionNumber>BSU22240</AccessionNumber>
+                        <AccessionNumber>BSU24440</AccessionNumber>
+                        <AccessionNumber>BSU25120</AccessionNumber>
+                        <AccessionNumber>BSU26680</AccessionNumber>
+                        <AccessionNumber>BSU40140</AccessionNumber>
+                        <AccessionNumber>BSU40150</AccessionNumber>
+                        <AccessionNumber>BSU40160</AccessionNumber>
+                        <AccessionNumber>BSU40170</AccessionNumber>
+                        <AccessionNumber>BSU40200</AccessionNumber>
+                        <AccessionNumber>BSU40210</AccessionNumber>
+                        <AccessionNumber>BSU40220</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM18458</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Biol</MedlineTA>
+            <NlmUniqueID>101183755</NlmUniqueID>
+            <ISSNLinking>1544-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>spore-specific proteins, Bacillus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance>DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.21.1</RegistryNumber>
+                <NameOfSubstance>Deoxyribonuclease I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.23</RegistryNumber>
+                <NameOfSubstance>beta-Galactosidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1992 Aug 20;226(4):1037-50</RefSource>
+                <PMID Version="1">1518043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Jul;186(14):4441-8</RefSource>
+                <PMID Version="1">15231775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1992 Mar;174(5):1448-53</RefSource>
+                <PMID Version="1">1537790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Microbiol. 1986 Nov;132(11):3013-24</RefSource>
+                <PMID Version="1">3114423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Mar 11;52(5):697-704</RefSource>
+                <PMID Version="1">3125985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1969 Jun;113(1):29-37</RefSource>
+                <PMID Version="1">4185146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1969 Apr;98(1):62-8</RefSource>
+                <PMID Version="1">4977690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1995 Oct 13;253(1):8-16</RefSource>
+                <PMID Version="1">7473719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Oct 20;83(2):219-26</RefSource>
+                <PMID Version="1">7585939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1995 Jul;177(13):3855-62</RefSource>
+                <PMID Version="1">7601853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1995 Feb;177(3):716-22</RefSource>
+                <PMID Version="1">7836306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1995 Feb 15;9(4):503-8</RefSource>
+                <PMID Version="1">7883171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 Mar 14;92(6):2012-6</RefSource>
+                <PMID Version="1">7892217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1994 Oct 28;243(3):425-36</RefSource>
+                <PMID Version="1">7966271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Jul;176(13):3936-43</RefSource>
+                <PMID Version="1">8021176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Jan;176(2):296-306</RefSource>
+                <PMID Version="1">8288522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1994 Jan;8(2):234-44</RefSource>
+                <PMID Version="1">8299942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1993 Oct;175(19):6260-8</RefSource>
+                <PMID Version="1">8407798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1993 Jun;175(11):3607-17</RefSource>
+                <PMID Version="1">8501064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1993 Jun;175(11):3618-27</RefSource>
+                <PMID Version="1">8501065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 1996 Mar 15;12(3):259-65</RefSource>
+                <PMID Version="1">8904338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1996 Nov 21;180(1-2):57-61</RefSource>
+                <PMID Version="1">8973347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Genet. 1996;30:297-41</RefSource>
+                <PMID Version="1">8982457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1997 Feb;179(3):972-5</RefSource>
+                <PMID Version="1">9006059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PCR Methods Appl. 1994 Aug;4(1):S40-58</RefSource>
+                <PMID Version="1">9018326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Cells. 1996 Jun;1(6):529-42</RefSource>
+                <PMID Version="1">9078383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Apr;4(4):525-35</RefSource>
+                <PMID Version="1">2163341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1990 Oct 25;18(20):6097-100</RefSource>
+                <PMID Version="1">2172928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1989 May 20;207(2):393-404</RefSource>
+                <PMID Version="1">2474075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Jan 27;243(4890):526-9</RefSource>
+                <PMID Version="1">2492118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Feb;3(2):150-7</RefSource>
+                <PMID Version="1">2497052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1989 Jan;3(1):23-8</RefSource>
+                <PMID Version="1">2497296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1989 Jun 12;17(11):4410</RefSource>
+                <PMID Version="1">2500645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Nov;3(11):1735-44</RefSource>
+                <PMID Version="1">2514119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Jan 27;243(4890):507-12</RefSource>
+                <PMID Version="1">2536191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Microbiol. 1986 Feb;132(2):341-54</RefSource>
+                <PMID Version="1">3011962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 Apr;84(7):1784-8</RefSource>
+                <PMID Version="1">3104904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Jan;21(1 Suppl):33-7</RefSource>
+                <PMID Version="1">9915498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1999 Feb;181(3):781-90</RefSource>
+                <PMID Version="1">9922240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Apr 11;327(5):945-72</RefSource>
+                <PMID Version="1">12662922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 May 1;423(6935):81-6</RefSource>
+                <PMID Version="1">12721629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 May 1;423(6935):87-91</RefSource>
+                <PMID Version="1">12721630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2003 May 1;17(9):1166-74</RefSource>
+                <PMID Version="1">12730135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bacteriol Rev. 1976 Dec;40(4):908-62</RefSource>
+                <PMID Version="1">12736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 Oct;149(Pt 10):3011-21</RefSource>
+                <PMID Version="1">14523132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 Oct;149(Pt 10):3023-34</RefSource>
+                <PMID Version="1">14523133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Oct;185(20):6051-6</RefSource>
+                <PMID Version="1">14526016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Oct 14;100(21):11980-5</RefSource>
+                <PMID Version="1">14530388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Nov;185(21):6255-61</RefSource>
+                <PMID Version="1">14563859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 Nov 21;334(2):197-204</RefSource>
+                <PMID Version="1">14607112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2003 Dec;6(6):550-6</RefSource>
+                <PMID Version="1">14662349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Jul 10;20(10):1557-64</RefSource>
+                <PMID Version="1">14962923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2003 Nov;1(2):117-26</RefSource>
+                <PMID Version="1">15035041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2004 May;24(10):4118-27</RefSource>
+                <PMID Version="1">15121834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1998 Jul;124(1):89-97</RefSource>
+                <PMID Version="1">9644250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1999 Jan;181(2):426-33</RefSource>
+                <PMID Version="1">9882655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1998 Nov;30(4):737-49</RefSource>
+                <PMID Version="1">10094622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1999 Oct;181(19):6081-91</RefSource>
+                <PMID Version="1">10498721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1999 Oct;181(20):6230-7</RefSource>
+                <PMID Version="1">10515909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2000 Jan;182(2):418-24</RefSource>
+                <PMID Version="1">10629188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):8063-8</RefSource>
+                <PMID Version="1">10869437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Nov 1;28(21):4317-31</RefSource>
+                <PMID Version="1">11058132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Aug;183(16):4823-38</RefSource>
+                <PMID Version="1">11466286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2001 Aug;41(4):757-74</RefSource>
+                <PMID Version="1">11532142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Oct 23;98(22):12538-43</RefSource>
+                <PMID Version="1">11606741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Oct 26;294(5543):849-52</RefSource>
+                <PMID Version="1">11679669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jan 22;99(2):996-1001</RefSource>
+                <PMID Version="1">11792842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Apr 19;277(16):13421-9</RefSource>
+                <PMID Version="1">11830598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2001 Dec;42(5):1147-62</RefSource>
+                <PMID Version="1">11886548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2002 Apr 15;16(8):1007-18</RefSource>
+                <PMID Version="1">11959848</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2002 Mar;59(3):434-44</RefSource>
+                <PMID Version="1">11964122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2002 May;31(1):64-8</RefSource>
+                <PMID Version="1">11967538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jun 25;99(13):8701-6</RefSource>
+                <PMID Version="1">12060714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2002 Aug;20(8):835-9</RefSource>
+                <PMID Version="1">12101404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Sep;184(17):4881-90</RefSource>
+                <PMID Version="1">12169614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Sep 15;30(18):3927-35</RefSource>
+                <PMID Version="1">12235376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Oct 25;298(5594):824-7</RefSource>
+                <PMID Version="1">12399590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2002 Dec;148(Pt 12):3971-82</RefSource>
+                <PMID Version="1">12480901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Jan 24;299(5606):532-6</RefSource>
+                <PMID Version="1">12493822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Feb;185(4):1443-54</RefSource>
+                <PMID Version="1">12562816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1992 May;174(10):3177-84</RefSource>
+                <PMID Version="1">1577688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1990 Apr 20;212(4):645-60</RefSource>
+                <PMID Version="1">1691789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1992 Jan;174(2):575-85</RefSource>
+                <PMID Version="1">1729246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1992 Jan;174(2):586-94</RefSource>
+                <PMID Version="1">1729247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1991 Dec;173(24):7828-33</RefSource>
+                <PMID Version="1">1744038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1991 Aug;5(8):1927-40</RefSource>
+                <PMID Version="1">1766372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1991 Jun;5(6):1363-73</RefSource>
+                <PMID Version="1">1787791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1990 Apr;4(4):543-51</RefSource>
+                <PMID Version="1">2112673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Jul 27;62(2):239-50</RefSource>
+                <PMID Version="1">2115401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Dec;87(24):9722-6</RefSource>
+                <PMID Version="1">2124700</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Motifs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacillus subtilis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Physiological Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatin Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Deoxyribonuclease I</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spores, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-Galactosidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC517825</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15383836</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pbio.0020328</ArticleId>
+            <ArticleId IdType="pmc">PMC517825</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

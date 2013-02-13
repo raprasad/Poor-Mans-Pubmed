@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17304249</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1740-1534</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature reviews. Microbiology</Title>
+                <ISOAbbreviation>Nat. Rev. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Virus trafficking - learning from single-virus tracking.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-208</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>What could be a better way to study virus trafficking than 'miniaturizing oneself' and 'taking a ride with the virus particle' on its journey into the cell? Single-virus tracking in living cells potentially provides us with the means to visualize the virus journey. This approach allows us to follow the fate of individual virus particles and monitor dynamic interactions between viruses and cellular structures, revealing previously unobservable infection steps. The entry, trafficking and egress mechanisms of various animal viruses have been elucidated using this method. The combination of single-virus trafficking with systems approaches and state-of-the-art imaging technologies should prove exciting in the future.</AbstractText>
+            </Abstract>
+            <Affiliation>Howard Hughes Medical Institute, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brandenburg</LastName>
+                    <ForeName>Boerries</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM068518-05</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Rev Microbiol</MedlineTA>
+            <NlmUniqueID>101190261</NlmUniqueID>
+            <ISSNLinking>1740-1526</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Nov 9;101(45):16034-9</RefSource>
+                <PMID Version="1">15505210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Nov 19;306(5700):1380-3</RefSource>
+                <PMID Version="1">15550673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Feb;79(3):1581-94</RefSource>
+                <PMID Version="1">15650184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Jan 31;168(3):477-88</RefSource>
+                <PMID Version="1">15668298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Jan 28;307(5709):538-44</RefSource>
+                <PMID Version="1">15681376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Mar;79(5):2754-67</RefSource>
+                <PMID Version="1">15708994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Apr;79(7):3903-19</RefSource>
+                <PMID Version="1">15767393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Apr;79(8):4755-63</RefSource>
+                <PMID Version="1">15795261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Apr 19;102(16):5832-7</RefSource>
+                <PMID Version="1">15795370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Jun;16(6):2999-3009</RefSource>
+                <PMID Version="1">15814838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jul 7;436(7047):78-86</RefSource>
+                <PMID Version="1">15889048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jun 14;102(24):8728-33</RefSource>
+                <PMID Version="1">15937118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2005 Jul;7(7):653-64</RefSource>
+                <PMID Version="1">15951806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2005 Jul;3(7):e233</RefSource>
+                <PMID Version="1">15954801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Jul 18;170(2):317-25</RefSource>
+                <PMID Version="1">16027225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Struct Biol. 2005 Aug;151(2):182-95</RefSource>
+                <PMID Version="1">16043363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Sep;79(17):11487-95</RefSource>
+                <PMID Version="1">16103199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Aug 29;170(5):769-79</RefSource>
+                <PMID Version="1">16129785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13081-6</RefSource>
+                <PMID Version="1">16141335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Sep 9;122(5):735-49</RefSource>
+                <PMID Version="1">16143105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Dec;16(12):5502-13</RefSource>
+                <PMID Version="1">16195349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Oct 18;102(42):15110-5</RefSource>
+                <PMID Version="1">16219700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2005 Nov;86(Pt 11):2961-8</RefSource>
+                <PMID Version="1">16227217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Nov 15;102(46):16807-12</RefSource>
+                <PMID Version="1">16263923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2005 Dec;23(12):605-13</RefSource>
+                <PMID Version="1">16269193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1992 Feb;101 ( Pt 2):415-25</RefSource>
+                <PMID Version="1">1629253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2005 Dec;2(12):905-9</RefSource>
+                <PMID Version="1">16299475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Jan;80(1):201-9</RefSource>
+                <PMID Version="1">16352544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Jan 13;124(1):119-31</RefSource>
+                <PMID Version="1">16413486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Feb;7(2):227-37</RefSource>
+                <PMID Version="1">16420530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2006 Feb;8(2):233-41</RefSource>
+                <PMID Version="1">16441434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2006 Mar;8(3):387-400</RefSource>
+                <PMID Version="1">16469052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Feb 24;124(4):729-40</RefSource>
+                <PMID Version="1">16497584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Feb 24;124(4):741-54</RefSource>
+                <PMID Version="1">16497585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 2000;192:189-221</RefSource>
+                <PMID Version="1">10553280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 1999 May;1(1):1-7</RefSource>
+                <PMID Version="1">10559856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Mar 15;20(6):1310-9</RefSource>
+                <PMID Version="1">11250897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 May;75(10):4802-13</RefSource>
+                <PMID Version="1">11312352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 May;3(5):473-83</RefSource>
+                <PMID Version="1">11331875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Jul 23;154(2):389-402</RefSource>
+                <PMID Version="1">11470826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Dec;75(23):11651-63</RefSource>
+                <PMID Version="1">11689647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Nov;3(11):992-1000</RefSource>
+                <PMID Version="1">11715020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Nov 30;294(5548):1929-32</RefSource>
+                <PMID Version="1">11729319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2001 Nov;2(11):764-74</RefSource>
+                <PMID Version="1">11733042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Apr 19;296(5567):535-9</RefSource>
+                <PMID Version="1">11964480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Aug;13(8):2795-809</RefSource>
+                <PMID Version="1">12181347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Sep 16;158(6):1119-31</RefSource>
+                <PMID Version="1">12221069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Oct;76(20):10455-64</RefSource>
+                <PMID Version="1">12239322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Nov 11;159(3):441-52</RefSource>
+                <PMID Version="1">12417576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2002 Nov 27;124(47):13982-3</RefSource>
+                <PMID Version="1">12440882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Mar 6;422(6927):37-44</RefSource>
+                <PMID Version="1">12621426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Apr 4;300(5616):82-6</RefSource>
+                <PMID Version="1">12677057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9280-5</RefSource>
+                <PMID Version="1">12883000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2003 Aug;15(4):414-22</RefSource>
+                <PMID Version="1">12892781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1992 Feb 15;111(2):229-33</RefSource>
+                <PMID Version="1">1347277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Cell. 2003 Sep;95(6):335-42</RefSource>
+                <PMID Version="1">14519550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2003;57:323-42</RefSource>
+                <PMID Version="1">14527282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Feb;15(2):625-36</RefSource>
+                <PMID Version="1">14657242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Sep 3;118(5):591-605</RefSource>
+                <PMID Version="1">15339664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2006 Mar;12(3):354-60</RefSource>
+                <PMID Version="1">16501571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Mar 10;124(5):997-1009</RefSource>
+                <PMID Version="1">16530046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 May;80(9):4264-75</RefSource>
+                <PMID Version="1">16611885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 May;80(9):4610-22</RefSource>
+                <PMID Version="1">16611921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Apr 14;312(5771):217-24</RefSource>
+                <PMID Version="1">16614209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Jun;7(6):731-45</RefSource>
+                <PMID Version="1">16683918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Jun;80(11):5494-8</RefSource>
+                <PMID Version="1">16699029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2006 Aug;3(8):591-6</RefSource>
+                <PMID Version="1">16862131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Aug;80(16):8211-24</RefSource>
+                <PMID Version="1">16873277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Sep 15;313(5793):1642-5</RefSource>
+                <PMID Version="1">16902090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nano Lett. 2006 Sep;6(9):1993-9</RefSource>
+                <PMID Version="1">16968014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2006 Oct;3(10):817-24</RefSource>
+                <PMID Version="1">16990814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1991 Oct;60(4):910-21</RefSource>
+                <PMID Version="1">1742458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Sep;87(17):6579-83</RefSource>
+                <PMID Version="1">2118653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Mar;87(5):1850-4</RefSource>
+                <PMID Version="1">2308945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Cell Biol. 1989;30:85-112</RefSource>
+                <PMID Version="1">2648120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Feb 4;331(6155):450-3</RefSource>
+                <PMID Version="1">3123999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1988 Nov;107(5):1689-95</RefSource>
+                <PMID Version="1">3182934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytobios. 1985;43(174S):273-83</RefSource>
+                <PMID Version="1">3907999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1982 Dec;95(3):846-52</RefSource>
+                <PMID Version="1">6296157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1980 Feb;84(2):404-20</RefSource>
+                <PMID Version="1">6991511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1981 Dec;91(3 Pt 1):601-13</RefSource>
+                <PMID Version="1">7328111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1994 Mar 21;341(2-3):277-80</RefSource>
+                <PMID Version="1">8137953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Feb 11;263(5148):802-5</RefSource>
+                <PMID Version="1">8303295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Dec 7;378(6557):636-8</RefSource>
+                <PMID Version="1">8524400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Jul 10;281(5374):269-72</RefSource>
+                <PMID Version="1">9657724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2004 Jun;11(6):567-73</RefSource>
+                <PMID Version="1">15122347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Jul;78(14):7508-17</RefSource>
+                <PMID Version="1">15220424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Aug;78(15):7990-8001</RefSource>
+                <PMID Version="1">15254171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Oct 1;306(5693):124-9</RefSource>
+                <PMID Version="1">15297625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Apr 6;374(6522):555-9</RefSource>
+                <PMID Version="1">7700383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Dec 20;91(26):12501-4</RefSource>
+                <PMID Version="1">7809066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1994 Nov;67(5):2110-9</RefSource>
+                <PMID Version="1">7858148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1994 May;66(5):1301-18</RefSource>
+                <PMID Version="1">8061186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Feb 22;144(4):657-72</RefSource>
+                <PMID Version="1">10037788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 May;73(5):4110-9</RefSource>
+                <PMID Version="1">10196307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Nov;15(11):4911-25</RefSource>
+                <PMID Version="1">15356270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Sep 17;118(6):767-80</RefSource>
+                <PMID Version="1">15369675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2004 Oct;87(4):2749-58</RefSource>
+                <PMID Version="1">15454466</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diagnostic Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virology</DescriptorName>
+                <QualifierName MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Assembly</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Virus Physiological Phenomena</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>106</NumberOfReferences>
+        <OtherID Source="NLM">NIHMS88400</OtherID>
+        <OtherID Source="NLM">PMC2740720</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">nrmicro1615</ArticleId>
+            <ArticleId IdType="doi">10.1038/nrmicro1615</ArticleId>
+            <ArticleId IdType="pubmed">17304249</ArticleId>
+            <ArticleId IdType="pmc">PMC2740720</ArticleId>
+            <ArticleId IdType="mid">NIHMS88400</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7703856</PMID>
+        <DateCreated>
+            <Year>1995</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0961-8368</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protein science : a publication of the Protein Society</Title>
+                <ISOAbbreviation>Protein Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Probing protein-cofactor interactions in the terminal oxidases by second derivative spectroscopy: study of bacterial enzymes with cofactor substitutions and heme A model compounds.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2097-103</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Second derivative absorption spectra are reported for the aa3-cytochrome c oxidase from bovine cardiac mitochondria, the aa3-600 ubiquinol oxidase from Bacillus subtilis, the ba3-cytochrome c oxidase from Thermus thermophilis, and the aco-cytochrome c oxidase from Bacillus YN-2000. Together these enzymes provide a range of cofactor combinations that allow us to unequivocally identify the origin of the 450-nm absorption band of the terminal oxidases as the 6-coordinate low-spin heme, cytochrome a. The spectrum of the aco-cytochrome c oxidase further establishes that the split Soret band of cytochrome a, with features at 443 and 450 nm, is common to all forms of the enzyme containing ferrocytochrome a and does not depend on ligand occupancy at the other heme cofactor as previously suggested. To test the universality of this Soret band splitting for 6-coordinate low-spin heme A systems, we have reconstituted purified heme A with the apo forms of the heme binding proteins, hemopexin, histidine-proline-rich glycoprotein and the H64V/V68H double mutant of human myoglobin. All 3 proteins bound the heme A as a (bis)histidine complex, as judged by optical and resonance Raman spectroscopy. In the ferroheme A forms, none of these proteins displayed evidence of Soret band splitting. Heme A-(bis)imidazole in aqueous detergent solution likewise failed to display Soret band splitting. When the cyanide-inhibited mixed-valence form of the bovine enzyme was partially denatured by chemical or thermal means, the split Soret transition of cytochrome a collapsed into a single band at 443 nm.(ABSTRACT TRUNCATED AT 250 WORDS)</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Biochemistry and Molecular Biology, University of Chicago, Illinois 60637.</Affiliation>
+            <AuthorList CompleteYN="N">
+                <Author ValidYN="Y">
+                    <LastName>Felsch</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horvath</LastName>
+                    <ForeName>M P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gursky</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hobaugh</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goudreau</LastName>
+                    <ForeName>P N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fee</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>W T</ForeName>
+                    <Initials>WT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Admiraal</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ikeda-Saito</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujiwara</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="N">
+                <Grant>
+                    <GrantID>GM 35342</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 44919</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 51558</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Protein Sci</MedlineTA>
+            <NlmUniqueID>9211750</NlmUniqueID>
+            <ISSNLinking>0961-8368</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Apoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytochrome a Group</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Myoglobin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>histidine-rich proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>14875-96-8</RegistryNumber>
+                <NameOfSubstance>Heme</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>18535-39-2</RegistryNumber>
+                <NameOfSubstance>heme a</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-13-6</RegistryNumber>
+                <NameOfSubstance>Urea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9013-71-2</RegistryNumber>
+                <NameOfSubstance>Hemopexin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.9.3.1</RegistryNumber>
+                <NameOfSubstance>Electron Transport Complex IV</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1965 Jan;240:504-13</RefSource>
+                <PMID Version="1">14253462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1966 May 25;241(10):2260-7</RefSource>
+                <PMID Version="1">5911613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1993 Jul;114(1):88-95</RefSource>
+                <PMID Version="1">8407882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bioenerg Biomembr. 1993 Apr;25(2):93-102</RefSource>
+                <PMID Version="1">8389754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Dec 15;266(35):23916-20</RefSource>
+                <PMID Version="1">1660888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 1992 Nov;1(11):1428-34</RefSource>
+                <PMID Version="1">1338946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Aug 15;88(16):7281-3</RefSource>
+                <PMID Version="1">1651500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 May 15;88(10):4265-9</RefSource>
+                <PMID Version="1">1852001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1991 May 8;197(3):699-705</RefSource>
+                <PMID Version="1">1851483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Q Rev Biophys. 1990 Nov;23(4):331-66</RefSource>
+                <PMID Version="1">2178268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Aug;85(16):5779-83</RefSource>
+                <PMID Version="1">2842747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1986 Jan 14;25(1):167-71</RefSource>
+                <PMID Version="1">3006750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1986 Jan 14;25(1):161-7</RefSource>
+                <PMID Version="1">3006749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1988 Sep 20;27(19):7538-46</RefSource>
+                <PMID Version="1">2462905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1990 Mar;107(3):480-5</RefSource>
+                <PMID Version="1">1692827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1984 Jan 10;259(1):112-23</RefSource>
+                <PMID Version="1">6323398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1979 Dec 1;108(1):147-51</RefSource>
+                <PMID Version="1">230078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1974 Dec 19;368(3):318-38</RefSource>
+                <PMID Version="1">4375490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1971 May 11;10(10):1746-50</RefSource>
+                <PMID Version="1">5563759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1967 Nov 10;242(21):5008-13</RefSource>
+                <PMID Version="1">6058943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Jan 14;269(2):1083-90</RefSource>
+                <PMID Version="1">8288565</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytochrome a Group</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electron Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electron Transport Complex IV</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heme</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemopexin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitochondria, Heart</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myoglobin</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrophotometry</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrum Analysis, Raman</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2142639</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7703856</ArticleId>
+            <ArticleId IdType="pmc">PMC2142639</ArticleId>
+            <ArticleId IdType="doi">10.1002/pro.5560031123</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

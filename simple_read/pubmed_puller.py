@@ -2,6 +2,8 @@ import os
 import sys
 import time
 import urllib, urllib2
+import io
+import xml.etree.ElementTree as etree
 from pubmed_processor import PubMedProcessor
 try:
     import simplejson as json
@@ -22,7 +24,7 @@ def initreqparams():
     #req['tool'] = 'inhaler'
     req['email'] = 'raman_prasad@harvard.edu'
     req['retmax'] = '10'
-    #req['retmode'] = 'xml'
+    req['retmode'] = 'xml'
     req['usehistory'] = 'y'
     #db=$db&retmax=1&usehistory=y&term=
     return req
@@ -33,6 +35,7 @@ def pubmed_esearch(search_term):
     
     params = initreqparams()
     params['term'] = search_term
+    params['field'] = 'title'#     '[ti]GGTI-2133%2C an inhibitor of geranylgeranyltransferase%2C inhibits infiltration of inflammatory cells into airways in mouse experimental asthma'
         
     req = urllib2.Request(ESEARCH, urllib.urlencode(params))
 
@@ -49,27 +52,38 @@ def pubmed_esearch(search_term):
 
     xmlstr = res.read()
     print xmlstr
-
-    open('retrieved/esearch/test.xml', 'w').write(xmlstr)
+    if xmlstr.find('<Count>1</Count>') > -1:
+        print 'GOT IT'
+        fh = io.StringIO(xmlstr)
+        tree = etree.parse(fh)
+        root = tree.getroot()
+        try:
+            pubmed_id = root.findall('IdList')[0][0].text
+            print 'pubmed_id', pubmed_id
+            return pubmed_id
+        except:
+            print 'failed to find pubmed id'
+            return None
+        #a_file = io.StringIO(a_string)
+        
+    else:
+        return None
+    #print ''
+        
+    #open('retrieved/esearch/test.xml', 'w').write(xmlstr)
     
     
-def pubmed_efetch(pmidset):
+def pubmed_efetch(pubmed_id):
+    print 'pubmed fetch for: %s' % pubmed_id
     rp = initreqparams()
     
-    search_val = pmidset[0]
-    print 'search val: %s' % search_val
+    fname = 'retrieved/pubmed_xml/%s.xml' % pubmed_id
+    if os.path.isfile(fname):
+        print 'Already retrieved'
+        return
     
-    #if search_val.isdigit():
-    #    rp['id'] = search_val   #','.join(pmidset)
-    #else:
-    #    pass
-    #rp['term'] = 'Direction selectivity in the larval zebrafish tectum is mediated by asymmetric inhibition'
-    #rp['TransSchema'] = 'title'
-    #rp['cmd'] = 'detailssearch'
-    rp['id'] = '22969706'
+    rp['id'] = pubmed_id
     print urllib.urlencode(rp)
-    ESEARCH
-    #req = urllib2.Request(ESEARCH, urllib.urlencode(rp))
     req = urllib2.Request(EFETCH, urllib.urlencode(rp))
 
     try:
@@ -81,14 +95,18 @@ def pubmed_efetch(pmidset):
 
     xmlstr = res.read()
     print xmlstr
-    pubmed_processor = PubMedProcessor(article_xml_str=xmlstr)
-    pubmed_processor.parse_article_xml()
 
-    for article_info in pubmed_processor.json_articles:
-        print '=' * 40
-        #print article_info.get_authors()
-        print article_info.get_title()
-        #print json.dumps(json_str, indent=4)
+    
+    open(fname, 'w').write(xmlstr)
+    print 'file written: %s' % fname
+    #pubmed_processor = PubMedProcessor(article_xml_str=xmlstr)
+    #pubmed_processor.parse_article_xml()
+
+    #for article_info in pubmed_processor.json_articles:
+    #    print '=' * 40
+    #print article_info.get_authors()
+    #    print article_info.get_title()
+    #print json.dumps(json_str, indent=4)
 
 
 def test(fname):
@@ -104,6 +122,6 @@ if __name__=='__main__':
         pubmed_esearch(sys.argv[1])
         #pubmed_efetch([sys.argv[1]])
     else:
-        pubmed_efetch(['22969706'])#, '13951608'])
+        pubmed_efetch('22969706')#, '13951608'])
     
 

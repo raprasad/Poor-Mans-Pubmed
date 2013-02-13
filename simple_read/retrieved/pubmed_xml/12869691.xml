@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12869691</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>100</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Aug</Month>
+                        <Day>5</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Single-molecule transition-state analysis of RNA folding.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9302-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>How RNA molecules fold into functional structures is a problem of great significance given the expanding list of essential cellular RNA enzymes and the increasing number of applications of RNA in biotechnology and medicine. A critical step toward solving the RNA folding problem is the characterization of the associated transition states. This is a challenging task in part because the rugged energy landscape of RNA often leads to the coexistence of multiple distinct structural transitions. Here, we exploit single-molecule fluorescence spectroscopy to follow in real time the equilibrium transitions between conformational states of a model RNA enzyme, the hairpin ribozyme. We clearly distinguish structural transitions between effectively noninterchanging sets of unfolded and folded states and characterize key factors defining the transition state of an elementary folding reaction where the hairpin ribozyme's two helical domains dock to make several tertiary contacts. Our single-molecule experiments in conjunction with site-specific mutations and metal ion titrations show that the two RNA domains are in a contact or close-to-contact configuration in the transition state even though the native tertiary contacts are at most partially formed. Such a compact transition state without well formed tertiary contacts may be a general property of elementary RNA folding reactions.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bokinsky</LastName>
+                    <ForeName>Gregory</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rueda</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misra</LastName>
+                    <ForeName>Vinod K</ForeName>
+                    <Initials>VK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhodes</LastName>
+                    <ForeName>Maria M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordus</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babcock</LastName>
+                    <ForeName>Hazen P</ForeName>
+                    <Initials>HP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walter</LastName>
+                    <ForeName>Nils G</ForeName>
+                    <Initials>NG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2003</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Catalytic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-13-6</RegistryNumber>
+                <NameOfSubstance>Urea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63231-63-0</RegistryNumber>
+                <NameOfSubstance>RNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7439-95-4</RegistryNumber>
+                <NameOfSubstance>Magnesium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2000 Oct;7(10):850-4</RefSource>
+                <PMID Version="1">11017191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Feb 20;421(6925):863-7</RefSource>
+                <PMID Version="1">12594518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Nov 21;97(24):13021-6</RefSource>
+                <PMID Version="1">11087856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2001 Feb;7(2):161-6</RefSource>
+                <PMID Version="1">11233973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Apr 12;410(6830):780-6</RefSource>
+                <PMID Version="1">11298439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2003 May 16;328(5):1011-26</RefSource>
+                <PMID Version="1">12729738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1992 Apr 5;224(3):771-82</RefSource>
+                <PMID Version="1">1569556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteins. 1991;11(4):281-96</RefSource>
+                <PMID Version="1">1758883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biopolymers. 1995 Aug;36(2):245-62</RefSource>
+                <PMID Version="1">7492748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Oct 25;91(22):10426-9</RefSource>
+                <PMID Version="1">7937968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Jun 25;93(13):6264-8</RefSource>
+                <PMID Version="1">8692803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 1997 Jul;4(7):553-8</RefSource>
+                <PMID Version="1">9228948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 1997;26:113-37</RefSource>
+                <PMID Version="1">9241415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Mar 20;279(5358):1940-3</RefSource>
+                <PMID Version="1">9506944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Mar 20;279(5358):1943-6</RefSource>
+                <PMID Version="1">9506945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Apr 15;17(8):2378-91</RefSource>
+                <PMID Version="1">9545249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 1998 Feb;2(1):24-30</RefSource>
+                <PMID Version="1">9667918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1998 Aug 28;281(4):609-20</RefSource>
+                <PMID Version="1">9710534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 1998 Oct;5(10):587-95</RefSource>
+                <PMID Version="1">9818150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Phys Chem. 2001;52:751-62</RefSource>
+                <PMID Version="1">11326079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Apr 27;292(5517):733-7</RefSource>
+                <PMID Version="1">11326101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2001 Sep;25(1):19-30</RefSource>
+                <PMID Version="1">11558994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2001 Sep;25(1):78-86</RefSource>
+                <PMID Version="1">11558999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jan 8;99(1):155-60</RefSource>
+                <PMID Version="1">11756689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Apr 2;99(7):4266-71</RefSource>
+                <PMID Version="1">11929997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2002 Apr 5;317(4):507-21</RefSource>
+                <PMID Version="1">11955006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 2002 Apr;12(2):161-8</RefSource>
+                <PMID Version="1">11959492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biopolymers. 2001-2002;61(3):224-42</RefSource>
+                <PMID Version="1">11987183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Mar 12;283(5408):1670-6</RefSource>
+                <PMID Version="1">10073924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jun 4;274(23):15967-70</RefSource>
+                <PMID Version="1">10347141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 1999 Jun;6(6):544-9</RefSource>
+                <PMID Version="1">10360357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 1999 Dec;6(12):1091-5</RefSource>
+                <PMID Version="1">10581546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1999 Dec 7;38(49):16035-9</RefSource>
+                <PMID Version="1">10587425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2000 Mar 24;297(2):269-91</RefSource>
+                <PMID Version="1">10715200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Protein Chem. 2000;53:153-207</RefSource>
+                <PMID Version="1">10751945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 May 9;97(10):5179-84</RefSource>
+                <PMID Version="1">10792044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2000 May;7(5):362-6</RefSource>
+                <PMID Version="1">10802730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jun 16;288(5473):2048-51</RefSource>
+                <PMID Version="1">10856219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 May 24;296(5572):1473-6</RefSource>
+                <PMID Version="1">12029135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2002;71:783-815</RefSource>
+                <PMID Version="1">12045111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2002 Jul;9(7):498-9</RefSource>
+                <PMID Version="1">12080335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jun 25;99(13):8518-23</RefSource>
+                <PMID Version="1">12084911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jul 11;418(6894):222-8</RefSource>
+                <PMID Version="1">12110898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jul 11;418(6894):229-35</RefSource>
+                <PMID Version="1">12110899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jul 11;418(6894):252-8</RefSource>
+                <PMID Version="1">12110902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Inorg Chem. 2002 Sep;7(7-8):679-90</RefSource>
+                <PMID Version="1">12203005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 17;419(6908):743-7</RefSource>
+                <PMID Version="1">12384704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2002 Nov;20(11):462-6</RefSource>
+                <PMID Version="1">12413820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2003 Jan;28(1):18-25</RefSource>
+                <PMID Version="1">12517448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2000 Nov 28;39(47):14365-70</RefSource>
+                <PMID Version="1">11087388</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Magnesium</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nepovirus</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Poisson Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Catalytic</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC170913</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2003</Year>
+                <Month>Jul</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12869691</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1133280100</ArticleId>
+            <ArticleId IdType="pii">1133280100</ArticleId>
+            <ArticleId IdType="pmc">PMC170913</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

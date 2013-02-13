@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17486044</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1552-4450</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature chemical biology</Title>
+                <ISOAbbreviation>Nat. Chem. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Small molecules enhance autophagy and reduce toxicity in Huntington's disease models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>331-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The target of rapamycin proteins regulate various cellular processes including autophagy, which may play a protective role in certain neurodegenerative and infectious diseases. Here we show that a primary small-molecule screen in yeast yields novel small-molecule modulators of mammalian autophagy. We first identified new small-molecule enhancers (SMER) and inhibitors (SMIR) of the cytostatic effects of rapamycin in Saccharomyces cerevisiae. Three SMERs induced autophagy independently of rapamycin in mammalian cells, enhancing the clearance of autophagy substrates such as mutant huntingtin and A53T alpha-synuclein, which are associated with Huntington's disease and familial Parkinson's disease, respectively. These SMERs, which seem to act either independently or downstream of the target of rapamycin, attenuated mutant huntingtin-fragment toxicity in Huntington's disease cell and Drosophila melanogaster models, which suggests therapeutic potential. We also screened structural analogs of these SMERs and identified additional candidate drugs that enhanced autophagy substrate clearance. Thus, we have demonstrated proof of principle for a new approach for discovery of small-molecule modulators of mammalian autophagy.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medical Genetics, University of Cambridge, Cambridge Institute for Medical Research, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2XY, UK.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sarkar</LastName>
+                    <ForeName>Sovan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perlstein</LastName>
+                    <ForeName>Ethan O</ForeName>
+                    <Initials>EO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imarisio</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pineau</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cordenier</LastName>
+                    <ForeName>Axelle</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maglathlin</LastName>
+                    <ForeName>Rebecca L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webster</LastName>
+                    <ForeName>John A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Timothy A</ForeName>
+                    <Initials>TA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Kane</LastName>
+                    <ForeName>Cahir J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Stuart L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubinsztein</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PubChem-Substance</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>24430809</AccessionNumber>
+                        <AccessionNumber>24430810</AccessionNumber>
+                        <AccessionNumber>24430811</AccessionNumber>
+                        <AccessionNumber>24430812</AccessionNumber>
+                        <AccessionNumber>24430813</AccessionNumber>
+                        <AccessionNumber>24430814</AccessionNumber>
+                        <AccessionNumber>24430815</AccessionNumber>
+                        <AccessionNumber>24430816</AccessionNumber>
+                        <AccessionNumber>24430817</AccessionNumber>
+                        <AccessionNumber>24430818</AccessionNumber>
+                        <AccessionNumber>24430819</AccessionNumber>
+                        <AccessionNumber>24430820</AccessionNumber>
+                        <AccessionNumber>24430821</AccessionNumber>
+                        <AccessionNumber>24430822</AccessionNumber>
+                        <AccessionNumber>24430823</AccessionNumber>
+                        <AccessionNumber>24430824</AccessionNumber>
+                        <AccessionNumber>24430825</AccessionNumber>
+                        <AccessionNumber>24430826</AccessionNumber>
+                        <AccessionNumber>24430827</AccessionNumber>
+                        <AccessionNumber>24430828</AccessionNumber>
+                        <AccessionNumber>24430829</AccessionNumber>
+                        <AccessionNumber>24430830</AccessionNumber>
+                        <AccessionNumber>24430831</AccessionNumber>
+                        <AccessionNumber>24430832</AccessionNumber>
+                        <AccessionNumber>24430833</AccessionNumber>
+                        <AccessionNumber>24430834</AccessionNumber>
+                        <AccessionNumber>24430835</AccessionNumber>
+                        <AccessionNumber>24430836</AccessionNumber>
+                        <AccessionNumber>24430837</AccessionNumber>
+                        <AccessionNumber>24430838</AccessionNumber>
+                        <AccessionNumber>24430839</AccessionNumber>
+                        <AccessionNumber>24430840</AccessionNumber>
+                        <AccessionNumber>24430841</AccessionNumber>
+                        <AccessionNumber>24430842</AccessionNumber>
+                        <AccessionNumber>24430843</AccessionNumber>
+                        <AccessionNumber>24430844</AccessionNumber>
+                        <AccessionNumber>24430845</AccessionNumber>
+                        <AccessionNumber>24430846</AccessionNumber>
+                        <AccessionNumber>24430847</AccessionNumber>
+                        <AccessionNumber>24430848</AccessionNumber>
+                        <AccessionNumber>24430849</AccessionNumber>
+                        <AccessionNumber>24430850</AccessionNumber>
+                        <AccessionNumber>24430851</AccessionNumber>
+                        <AccessionNumber>24430852</AccessionNumber>
+                        <AccessionNumber>24430853</AccessionNumber>
+                        <AccessionNumber>24430854</AccessionNumber>
+                        <AccessionNumber>24430855</AccessionNumber>
+                        <AccessionNumber>24430856</AccessionNumber>
+                        <AccessionNumber>24430857</AccessionNumber>
+                        <AccessionNumber>24430858</AccessionNumber>
+                        <AccessionNumber>24430859</AccessionNumber>
+                        <AccessionNumber>24430860</AccessionNumber>
+                        <AccessionNumber>24430861</AccessionNumber>
+                        <AccessionNumber>24430862</AccessionNumber>
+                        <AccessionNumber>24430863</AccessionNumber>
+                        <AccessionNumber>24430864</AccessionNumber>
+                        <AccessionNumber>24430865</AccessionNumber>
+                        <AccessionNumber>24430866</AccessionNumber>
+                        <AccessionNumber>24430867</AccessionNumber>
+                        <AccessionNumber>24430868</AccessionNumber>
+                        <AccessionNumber>24430869</AccessionNumber>
+                        <AccessionNumber>24430870</AccessionNumber>
+                        <AccessionNumber>24430871</AccessionNumber>
+                        <AccessionNumber>24430872</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>064354</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0600194(77639)</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM38627</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01-CO-12400</GrantID>
+                    <Acronym>CO</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nat Chem Biol</MedlineTA>
+            <NlmUniqueID>101231976</NlmUniqueID>
+            <ISSNLinking>1552-4450</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neuroprotective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53123-88-9</RegistryNumber>
+                <NameOfSubstance>Sirolimus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Genet. 1999 Oct;36(10):739-46</RefSource>
+                <PMID Version="1">10528852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Sep;21(3):633-42</RefSource>
+                <PMID Version="1">9768849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Struct Funct. 1998 Feb;23(1):33-42</RefSource>
+                <PMID Version="1">9639028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 May 5;268(5211):726-31</RefSource>
+                <PMID Version="1">7732382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1984 Nov;43(5):1342-5</RefSource>
+                <PMID Version="1">6208331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2007 Apr;6(4):304-12</RefSource>
+                <PMID Version="1">17396135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2000 May;18(5):538-43</RefSource>
+                <PMID Version="1">10802622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Oct 13;103(2):253-62</RefSource>
+                <PMID Version="1">11057898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Nov 1;19(21):5720-8</RefSource>
+                <PMID Version="1">11060023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Dec 1;290(5497):1717-21</RefSource>
+                <PMID Version="1">11099404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Feb 19;152(4):657-68</RefSource>
+                <PMID Version="1">11266458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2002 Apr;18(4):202-9</RefSource>
+                <PMID Version="1">11932021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2002 May 1;11(9):1107-17</RefSource>
+                <PMID Version="1">11978769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jul 4;278(27):25009-13</RefSource>
+                <PMID Version="1">12719433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2004 Jun;36(6):585-95</RefSource>
+                <PMID Version="1">15146184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2004 Jun;167(2):797-813</RefSource>
+                <PMID Version="1">15238529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2004 Dec;36(12):2491-502</RefSource>
+                <PMID Version="1">15325587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Nov 5;306(5698):1037-40</RefSource>
+                <PMID Version="1">15528445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Nov 23;101(47):16594-9</RefSource>
+                <PMID Version="1">15539461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Dec 17;119(6):753-66</RefSource>
+                <PMID Version="1">15607973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Sep 26;170(7):1101-11</RefSource>
+                <PMID Version="1">16186256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Dec 2;280(48):40282-92</RefSource>
+                <PMID Version="1">16192271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2005 Dec;17(6):596-603</RefSource>
+                <PMID Version="1">16226444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2006 Feb 1;15(3):433-42</RefSource>
+                <PMID Version="1">16368705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2005 Apr;1(1):23-36</RefSource>
+                <PMID Version="1">16874023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2006 Jan-Mar;2(1):24-9</RefSource>
+                <PMID Version="1">16874088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2006 Oct 5;52(1):169-78</RefSource>
+                <PMID Version="1">17015234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Feb 23;282(8):5641-52</RefSource>
+                <PMID Version="1">17182613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Nat Chem Biol. 2007 Jun;3(6):304-6</RefSource>
+                <PMID Version="1">17510644</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autophagy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Huntington Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mammals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuroprotective Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sirolimus</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2635561</OtherID>
+        <OtherID Source="NLM">UKMS3674</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">nchembio883</ArticleId>
+            <ArticleId IdType="doi">10.1038/nchembio883</ArticleId>
+            <ArticleId IdType="pubmed">17486044</ArticleId>
+            <ArticleId IdType="pmc">PMC2635561</ArticleId>
+            <ArticleId IdType="mid">UKMS3674</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

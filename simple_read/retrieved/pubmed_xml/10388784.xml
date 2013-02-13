@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10388784</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3495</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>77</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biophysical journal</Title>
+                <ISOAbbreviation>Biophys. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Temperature dependence of switching of the bacterial flagellar motor by the protein CheY(13DK106YW).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>597-603</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The behavior of the bacterium Escherichia coli is controlled by switching of the flagellar rotary motor between the two rotational states, clockwise (CW) and counterclockwise (CCW). The molecular mechanism for switching remains unknown, but binding of the response regulator CheY-P to the motor component FliM enhances CW rotation. This effect is mimicked by the unphosphorylated double mutant CheY13DK106YW (CheY**). To learn more about switching, we measured the fraction of time that a motor spends in the CW state (the CW bias) at different concentrations of CheY** and at different temperatures. From the CW bias, we computed the standard free energy change of switching. In the absence of CheY, this free energy change is a linear function of temperature (. Biophys. J. 71:2227-2233). In the presence of CheY**, it is nonlinear. However, the data can be fit by models in which binding of each molecule of CheY** shifts the difference in free energy between CW and CCW states by a fixed amount. The shift increases linearly from approximately 0.3kT per molecule at 5 degrees C to approximately 0.9kT at 25 degrees C, where k is Boltzmann's constant and T is 289 Kelvin (= 16 degrees C). The entropy and enthalpy contributions to this shift are about -0. 031kT/ degrees C and 0.10kT, respectively.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Turner</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samuel</LastName>
+                    <ForeName>A D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stern</LastName>
+                    <ForeName>A S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>H C</ForeName>
+                    <Initials>HC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Biophys J</MedlineTA>
+            <NlmUniqueID>0370626</NlmUniqueID>
+            <ISSNLinking>0006-3495</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>methyl-accepting chemotaxis proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>134548-59-7</RegistryNumber>
+                <NameOfSubstance>FliM protein, Bacteria</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1999 Jan;7(1):16-22</RefSource>
+                <PMID Version="1">10068993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Aug 3;17(15):4238-48</RefSource>
+                <PMID Version="1">9687492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Jun 1;89(11):4801-5</RefSource>
+                <PMID Version="1">1594581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1990 Mar 20;212(2):377-87</RefSource>
+                <PMID Version="1">2181149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1976 Jan 27;15(2):317-20</RefSource>
+                <PMID Version="1">2283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Nov;86(22):8703-7</RefSource>
+                <PMID Version="1">2682657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Apr 8;53(1):89-96</RefSource>
+                <PMID Version="1">2832069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1988 Mar 15;151(2):891-6</RefSource>
+                <PMID Version="1">3279958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Apr 8;53(1):79-87</RefSource>
+                <PMID Version="1">3280143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 Nov;84(21):7609-13</RefSource>
+                <PMID Version="1">3313398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1987 May;169(5):1878-85</RefSource>
+                <PMID Version="1">3553150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1979 Aug 25;254(16):7736-40</RefSource>
+                <PMID Version="1">468783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1983 Jun 10;258(11):6709-12</RefSource>
+                <PMID Version="1">6222047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1983 Apr;154(1):312-23</RefSource>
+                <PMID Version="1">6339475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1984 Apr;158(1):222-30</RefSource>
+                <PMID Version="1">6370958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Microbiol. 1984 Nov;130(11):2915-20</RefSource>
+                <PMID Version="1">6396378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1994 Aug 30;33(34):10470-6</RefSource>
+                <PMID Version="1">8068685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1993 Nov;65(5):2201-16</RefSource>
+                <PMID Version="1">8298044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Oct 1;90(19):8787-91</RefSource>
+                <PMID Version="1">8415608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 1995;49:489-522</RefSource>
+                <PMID Version="1">8561469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1996 Oct;71(4):2227-33</RefSource>
+                <PMID Version="1">8889199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Jan 6;95(1):201-6</RefSource>
+                <PMID Version="1">9419353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 1997;13:457-512</RefSource>
+                <PMID Version="1">9442881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Jun 18;8(13):R444-6</RefSource>
+                <PMID Version="1">9651669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1998 Jul 31;280(5):821-8</RefSource>
+                <PMID Version="1">9671552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1998 Aug;180(15):3757-64</RefSource>
+                <PMID Version="1">9683468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1965 May;12:88-118</RefSource>
+                <PMID Version="1">14343300</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allosteric Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flagella</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1300356</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10388784</ArticleId>
+            <ArticleId IdType="pmc">PMC1300356</ArticleId>
+            <ArticleId IdType="pii">S0006-3495(99)76916-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0006-3495(99)76916-X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

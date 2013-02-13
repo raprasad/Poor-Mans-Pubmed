@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17124867</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>04</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0065-258X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>75</Volume>
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in enzymology and related areas of molecular biology</Title>
+                <ISOAbbreviation>Adv. Enzymol. Relat. Areas Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A structure-centric view of protein evolution, design, and adaptation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>133-91, xi-xii</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Proteins, by virtue of their central role in most biological processes, represent one of the key subjects of the study of molecular evolution. Inherent in the indispensability of proteins for living cells is the fact that a given protein can adopt a specific three-dimensional shape that is specified solely by the protein's sequence of amino acids. Over the past several decades, structural biologists have demonstrated that the array of structures that proteins may adopt is quite astounding, and this has lead to a strong interest in understanding how protein structures change and evolve over time. In this review we consider a large body of recent work that attempts to illuminate this structure-centric picture of protein evolution. Much of this work has focused on the question of how completely new protein structures (i.e., new folds or topologies) are discovered by protein sequences as they evolve. Pursuant to this question of structural innovation has been a desire to describe and understand the observation that certain types of protein structures are far more abundant than others and how this uneven distribution of proteins implicates on the process through which new shapes are discovered. We consider a number of theoretical models that have been successful at explaining this heterogeneity in protein populations and discuss the increasing amount of evidence that indicates that the process of structural evolution involves the divergence of protein sequences and structures from one another. We also consider the topic of protein designability, which concerns itself with understanding how a protein's structure influences the number of sequences that can fold successfully into that structure. Understanding and quantifying the relationship between the physical feature of a structure and its designability has been a long-standing goal of the study of protein structure and evolution, and we discuss a number of recent advances that have yielded a promising answer to this question. Finally, we review the relatively new field of protein structural phylogeny, an area of study in which information about the distribution of protein structures among different organisms is used to reconstruct the evolutionary relationships between them. Taken together, the work that we review presents an increasingly coherent picture of how these unique polymers have evolved over the course of life on Earth.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deeds</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shakhnovich</LastName>
+                    <ForeName>Eugene I</ForeName>
+                    <Initials>EI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Adv Enzymol Relat Areas Mol Biol</MedlineTA>
+            <NlmUniqueID>0337243</NlmUniqueID>
+            <ISSNLinking>0065-258X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Adaptation, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>120</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17124867</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16166156</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0022-3751</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>569</Volume>
+                    <Issue>Pt 2</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of physiology</Title>
+                <ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contrasting short-term plasticity at two sides of the mitral-granule reciprocal synapse in the mammalian olfactory bulb.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>475-88</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mitral-granule reciprocal synapse shapes the response of the olfactory bulb to odour stimuli by mediating lateral and reciprocal inhibition. We investigated the short-term plasticity of both the mitral-to-granule excitatory synapse and the granule-to-mitral inhibitory synapse in rat olfactory bulb slices, using whole-cell patch clamp recordings. The granule-to-mitral inhibitory synapse invariably exhibited paired-pulse depression at interstimulus intervals of less than a second, while the mitral-to-granule excitatory synapse showed heterogeneous responses, which on average yielded a moderate facilitation. Trains of stimuli led to a much greater depression at the granule-to-mitral synapse than at the mitral-to-granule synapse. Since mitral cells commonly respond to odours by burst firing with each inhalation cycle, we used bursts of stimuli to study recovery from depression. We found that recovery from depression induced by fast trains of stimuli was more rapid at the mitral-to-granule synapse than at the granule-to-mitral synapse. In addition, depression was enhanced by higher calcium concentrations, suggesting at least partial contribution of presynaptic mechanisms to short-term depression. The observed short-term plasticity could enable mitral cells to overcome autoinhibition and increase action potential propagation along lateral dendrites by burst firing.</AbstractText>
+            </Abstract>
+            <Affiliation>Graduate Program in Neuroscience, Harvard Medical School, Boston, MA, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dietz</LastName>
+                    <ForeName>Shelby B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murthy</LastName>
+                    <ForeName>Venkatesh N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Physiol</MedlineTA>
+            <NlmUniqueID>0266262</NlmUniqueID>
+            <ISSNLinking>0022-3751</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>56-12-2</RegistryNumber>
+                <NameOfSubstance>gamma-Aminobutyric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-70-2</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1997 Oct 15;17(20):7926-40</RefSource>
+                <PMID Version="1">9315911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1997 Jan 16;745(1-2):189-96</RefSource>
+                <PMID Version="1">9037409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Apr;20(4):749-61</RefSource>
+                <PMID Version="1">9581766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jul 23;394(6691):384-8</RefSource>
+                <PMID Version="1">9690475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1998 Aug 15;18(16):6147-62</RefSource>
+                <PMID Version="1">9698309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1998 Sep 1;18(17):6790-802</RefSource>
+                <PMID Version="1">9712650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1998 Aug;21(2):415-24</RefSource>
+                <PMID Version="1">9728922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Mar 30;96(7):4107-12</RefSource>
+                <PMID Version="1">10097171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1999 Oct;82(4):1786-92</RefSource>
+                <PMID Version="1">10515968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Oct 22;286(5440):711-5</RefSource>
+                <PMID Version="1">10531048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Oct 22;286(5440):723-8</RefSource>
+                <PMID Version="1">10531051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 1999 Dec;2(12):1106-13</RefSource>
+                <PMID Version="1">10570488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2000 Feb 15;20(4):1374-85</RefSource>
+                <PMID Version="1">10662828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2000 Mar;25(3):625-33</RefSource>
+                <PMID Version="1">10774730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2000 May;83(5):3031-41</RefSource>
+                <PMID Version="1">10805698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2000 Jul 1;20(13):5124-34</RefSource>
+                <PMID Version="1">10864969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2000 Jul;84(1):39-50</RefSource>
+                <PMID Version="1">10899181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2000 Dec;3(12):1256-65</RefSource>
+                <PMID Version="1">11100146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2000 Dec;84(6):3036-42</RefSource>
+                <PMID Version="1">11110830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):319-24</RefSource>
+                <PMID Version="1">11120888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):337-42</RefSource>
+                <PMID Version="1">11120892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2001 Dec 20;32(6):1165-79</RefSource>
+                <PMID Version="1">11754845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Physiol. 2002;64:355-405</RefSource>
+                <PMID Version="1">11826273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2002 Mar 28;34(1):115-26</RefSource>
+                <PMID Version="1">11931746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2002 Jul;88(1):64-85</RefSource>
+                <PMID Version="1">12091533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2002 Jul 15;542(Pt 2):355-67</RefSource>
+                <PMID Version="1">12122137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Jan 2;421(6918):66-70</RefSource>
+                <PMID Version="1">12511955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Mar 15;23(6):2032-9</RefSource>
+                <PMID Version="1">12657661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2003 May;6(5):507-18</RefSource>
+                <PMID Version="1">12704391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2003 Aug;90(2):644-54</RefSource>
+                <PMID Version="1">12711716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 May 15;23(10):4108-16</RefSource>
+                <PMID Version="1">12764098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Aug 20;23(20):7551-8</RefSource>
+                <PMID Version="1">12930793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Neurosci. 2003 Sep;26(9):501-6</RefSource>
+                <PMID Version="1">12948662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Dec 11;426(6967):623-9</RefSource>
+                <PMID Version="1">14668854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2004 Jan;84(1):69-85</RefSource>
+                <PMID Version="1">14715911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1992 Dec;68(6):1986-2002</RefSource>
+                <PMID Version="1">1491253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2005 Mar;8(3):354-64</RefSource>
+                <PMID Version="1">15696160</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 1975 Feb;245(1):13-32</RefSource>
+                <PMID Version="1">165284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1989 Sep;62(3):609-25</RefSource>
+                <PMID Version="1">2549211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1986 Sep;56(3):572-97</RefSource>
+                <PMID Version="1">3537224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1970 Jul;7(1):91-123</RefSource>
+                <PMID Version="1">5476864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 1970 Mar;206(3):629-44</RefSource>
+                <PMID Version="1">5498509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1969 Jun;14(1):157-72</RefSource>
+                <PMID Version="1">5783107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Neurol. 1966 Jan;14(1):44-56</RefSource>
+                <PMID Version="1">5900523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 1982 May;326:213-34</RefSource>
+                <PMID Version="1">7108788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 Apr 11;92(8):3371-5</RefSource>
+                <PMID Version="1">7724568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Jan;72 Suppl:139-49</RefSource>
+                <PMID Version="1">8428375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurobiol. 1996 May;30(1):123-76</RefSource>
+                <PMID Version="1">8727988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Aug 29;382(6594):807-10</RefSource>
+                <PMID Version="1">8752273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Jan 10;275(5297):220-4</RefSource>
+                <PMID Version="1">8985017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Jan 21;94(2):719-23</RefSource>
+                <PMID Version="1">9012851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Nov 6;390(6655):70-4</RefSource>
+                <PMID Version="1">9363891</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Action Potentials</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendrites</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuronal Plasticity</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Odors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Olfactory Bulb</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patch-Clamp Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synapses</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">gamma-Aminobutyric Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1464232</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jphysiol.2005.095844</ArticleId>
+            <ArticleId IdType="doi">10.1113/jphysiol.2005.095844</ArticleId>
+            <ArticleId IdType="pubmed">16166156</ArticleId>
+            <ArticleId IdType="pmc">PMC1464232</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

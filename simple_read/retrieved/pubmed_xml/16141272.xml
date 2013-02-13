@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16141272</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0022-3751</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>569</Volume>
+                    <Issue>Pt 1</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Nov</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of physiology</Title>
+                <ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Real-time imaging of Rab3a and Rab5a reveals differential roles in presynaptic function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103-17</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We investigated the roles of two Rab-family proteins, Rab3a and Rab5a, in hippocampal synaptic transmission using real-time fluorescence imaging. During synaptic activity, Rab3a dissociated from synaptic vesicles and dispersed into neighbouring axonal regions. Dispersion required calcium-dependent exocytosis and was complete before the entire vesicle pool turned over. In contrast, even prolonged synaptic activity produced limited dispersion of Rab5a. A GTPase-deficient mutant, Rab3a (Q81L), dispersed more slowly than wild-type Rab3a, and decreased the rate of exocytosis and the size of the recycling pool of vesicles. While overexpression of Rab3a did not affect vesicle recycling, overexpression of Rab5a reduced the recycling pool size by 50%. We propose that while Rab3a preferentially associates with recycling synaptic vesicles and modulates their trafficking, Rab5a is largely excluded from recycling vesicles.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Star</LastName>
+                    <ForeName>Erin N</ForeName>
+                    <Initials>EN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newton</LastName>
+                    <ForeName>A Jamila</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murthy</LastName>
+                    <ForeName>Venkatesh N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>09</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Physiol</MedlineTA>
+            <NlmUniqueID>0266262</NlmUniqueID>
+            <ISSNLinking>0022-3751</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>rab3A GTP-Binding Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>rab5 GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2000 Nov;28(2):317-20</RefSource>
+                <PMID Version="1">11144340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2000 Oct;28(1):221-31</RefSource>
+                <PMID Version="1">11086996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2001 Apr;4(4):391-5</RefSource>
+                <PMID Version="1">11276229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2001 Aug 30;31(4):593-605</RefSource>
+                <PMID Version="1">11545718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2001 Oct;12(10):3095-102</RefSource>
+                <PMID Version="1">11598194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Neurosci. 2001 Nov;24(11):637-43</RefSource>
+                <PMID Version="1">11672807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Oct 23;98(22):12748-53</RefSource>
+                <PMID Version="1">11675506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2001 Dec;4(12):1187-93</RefSource>
+                <PMID Version="1">11685225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Dec;114(Pt 24):4499-508</RefSource>
+                <PMID Version="1">11792815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2002 Mar 1;22(5):1608-17</RefSource>
+                <PMID Version="1">11880491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Oct 25;277(43):40919-29</RefSource>
+                <PMID Version="1">12167638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2002 Oct;32(2):290-5</RefSource>
+                <PMID Version="1">12244319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 May 12;161(3):609-24</RefSource>
+                <PMID Version="1">12743108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Jun 5;423(6940):607-13</RefSource>
+                <PMID Version="1">12789331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Sep 1;116(Pt 17):3583-90</RefSource>
+                <PMID Version="1">12876219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2003 Jul 31;39(3):529-41</RefSource>
+                <PMID Version="1">12895425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Sep;118(6):1379-88</RefSource>
+                <PMID Version="1">1325974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Nov 15;267(32):22715-8</RefSource>
+                <PMID Version="1">1331063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2003;26:701-28</RefSource>
+                <PMID Version="1">14527272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2004 Mar 1;555(Pt 2):439-57</RefSource>
+                <PMID Version="1">14694148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 Feb 18;24(7):1680-8</RefSource>
+                <PMID Version="1">14973236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Mar 16;101(11):3833-8</RefSource>
+                <PMID Version="1">15007177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2004 Apr 15;117(Pt 10):2001-13</RefSource>
+                <PMID Version="1">15039456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Mar 26;303(5666):2037-9</RefSource>
+                <PMID Version="1">15044806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2004 Apr;19(7):1895-905</RefSource>
+                <PMID Version="1">15078563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 May 19;24(20):4884-8</RefSource>
+                <PMID Version="1">15152049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Neurobiol. 2004 Jun;14(3):341-5</RefSource>
+                <PMID Version="1">15194114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2004;27:509-47</RefSource>
+                <PMID Version="1">15217342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 Jul 21;24(29):6629-37</RefSource>
+                <PMID Version="1">15269275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2005 Jan;6(1):57-69</RefSource>
+                <PMID Version="1">15611727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2005 Jan 6;45(1):81-94</RefSource>
+                <PMID Version="1">15629704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Apr 26;102(17):6131-6</RefSource>
+                <PMID Version="1">15837917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Jan 3;349(6304):79-81</RefSource>
+                <PMID Version="1">1845915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Jul 15;88(14):6196-200</RefSource>
+                <PMID Version="1">1906176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1994 Dec;65(2):319-26</RefSource>
+                <PMID Version="1">7720727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1995 May;14(5):983-9</RefSource>
+                <PMID Version="1">7748565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Mar 10;270(10):5048-56</RefSource>
+                <PMID Version="1">7890612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1994 Oct;13(4):885-98</RefSource>
+                <PMID Version="1">7946335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1994 Jul;13(1):11-22</RefSource>
+                <PMID Version="1">8043272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 May 24;91(11):5061-5</RefSource>
+                <PMID Version="1">8197185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 May 5;268(13):9410-5</RefSource>
+                <PMID Version="1">8387493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 Feb 19;259(5098):1169-72</RefSource>
+                <PMID Version="1">8438167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Apr 15;15(8):1799-809</RefSource>
+                <PMID Version="1">8617225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1996 Jun;16(6):1197-207</RefSource>
+                <PMID Version="1">8663996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1997 Apr;18(4):599-612</RefSource>
+                <PMID Version="1">9136769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Jun 19;387(6635):810-4</RefSource>
+                <PMID Version="1">9194562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Aug 7;388(6642):590-3</RefSource>
+                <PMID Version="1">9252190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Aug 7;388(6642):593-8</RefSource>
+                <PMID Version="1">9252191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Sep 19;90(6):1149-59</RefSource>
+                <PMID Version="1">9323142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1997 Nov 1;17(21):8061-73</RefSource>
+                <PMID Version="1">9334382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1998 May 1;18(9):3147-57</RefSource>
+                <PMID Version="1">9547223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jun 18;274(25):18113-20</RefSource>
+                <PMID Version="1">10364266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 1999 Jun;2(6):503-7</RefSource>
+                <PMID Version="1">10448213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 1999 Oct 1;520 Pt 1:33-41</RefSource>
+                <PMID Version="1">10517798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2000 Apr;2(4):197-204</RefSource>
+                <PMID Version="1">10783237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2000 Sep;27(3):551-9</RefSource>
+                <PMID Version="1">11055437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Feb;2(2):107-17</RefSource>
+                <PMID Version="1">11252952</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Action Potentials</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computer Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electric Stimulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hippocampus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Presynaptic Terminals</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab3A GTP-Binding Protein</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab5 GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1464220</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jphysiol.2005.092528</ArticleId>
+            <ArticleId IdType="doi">10.1113/jphysiol.2005.092528</ArticleId>
+            <ArticleId IdType="pubmed">16141272</ArticleId>
+            <ArticleId IdType="pmc">PMC1464220</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

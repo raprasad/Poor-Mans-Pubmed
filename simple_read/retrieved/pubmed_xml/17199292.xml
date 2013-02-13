@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">17199292</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>04</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>129</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jan</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Catalyst-assisted solution-liquid-solid synthesis of CdS/CdSe nanorod heterostructures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>133-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We report the synthesis and characterization of axial nanorod heterostructures composed of cadmium selenide (CdSe) and cadmium sulfide (CdS). The synthesis employs a solution-liquid-solid (SLS) mechanism with the assistance of bismuth nanocrystals adhered to a substrate (silicon or a III-V semiconductor). Transmission electron microscopy (TEM) and diffraction studies show that CdSe and CdS segments exhibit the wurtzite (hexagonal) crystal structure with &lt;5% stacking faults. Both of these segments grow along the [002] direction with an epitaxial interface between them. Energy-dispersive X-ray (EDX) spectrometry using a high-resolution TEM operating in scanning mode confirms the alloy-free composition modulation in the nanorod heterostructures, showing that Se and S are localized in the CdSe and CdS portions of the nanorod heterostructures, respectively. This study demonstrates that SLS synthesis provides an alternate route to prepare axial nanorod heterostructures that have been difficult to generate using either vapor-liquid-solid growth or catalyst-free solution-phase synthesis.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ouyang</LastName>
+                    <ForeName>Lian</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maher</LastName>
+                    <ForeName>Kristin N</ForeName>
+                    <Initials>KN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Chun Liang</ForeName>
+                    <Initials>CL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCarty</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Hongkun</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja066243u</ArticleId>
+            <ArticleId IdType="pubmed">17199292</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">22969706</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1662-5110</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in neural circuits</Title>
+                <ISOAbbreviation>Front Neural Circuits</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Direction selectivity in the larval zebrafish tectum is mediated by asymmetric inhibition.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fncir.2012.00059</ELocationID>
+            <Abstract>
+                <AbstractText>The extraction of the direction of motion is an important computation performed by many sensory systems and in particular, the mechanism by which direction-selective retinal ganglion cells (DS-RGCs) in the retina acquire their selective properties, has been studied extensively. However, whether DS-RGCs simply relay this information to downstream areas or whether additional and potentially de novo processing occurs in these recipient structures is a matter of great interest. Neurons in the larval zebrafish tectum, the largest retino-recipent area in this animal, show direction-selective (DS) responses to moving visual stimuli but how these properties are acquired is still unknown. In order to study this, we first used two-photon calcium imaging to classify the population responses of tectal cells to bars moving at different speeds and in different directions. Subsequently, we performed in vivo whole cell electrophysiology on these DS tectal neurons and we found that their inhibitory inputs were strongly biased toward the null direction of motion, whereas the excitatory inputs showed little selectivity. In addition, we found that excitatory currents evoked by a stimulus moving in the preferred direction occurred before the inhibitory currents whereas a stimulus moving in the null direction evoked currents in the reverse temporal order. The membrane potential modulations resulting from these currents were enhanced by the spike generation mechanism to generate amplified direction selectivity in the spike output. Thus, our results implicate a local inhibitory circuit in generating direction selectivity in tectal neurons.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University Cambridge, MA, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Grama</LastName>
+                    <ForeName>Abhinav</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Engert</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Neural Circuits</MedlineTA>
+            <NlmUniqueID>101477940</NlmUniqueID>
+            <ISSNLinking>1662-5110</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2010 Feb 3;30(5):1861-8</RefSource>
+                <PMID Version="1">20130195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2009 May 14;62(3):327-34</RefSource>
+                <PMID Version="1">19447089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Apr 29;464(7293):1307-12</RefSource>
+                <PMID Version="1">20428163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2010 Nov;104(5):2615-23</RefSource>
+                <PMID Version="1">20739595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Jan 20;469(7330):402-6</RefSource>
+                <PMID Version="1">21131947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2010 Dec 8;30(49):16573-84</RefSource>
+                <PMID Version="1">21147997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Mar 10;471(7337):183-8</RefSource>
+                <PMID Version="1">21390125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2011 Sep 22;71(6):974-94</RefSource>
+                <PMID Version="1">21943597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2012 Mar 8;73(5):1016-27</RefSource>
+                <PMID Version="1">22405210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Syst Neurosci. 2011;5:101</RefSource>
+                <PMID Version="1">22203793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Neurol. 1971 Dec;33(3):629-52</RefSource>
+                <PMID Version="1">5132203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1969 Jan;32(1):16-23</RefSource>
+                <PMID Version="1">5765228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1983 May;49(5):1127-47</RefSource>
+                <PMID Version="1">6864242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 3;419(6906):470-5</RefSource>
+                <PMID Version="1">12368854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2005 Jun;1048:198-205</RefSource>
+                <PMID Version="1">16154933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2009 Dec;102(6):3392-404</RefSource>
+                <PMID Version="1">19793878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Neural Circuits. 2009;3:13</RefSource>
+                <PMID Version="1">19862330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2010 Jul;104(1):449-62</RefSource>
+                <PMID Version="1">20445028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2011 Apr 6;31(14):5460-9</RefSource>
+                <PMID Version="1">21471382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1976 Dec 17;118(2):334-8</RefSource>
+                <PMID Version="1">1000298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Motil Cytoskeleton. 1986;6(3):256-72</RefSource>
+                <PMID Version="1">2427226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Physiol A. 1987 Sep;161(4):533-47</RefSource>
+                <PMID Version="1">3681769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 1965 Jun;178(3):477-504</RefSource>
+                <PMID Version="1">5827909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2001 Mar;128(3):417-61</RefSource>
+                <PMID Version="1">11246037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Nov 28;420(6914):411-4</RefSource>
+                <PMID Version="1">12459782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Jul 10;424(6945):201-5</RefSource>
+                <PMID Version="1">12853959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2005 Feb 1;562(Pt 3):915-23</RefSource>
+                <PMID Version="1">15564281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2005 Jan 6;45(1):133-45</RefSource>
+                <PMID Version="1">15629708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2005 Mar 24;45(6):941-51</RefSource>
+                <PMID Version="1">15797554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2005 Nov;94(5):3573-89</RefSource>
+                <PMID Version="1">16079191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2005 Oct;8(10):1364-70</RefSource>
+                <PMID Version="1">16158064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2005 Oct 5;25(40):9294-303</RefSource>
+                <PMID Version="1">16207889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2006 Mar 15;26(11):2941-50</RefSource>
+                <PMID Version="1">16540571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2007 Jan 4;53(1):65-77</RefSource>
+                <PMID Version="1">17196531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2008 Feb 28;57(4):482-97</RefSource>
+                <PMID Version="1">18304479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2008 Mar 11;18(5):368-74</RefSource>
+                <PMID Version="1">18328703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Mar 27;452(7186):478-82</RefSource>
+                <PMID Version="1">18368118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2008 Sep;11(9):1083-90</RefSource>
+                <PMID Version="1">19160507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hear Res. 2009 Dec;258(1-2):4-15</RefSource>
+                <PMID Version="1">19345256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2010 Apr;13(4):513-20</RefSource>
+                <PMID Version="1">20305645</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC3432856</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2012.00059</ArticleId>
+            <ArticleId IdType="pubmed">22969706</ArticleId>
+            <ArticleId IdType="pmc">PMC3432856</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

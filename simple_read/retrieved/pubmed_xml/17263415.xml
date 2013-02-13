@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17263415</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>129</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Feb</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dependence of effective molarity on linker length for an intramolecular protein-ligand system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1312-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This paper reports dissociation constants and &quot;effective molarities&quot; (M(eff)) for the intramolecular binding of a ligand covalently attached to the surface of a protein by oligo(ethylene glycol) (EG(n)) linkers of different lengths (n = 0, 2, 5, 10, and 20) and compares these experimental values with theoretical estimates from polymer theory. As expected, the value of M(eff) is lowest when the linker is too short (n = 0) to allow the ligand to bind noncovalently at the active site of the protein without strain, is highest when the linker is the optimal length (n = 2) to allow such binding to occur, and decreases monotonically as the length increases past this optimal value (but only by a factor of approximately 8 from n = 2 to n = 20). These experimental results are not compatible with a model in which the single bonds of the linker are completely restricted when the ligand has bound noncovalently to the active site of the protein, but they are quantitatively compatible with a model that treats the linker as a random-coil polymer. Calorimetry revealed that enthalpic interactions between the linker and the protein are not important in determining the thermodynamics of the system. Taken together, these results suggest that the manifestation of the linker in the thermodynamics of binding is exclusively entropic. The values of M(eff) are, theoretically, intrinsic properties of the EG(n) linkers and can be used to predict the avidities of multivalent ligands with these linkers for multivalent proteins. The weak dependence of M(eff) on linker length suggests that multivalent ligands containing flexible linkers that are longer than the spacing between the binding sites of a multivalent protein will be effective in binding, and that the use of flexible linkers with lengths somewhat greater than the optimal distance between binding sites is a justifiable strategy for the design of multivalent ligands.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Krishnamurthy</LastName>
+                    <ForeName>Vijay M</ForeName>
+                    <Initials>VM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Semetey</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bracher</LastName>
+                    <ForeName>Paul J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Nan</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whitesides</LastName>
+                    <ForeName>George M</ForeName>
+                    <Initials>GM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM30367</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM030367-25</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Sulfonamides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98-10-2</RegistryNumber>
+                <NameOfSubstance>benzenesulfonamide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.2.1.-</RegistryNumber>
+                <NameOfSubstance>Carbonic Anhydrase II</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 2000 Apr;9(4):776-85</RefSource>
+                <PMID Version="1">10794421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Oct 15;395(6703):710-3</RefSource>
+                <PMID Version="1">9790193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2001 Dec 26;123(51):12909-10</RefSource>
+                <PMID Version="1">11749553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1964 Apr 6;85:141-51</RefSource>
+                <PMID Version="1">14159292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2004;33:199-223</RefSource>
+                <PMID Version="1">15139811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2004 Jun 2;126(21):6627-36</RefSource>
+                <PMID Version="1">15161290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2004 Aug;8(4):399-406</RefSource>
+                <PMID Version="1">15288250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2006 May 3;128(17):5802-12</RefSource>
+                <PMID Version="1">16637649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1977 May 17;16(10):2241-7</RefSource>
+                <PMID Version="1">16641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Sep 15;266(26):17320-5</RefSource>
+                <PMID Version="1">1910042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1977 Dec;74(12):5463-7</RefSource>
+                <PMID Version="1">271968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1967 Dec 25;242(24):5813-23</RefSource>
+                <PMID Version="1">4990698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1971 Aug;68(8):1678-83</RefSource>
+                <PMID Version="1">5288752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc R Soc Lond B Biol Sci. 1976 Apr 13;193(1111):107-25</RefSource>
+                <PMID Version="1">5728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1983 May 10;258(9):5710-5</RefSource>
+                <PMID Version="1">6853541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1978 Sep 1;173(3):723-37</RefSource>
+                <PMID Version="1">708370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 1995 Jun 23;38(13):2286-91</RefSource>
+                <PMID Version="1">7608893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 1995 Jun 23;38(13):2292-301</RefSource>
+                <PMID Version="1">7608894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 1994 Jun 24;37(13):2100-5</RefSource>
+                <PMID Version="1">8027991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1993 Jan 12;32(1):224-31</RefSource>
+                <PMID Version="1">8418842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Jan 15;268(2):948-54</RefSource>
+                <PMID Version="1">8419374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1998 Mar;19(3):367-82</RefSource>
+                <PMID Version="1">9551788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Aug 15;97(17):9367-72</RefSource>
+                <PMID Version="1">10944209</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calorimetry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carbonic Anhydrase II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polyethylene Glycols</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sulfonamides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS61837</OtherID>
+        <OtherID Source="NLM">PMC2535942</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja066780e</ArticleId>
+            <ArticleId IdType="pubmed">17263415</ArticleId>
+            <ArticleId IdType="pmc">PMC2535942</ArticleId>
+            <ArticleId IdType="mid">NIHMS61837</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

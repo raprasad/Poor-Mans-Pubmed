@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12820173</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1526-954X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>36</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genesis (New York, N.Y. : 2000)</Title>
+                <ISOAbbreviation>Genesis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Expression of laminin chains by central neurons: analysis with gene and protein trapping techniques.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>114-27</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Laminins exert numerous effects on neurons in vitro, but expression of laminin subunit genes by neurons in vivo remains controversial. To reexamine this issue, we generated mice from ES cells in which the laminin alpha1, alpha5, beta1, and gamma1 genes had been &quot;trapped&quot; by insertion of a histochemically detectable selectable marker, betageo (beta-galactosidase fused to neomycin phosphotransferase). The presence of laminin-betageo fusion proteins was assayed histochemically and immunochemically, revealing expression of laminin beta1 and gamma1 genes, but not alpha chain genes, by defined subsets of neurons in brain and retina. We also used the gene traps in a novel way to assay expression of endogenous laminin subunits, which were barely detectable by ordinary immunohistochemical methods. The trapping vector included a transmembrane domain that anchors proteins otherwise destined for secretion. Laminin alpha/beta/gamma heterotrimers are assembled intracellularly, and we show that the trapped laminin gamma1 fusion protein &quot;co-trapped&quot; endogenous beta1 intracellularly. The laminin gamma1 fusion was also able to co-trap transgene-derived alpha chains, but we detected no co-trapped endogenous alpha chains. The co-trapping method may be generally useful for identifying proteins or isolating protein complexes associated with trapped gene products.</AbstractText>
+                <CopyrightInformation>Copyright 2003 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <Affiliation>Department of Anatomy and Neurobiology, Washington University School of Medicine, 660 S. Euclid Avenue, St. Louis, MO 63110, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yin</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikkawa</LastName>
+                    <ForeName>Yamato</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mudd</LastName>
+                    <ForeName>Jacqueline L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skarnes</LastName>
+                    <ForeName>William C</ForeName>
+                    <Initials>WC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanes</LastName>
+                    <ForeName>Joshua R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miner</LastName>
+                    <ForeName>Jeffrey H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genesis</MedlineTA>
+            <NlmUniqueID>100931242</NlmUniqueID>
+            <ISSNLinking>1526-954X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Laminin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Primers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Laminin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Precipitin Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12820173</ArticleId>
+            <ArticleId IdType="doi">10.1002/gene.10206</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

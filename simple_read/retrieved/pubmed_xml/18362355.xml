@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18362355</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>105</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Apr</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extreme resistance of bdelloid rotifers to ionizing radiation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5139-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Rotifers of class Bdelloidea are common invertebrate animals with highly unusual characteristics, including apparently obligate asexuality, the ability to resume reproduction after desiccation at any life stage, and a paucity of transposable genetic elements of types not prone to horizontal transmission. We find that bdelloids are also extraordinarily resistant to ionizing radiation (IR). Reproduction of the bdelloids Adineta vaga and Philodina roseola is much more resistant to IR than that of Euchlanis dilatata, a rotifer belonging to the desiccation-intolerant and facultatively sexual class Monogononta, and all other animals for which we have found relevant data. By analogy with the desiccation- and radiation-resistant bacterium Deinococcus radiodurans, we suggest that the extraordinary radiation resistance of bdelloid rotifers is a consequence of their evolutionary adaptation to survive episodes of desiccation encountered in their characteristic habitats and that the damage incurred in such episodes includes DNA breakage that is repaired upon rehydration. Such breakage and repair may have maintained bdelloid chromosomes as colinear pairs and kept the load of transposable genetic elements low and may also have contributed to the success of bdelloid rotifers in avoiding the early extinction suffered by most asexuals.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gladyshev</LastName>
+                    <ForeName>Eugene</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meselson</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol B Biochem Mol Biol. 2007 Apr;146(4):456-60</RefSource>
+                <PMID Version="1">17261378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 2006 Dec;82(12):843-8</RefSource>
+                <PMID Version="1">17178624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 May 3;447(7140):102-5</RefSource>
+                <PMID Version="1">17410126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2007;2(9):e955</RefSource>
+                <PMID Version="1">17895995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Apr 1;105(13):5145-9</RefSource>
+                <PMID Version="1">18362354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Res. 1991 May;126(2):251-9</RefSource>
+                <PMID Version="1">1850853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1982 Oct;102(2):159-78</RefSource>
+                <PMID Version="1">7152245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Gen Genet. 1976 Jan 16;143(2):119-29</RefSource>
+                <PMID Version="1">765749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1996 Feb;178(3):633-7</RefSource>
+                <PMID Version="1">8550493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1997 Nov;17(11):6765-71</RefSource>
+                <PMID Version="1">9343441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 1998 Aug;74(2):173-84</RefSource>
+                <PMID Version="1">9712547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 May 19;288(5469):1211-5</RefSource>
+                <PMID Version="1">10817991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Dec 19;97(26):14473-7</RefSource>
+                <PMID Version="1">11121049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Luminescence. 2004 Mar-Apr;19(2):78-84</RefSource>
+                <PMID Version="1">15098207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2004 Nov;36(11):2334-43</RefSource>
+                <PMID Version="1">15313477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004;32(16):e129</RefSource>
+                <PMID Version="1">15358833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Nov 5;306(5698):1025-8</RefSource>
+                <PMID Version="1">15459345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2005 Jan;27(1):76-85</RefSource>
+                <PMID Version="1">15612027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Biol. 2005 Jun;208(Pt 12):2433-45</RefSource>
+                <PMID Version="1">15939782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Aug 16;102(33):11781-6</RefSource>
+                <PMID Version="1">16081532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 2005 Sep;81(9):649-56</RefSource>
+                <PMID Version="1">16368643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2006 Feb;188(3):1199-204</RefSource>
+                <PMID Version="1">16428429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2006 Oct;174(2):817-27</RefSource>
+                <PMID Version="1">16888330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Oct 5;443(7111):569-73</RefSource>
+                <PMID Version="1">17006450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jan;35(Database issue):D332-8</RefSource>
+                <PMID Version="1">17090588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2007 Apr 1;390(1-2):136-45</RefSource>
+                <PMID Version="1">17129685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 2007 Mar;83(3):195-210</RefSource>
+                <PMID Version="1">17378528</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Behavior, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Breaks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radiation, Ionizing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rotifera</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2278216</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0800966105</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0800966105</ArticleId>
+            <ArticleId IdType="pubmed">18362355</ArticleId>
+            <ArticleId IdType="pmc">PMC2278216</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

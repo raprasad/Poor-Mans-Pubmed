@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17483479</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>22</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Telomere-associated endonuclease-deficient Penelope-like retroelements in diverse eukaryotes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9352-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The evolutionary origin of telomerases, enzymes that maintain the ends of linear chromosomes in most eukaryotes, is a subject of debate. Penelope-like elements (PLEs) are a recently described class of eukaryotic retroelements characterized by a GIY-YIG endonuclease domain and by a reverse transcriptase domain with similarity to telomerases and group II introns. Here we report that a subset of PLEs found in bdelloid rotifers, basidiomycete fungi, stramenopiles, and plants, representing four different eukaryotic kingdoms, lack the endonuclease domain and are located at telomeres. The 5' truncated ends of these elements are telomere-oriented and typically capped by species-specific telomeric repeats. Most of them also carry several shorter stretches of telomeric repeats at or near their 3' ends, which could facilitate utilization of the telomeric G-rich 3' overhangs to prime reverse transcription. Many of these telomere-associated PLEs occupy a basal phylogenetic position close to the point of divergence from the telomerase-PLE common ancestor and may descend from the missing link between early eukaryotic retroelements and present-day telomerases.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gladyshev</LastName>
+                    <ForeName>Eugene A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arkhipova</LastName>
+                    <ForeName>Irina R</ForeName>
+                    <Initials>IR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>EF484951</AccessionNumber>
+                        <AccessionNumber>EF484952</AccessionNumber>
+                        <AccessionNumber>EF484953</AccessionNumber>
+                        <AccessionNumber>EF484954</AccessionNumber>
+                        <AccessionNumber>EF484955</AccessionNumber>
+                        <AccessionNumber>EF484956</AccessionNumber>
+                        <AccessionNumber>EF484957</AccessionNumber>
+                        <AccessionNumber>EF484958</AccessionNumber>
+                        <AccessionNumber>EF484959</AccessionNumber>
+                        <AccessionNumber>EF484960</AccessionNumber>
+                        <AccessionNumber>EF484961</AccessionNumber>
+                        <AccessionNumber>EF484962</AccessionNumber>
+                        <AccessionNumber>EF484963</AccessionNumber>
+                        <AccessionNumber>EF484964</AccessionNumber>
+                        <AccessionNumber>EF484965</AccessionNumber>
+                        <AccessionNumber>EF484966</AccessionNumber>
+                        <AccessionNumber>EF484967</AccessionNumber>
+                        <AccessionNumber>EF484968</AccessionNumber>
+                        <AccessionNumber>EF484969</AccessionNumber>
+                        <AccessionNumber>EF484970</AccessionNumber>
+                        <AccessionNumber>EF484971</AccessionNumber>
+                        <AccessionNumber>EF484972</AccessionNumber>
+                        <AccessionNumber>EF484973</AccessionNumber>
+                        <AccessionNumber>EF484974</AccessionNumber>
+                        <AccessionNumber>EF484975</AccessionNumber>
+                        <AccessionNumber>EF484976</AccessionNumber>
+                        <AccessionNumber>EF484977</AccessionNumber>
+                        <AccessionNumber>EF484978</AccessionNumber>
+                        <AccessionNumber>EF484979</AccessionNumber>
+                        <AccessionNumber>EF484980</AccessionNumber>
+                        <AccessionNumber>EF484981</AccessionNumber>
+                        <AccessionNumber>EF484982</AccessionNumber>
+                        <AccessionNumber>EF484983</AccessionNumber>
+                        <AccessionNumber>EF484984</AccessionNumber>
+                        <AccessionNumber>EF484985</AccessionNumber>
+                        <AccessionNumber>EF484986</AccessionNumber>
+                        <AccessionNumber>EF484987</AccessionNumber>
+                        <AccessionNumber>EF484988</AccessionNumber>
+                        <AccessionNumber>EF484989</AccessionNumber>
+                        <AccessionNumber>EF484990</AccessionNumber>
+                        <AccessionNumber>EF484991</AccessionNumber>
+                        <AccessionNumber>EF484992</AccessionNumber>
+                        <AccessionNumber>EF484993</AccessionNumber>
+                        <AccessionNumber>EF484994</AccessionNumber>
+                        <AccessionNumber>EF484995</AccessionNumber>
+                        <AccessionNumber>EF484996</AccessionNumber>
+                        <AccessionNumber>EF484997</AccessionNumber>
+                        <AccessionNumber>EF484998</AccessionNumber>
+                        <AccessionNumber>EF484999</AccessionNumber>
+                        <AccessionNumber>EF485000</AccessionNumber>
+                        <AccessionNumber>EF485001</AccessionNumber>
+                        <AccessionNumber>EF485002</AccessionNumber>
+                        <AccessionNumber>EF485003</AccessionNumber>
+                        <AccessionNumber>EF485004</AccessionNumber>
+                        <AccessionNumber>EF485005</AccessionNumber>
+                        <AccessionNumber>EF485006</AccessionNumber>
+                        <AccessionNumber>EF485007</AccessionNumber>
+                        <AccessionNumber>EF485008</AccessionNumber>
+                        <AccessionNumber>EF485009</AccessionNumber>
+                        <AccessionNumber>EF485010</AccessionNumber>
+                        <AccessionNumber>EF485011</AccessionNumber>
+                        <AccessionNumber>EF485012</AccessionNumber>
+                        <AccessionNumber>EF485013</AccessionNumber>
+                        <AccessionNumber>EF485014</AccessionNumber>
+                        <AccessionNumber>EF485015</AccessionNumber>
+                        <AccessionNumber>EF485016</AccessionNumber>
+                        <AccessionNumber>EF485017</AccessionNumber>
+                        <AccessionNumber>EF485018</AccessionNumber>
+                        <AccessionNumber>EF485019</AccessionNumber>
+                        <AccessionNumber>EF485020</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Retroelements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance>Endonucleases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 May 19;288(5469):1211-5</RefSource>
+                <PMID Version="1">10817991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Biol. 2000 Oct;7(10):847-50</RefSource>
+                <PMID Version="1">11017190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 2001 May;18(5):691-9</RefSource>
+                <PMID Version="1">11319253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2002 Mar;18(3):502-4</RefSource>
+                <PMID Version="1">11934758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2002 Jun;31(2):159-65</RefSource>
+                <PMID Version="1">12006980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Evol. 2002 Jul;55(1):65-73</RefSource>
+                <PMID Version="1">12165843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2003 Feb;33(2):123-4</RefSource>
+                <PMID Version="1">12524543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2003 Feb;33(2):203-7</RefSource>
+                <PMID Version="1">12539050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Jun;77(11):6376-84</RefSource>
+                <PMID Version="1">12743295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Sep 1;22(17):4555-65</RefSource>
+                <PMID Version="1">12941706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2003 Dec;23(23):8440-9</RefSource>
+                <PMID Version="1">14612390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 2004 Feb;21(2):255-65</RefSource>
+                <PMID Version="1">14660700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Feb 10;101(6):1618-21</RefSource>
+                <PMID Version="1">14747655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Mar 12;303(5664):1626-32</RefSource>
+                <PMID Version="1">15016989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2004 Jun;22(6):695-700</RefSource>
+                <PMID Version="1">15122302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Evol Biol. 2004 Jun 28;4:18</RefSource>
+                <PMID Version="1">15222900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Sep 23;431(7007):476-81</RefSource>
+                <PMID Version="1">15386016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Oct 12;101(41):14719-24</RefSource>
+                <PMID Version="1">15465912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2005 Apr 15;21(8):1695-8</RefSource>
+                <PMID Version="1">15585532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2005 May 1;21(9):2104-5</RefSource>
+                <PMID Version="1">15647292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2005 May 6;348(3):549-61</RefSource>
+                <PMID Version="1">15826653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Aug 16;102(33):11781-6</RefSource>
+                <PMID Version="1">16081532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytogenet Genome Res. 2005;110(1-4):462-7</RefSource>
+                <PMID Version="1">16093699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytogenet Genome Res. 2005;110(1-4):510-21</RefSource>
+                <PMID Version="1">16093704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chromosome Res. 2005;13(5):455-67</RefSource>
+                <PMID Version="1">16132811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 2006 Feb;23(2):254-67</RefSource>
+                <PMID Version="1">16221896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2006 Jul;13(7):655-60</RefSource>
+                <PMID Version="1">16783376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2006 Oct;16(10):1231-40</RefSource>
+                <PMID Version="1">16963706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2007 Apr 1;390(1-2):136-45</RefSource>
+                <PMID Version="1">17129685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Mar 8;446(7132):208-12</RefSource>
+                <PMID Version="1">17344853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Syst Biol. 2006 Dec;55(6):875-85</RefSource>
+                <PMID Version="1">17345670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Mar 5;283(5407):1530-4</RefSource>
+                <PMID Version="1">10066175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1980 Apr 17;284(5757):601-3</RefSource>
+                <PMID Version="1">6245369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Mar 7;88(5):647-55</RefSource>
+                <PMID Version="1">9054504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 1997 Jul;14(7):685-95</RefSource>
+                <PMID Version="1">9254330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Aug 15;277(5328):911-2</RefSource>
+                <PMID Version="1">9281073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Mar 6;92(5):587-90</RefSource>
+                <PMID Version="1">9506510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 May 29;104(22):9107-8</RefSource>
+                <PMID Version="1">17517612</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endonucleases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eukaryotic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retroelements</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Telomere</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1890498</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0702741104</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0702741104</ArticleId>
+            <ArticleId IdType="pubmed">17483479</ArticleId>
+            <ArticleId IdType="pmc">PMC1890498</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
