@@ -2,4 +2,5 @@
 fixtures/*
 last_grant/*
 .DS_Store
-.DS_Store
+/.DS_Store
+/mendeley_read/config.py
