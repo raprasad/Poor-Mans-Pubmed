@@ -611,22 +611,6 @@ Modular synthesis and preliminary biological evaluation of stereochemically dive
 Multidimensional chemical genetic analysis of diversity-oriented synthesis-derived deacetylase inhibitors using cell-based assays|12770821
 Normal Cells, but Not Cancer Cells, Survive Severe Plk1 Depletion|16507989|PMC1430287
 SMK-1/PPH-4.1-mediated silencing of the CHK-1 response to DNA damage in early C. elegans embryos|17908915
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Immune activation of NF-kappaB and JNK requires Drosophila TAK1|14519762
 Protein phosphatase 2A interacts with the 70-kDa S6 kinase and is activated by inhibition of FKBP12-rapamycinassociated protein|10200280
 Regulation of MLL1 H3K4 methyltransferase activity by its core components|16878130

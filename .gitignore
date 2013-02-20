@@ -4,3 +4,4 @@ last_grant/*
 .DS_Store
 /.DS_Store
 /mendeley_read/config.py
+pubmed_json/*_pubs
