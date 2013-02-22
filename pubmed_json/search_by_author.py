@@ -55,9 +55,10 @@ def search_by_author(author_name=" R", result_dir='losick_pubs', return_max=300)
     
     
 if __name__=='__main__':
+    search_by_author(author_name="Sanes JR", result_dir='sanes_pubs')
     #search_by_author(author_name="Engert F", result_dir='engert_pubs')
     #search_by_author(author_name="Hunter CP", result_dir='hunter_pubs')
-    search_by_author(author_name="Murray AW", result_dir='murray_pubs')
+    #search_by_author(author_name="Murray AW", result_dir='murray_pubs')
     #if len(sys.argv) == 2:
     #    search_by_author(sys.argv[1])
     #else:
